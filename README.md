@@ -1,4 +1,4 @@
-# Repositorio-LET0010
+# Repositorio-LET0010 Alonso Campos
 
 Este repositorio será utilizado para la creación de un informe, con el objetivo de analizar la relación entre la calidad de la educación y el gasto en la misma área, en los últimos 15 años en Chile.
 
