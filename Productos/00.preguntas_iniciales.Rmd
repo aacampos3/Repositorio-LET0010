@@ -16,4 +16,4 @@ knitr::opts_chunk$set(echo = TRUE)
 3. ¿Cuáles son las áreas que Chile tiene mejores puntaje?
 4. ¿Cómo son los resultados en Chile en comparación con el resto de puntaje?
 5. ¿Cuáles han sido los sectores donde Chile más ha invertido en educación?
-6. ¿ 
+6. ¿Cómo influye la inversión en la educación en la calidad de la eduación (reflejado en los puntajes PISA)? 
