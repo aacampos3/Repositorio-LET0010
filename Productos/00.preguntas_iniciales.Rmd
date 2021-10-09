@@ -1,0 +1,19 @@
+---
+title: "Preguntas iniciales"
+author: "Alonso Campos"
+date: "08-10-2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Preguntas
+
+1. ¿Cómo han variado los puntajes PISA en Chile en los últimos 20 años?
+2. ¿Cuánto invierte Chile en educación por año?
+3. ¿Cuáles son las áreas que Chile tiene mejores puntaje?
+4. ¿Cómo son los resultados en Chile en comparación con el resto de puntaje?
+5. ¿Cuáles han sido los sectores donde Chile más ha invertido en educación?
+6. ¿ 
