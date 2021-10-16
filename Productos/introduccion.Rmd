@@ -1,0 +1,13 @@
+---
+output: html_document
+---
+
+# Introducción
+
+### Alonso Campos
+
+En Chile, durante a partir del año 2006 se llevaron a cabo una serie de protestas exigiendo reformas educativas. Dichas protestas las denominaron "Revolución de los pingüinos", debido al uniforme escolar que se utiliza en el país. Entre las principales demandas de las manifestaciones se encuentran prohibir el lucro en la educación privada y que el Estado brinde educación pública, gratuita y de calidad (Fuente: BBC). Fruto de estas protestas, en el año 2011 se crea la Agencia de Calidad de la Educación.
+
+Este servicio tiene como objetivo "evaluar, informar y orientar al sistema educativo para contribuir al mejoramiento de la calidad y equidad de las oportunidades educativas de todos los estudiantes de Chile" (Fuente: Agencia de Calidad de la Educación). Destacando el primer objetivo, la evaluación, se puede mencionar que en Chile se realizan diferentes pruebas para medir los aprendizajes en diversas áreas curriculares como, por ejemplo, Compresión de Lectura, Matemática o Ciencias Naturales. Algunas de estas evaluaciones pueden ser nacionales, como el Simce, o parte de estudios internacionales como lo son las pruebas PISA, PIRLS, TIMSS, ERCE, en otras.
+
+En este informe se investigará la relación entre los resultados de las pruebas internacionales PISA y el gasto en educación en Chile entre los años 2001 y 2018. Para ello
