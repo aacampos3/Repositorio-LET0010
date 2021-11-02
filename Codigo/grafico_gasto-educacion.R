@@ -22,6 +22,7 @@ gastos_arreglo <- pivot_longer(
   mutate(code_year, year = as.numeric(substr(code_year, 1, 5)))
 
 
+
 # Creamos el gráfico
 gastos_arreglo %>% 
   ggplot(aes(year, gasto_año)) +
@@ -29,13 +30,13 @@ gastos_arreglo %>%
   geom_point(col = "turquoise4") + 
   labs(title = "Gasto en educación en Chile entre los años 1993 y 2017",
        subtitle = "Como porcentaje del gasto público total",
-       x = NULL, y = "Gasto en eduación") +
+       x = NULL, y = "Gasto público en eduación") +
   scale_y_continuous(labels = scales::percent_format(scale = 1)) +
   scale_x_continuous(breaks = seq(1993, 2017, by =3)) +
   geom_text(aes(label = round(gasto_año, 1)), vjust = - 2, size = 3) +
   theme_minimal()
 
-ggsave("figuras/lineas_gasto_educacion_chile.jpeg", height = 7, width = 10)
+ggsave("figuras/lineas_gasto-educacion_chile.jpeg", height = 7, width = 10)
 
 # Comentarios:
 # No pude colocar las etiquetas sin que toparan con el gráfico, por lo que hice
