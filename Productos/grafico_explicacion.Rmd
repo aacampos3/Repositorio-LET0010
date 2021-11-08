@@ -1,0 +1,16 @@
+---
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+```
+
+Una forma de medir el dinero que destina al Estado en educación es el gasto público en educación como porcentaje del gasto público total. Se utiliza esta variable, pues permite ver el cambio el gasto público sin considerar el gasto privado en este sector, además es posible comparar en diferentes años sin que sea afectado por el valor de la moneda. Podemos ver la evolución de esta variable en la siguiente figura:
+
+```{r, echo = FALSE, out.width="85%", fig.align='center'}
+knitr::include_graphics(here::here("figuras/lineas_gasto-educacion_chile.jpeg"))
+```
+
+En el gráfico anterior se puede apreciar que, en Chile, en general, ha aumentado el gasto en educación entre los años 1993 y 2017, en comparación con el gasto público total. Además, entre los años 2003 y 2006 disminuyó el gasto en educación de manera prolongada, pero desde que inició la "Revolución Pingüina", nuevamente comenzó aumentar esta variable llegando al año 2017 a 21.3%, mostrando la importancia que ha generado para el Estado la educación en el país.
