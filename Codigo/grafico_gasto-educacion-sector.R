@@ -36,16 +36,17 @@ gastos_porcentaje <- pivot_longer(
 # Creamos el gráfico
 gastos_porcentaje %>% 
   ggplot(aes(year, gasto_año, color = nombre)) +
-  geom_line(lwd = 1.1) +
-  scale_x_continuous(limits = c(1998, NA)) +
-  gghighlight(nombre == 'Secundaria') +
+  geom_line(lwd = 1.1, show.legend = FALSE) +
+  scale_x_continuous(limits = c(1998, NA), breaks = seq(1998, 2017, by = 3)) +
+  gghighlight(nombre == 'Secundaria', use_direct_label = FALSE) +
   scale_y_continuous(labels = scales::percent_format(scale = 1),
                        limits = c(0, NA))+
   labs(title = "Evolución del gasto público en educación entre los años 1998 y 2017",
        subtitle =  "Como porcentaje del PIB",
        x = "Año",
        y = "Gasto en educación")+
-  theme_minimal()
+  theme_minimal() +
+  geom_label(aes(2016, 1.75, label = "Secundaria"), show.legend = FALSE)
 
 
 ggsave("figuras/lineas_gasto-por-sector-educacion_chile.jpeg", height = 7, width = 10)
