@@ -31,17 +31,17 @@ Los resultados son reportados como puntajes y niveles de desempeño. Se establec
 
 Finalmente, las pruebas PISA no entregan información colectiva sobre para todas las asignaturas combinadas, por el contrario, da una puntación por cada área. Además, se suele utilizar el puntaje medio por asignatura para clasificar a los países. Sin embargo, no es posible asignar una clasificación exacta a cada país en función del puntaje medio, pues se utiliza una muestra (entre 4.500 y 10.000 estudiantes por país) y debido a la inceridumbre estadística sólo es posible obtener un rango de posiciones (límite inferior o superior del ranking) donde se puede encontrar un país.
 
-[^1]: Más información [PISA](https://www.oecd.org/pisa/pisafaq/)
+[^1]: Extraído desde [PISA](https://www.oecd.org/pisa/pisafaq/)
 
 # Datos
 
-Para este informe se utilizaron datos de dos bases diferentes desde The World Bank[^2]. El primer archivo ```expenditures_explanation.csv``` contiene datos sobre diferentes variables relacionadas con gastos en educación en Chile. Para este informe se utilizaron las variables "Gastos en educación como porcentaje del gasto público total", además de "Gasto público en educación secundaria inferior como porcentaje del PIB", también se consideran otros niveles como primaria, preescolar, secundaria y secundaria superior.
+Para este informe se utilizaron datos de dos bases diferentes desde The World Bank[^2]. El primer archivo ```expenditures_explanation.csv``` contiene datos sobre diferentes variables relacionadas con gastos en educación en Chile. Para este informe se utilizaron las variables "Gastos en educación como porcentaje del gasto público total", además de "Gasto público en educación secundaria inferior como porcentaje del PIB", también se consideran otros niveles educacionales como primaria, preescolar, secundaria y secundaria superior.
 
 El segundo, llamado ```learning_outcomes.csv```, contiene datos los puntajes obtenidos en el país en diferentes pruebas internacionales, como las evaluaciones LLECE, PIIAC, TIMSS, PISA, entre otras. En este trabajo se utizaron los puntajes PISA como el rendimiento medio en la escala de las áreas matemática, lectura y ciencia.
 
 Para ambas bases de datos, se transponen las columnas que representan los años, y se sintetiza la información en dos columnas, la primera con los años y la segunda con la información que posee la dicha celda. Finalmente, se seleccionan las variables de interés y se filtran los datos para que no existan celdas sin valores.
 
-[^2]: Más información en [The World Bank](https://datatopics.worldbank.org/education/)
+[^2]: Extraído desde [The World Bank](https://datatopics.worldbank.org/education/)
 
 # Desarrollo
 
@@ -61,7 +61,7 @@ No obstante, con la variable anterior no se tiene informacion sobre proporción 
 knitr::include_graphics(here::here("figuras/lineas_gasto-por-sector-educacion_chile.jpeg"))
 ```
 
-En el gráfico anterior se observa que la educación secundaria ha sido uno de los niveles donde más se ha invertido a través del tiempo, además ésta oscila en el tiempo entorno 1,3% del PIB. Por lo que, si bien ha aumentado el gasto en educación como porcentaje dl gasto público total, además, el nivel de interés, es decir, la educación secundaria ha sido uno de los que más se ha invertido.
+En el gráfico anterior se observa que la educación secundaria ha sido uno de los niveles donde más se ha invertido a través del tiempo, además ésta oscila en el tiempo entorno 1,3% del PIB. Entonces, ha aumentado el gasto en educación como porcentaje el gasto público total, además, el nivel de interés, es decir, la educación secundaria ha sido uno de los que más se ha invertido en Chile en los últimos años.
 
 En general, en Chile ha aumentado la inversión pública en educación, ¿se verá reflejado en mejoras en la calidad de ésta área?, existen diferentes indicadores para medir la calidad en este sector. En este informe se medirá en términos de los resultados del aprendizaje, por lo que no se consideran otros medidores como la equidad o asistencias escolar, por ejemplo.
 
