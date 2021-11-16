@@ -31,7 +31,7 @@ puntajes_arreglo %>%
   geom_point() +
   theme_minimal() +
   labs(title = "Evolución de los puntaje PISA en Chile",
-       subtitle = "Entre los año 2000 y 2018",
+       subtitle = "Entre los años 2000 y 2018",
        x = NULL, y = "Puntaje PISA") +
   scale_color_discrete("Área",labels = c("Matemática", "Lectura", "Ciencia"), ) +
   scale_y_continuous(limits = c(300, 500)) +

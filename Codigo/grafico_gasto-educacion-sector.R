@@ -42,11 +42,11 @@ gastos_porcentaje %>%
   scale_y_continuous(labels = scales::percent_format(scale = 1),
                        limits = c(0, NA))+
   labs(title = "Evolución del gasto público en educación entre los años 1998 y 2017",
-       subtitle =  "Como porcentaje del PIB",
+       subtitle =  "Por nivel educacional como porcentaje del PIB",
        x = "Año",
        y = "Gasto en educación")+
   theme_minimal() +
-  geom_label(aes(2016, 1.75, label = "Secundaria"), show.legend = FALSE)
+  geom_label(aes(2016, 1.7, label = "Secundaria"), show.legend = FALSE)
 
 
 ggsave("figuras/lineas_gasto-por-sector-educacion_chile.jpeg", height = 7, width = 10)
