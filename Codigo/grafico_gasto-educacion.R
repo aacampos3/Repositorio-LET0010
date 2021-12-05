@@ -2,30 +2,15 @@ library(tidyverse)
 library(tidyr)
 library(readr)
 
+source("codigo/limpiza_gastos-chile.R", local = knitr::knit_global())
 
-# cargamos los datos de gastos en educacion en Chile
-gastos <- read_delim("datos/Gastos en educacion/expenditures.csv",
-                     na = "..", delim = ",")
-
-
-# arreglamos los datos
-# Primero transponemos la tabla y agregamos la columna code_year
-# Segundo filtramos, quitando los datos nulos
-# Especificamos el codigo de la variable de interés
-# Finalmente, agregamos el año como número
-gastos_arreglo <- pivot_longer(
-  gastos, cols= `1970 [YR1970]`:`2020 [YR2020]`, names_to = "code_year",
-  values_to = "gasto_año"
-) %>% 
-  filter(!is.na(gasto_año)) %>% 
-  filter(`Series Code` == 'SE.XPD.TOTL.GB.ZS') %>% 
-  mutate(code_year, year = as.numeric(substr(code_year, 1, 5)))
-
+gastos_porcentaje <- gastos_arreglo %>% 
+  filter(`Series Code` == 'SE.XPD.TOTL.GB.ZS')
 
 
 # Creamos el gráfico
-gastos_arreglo %>% 
-  ggplot(aes(year, gasto_año)) +
+gastos_porcentaje %>% 
+  ggplot(aes(year, gasto_anio)) +
   geom_line(col = "turquoise3", lwd = 1.1, alpha = 0.7) +
   geom_point(col = "turquoise4") + 
   labs(title = "Figura 1. Gasto en educación en Chile entre los años 1993 y 2017",
@@ -37,7 +22,7 @@ gastos_arreglo %>%
   scale_x_continuous(breaks = seq(1993, 2017, by =3)) +
   geom_vline(xintercept = 2006, color = "gray80",
              linetype = "dashed", lwd = 0.75) +
-  geom_text(aes(label = round(gasto_año, 1)), vjust = - 2, size = 3) +
+  geom_text(aes(label = round(gasto_anio, 1)), vjust = - 2, size = 3) +
   theme_minimal() +
   geom_label(aes(x = 2003.5, y = 21, label = "2006: Revolución Pingüina"),
              color = "gray51", size = 3)

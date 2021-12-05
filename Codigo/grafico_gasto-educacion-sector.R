@@ -3,18 +3,10 @@ library(tidyr)
 library(readr)
 library(gghighlight)
 
-
-# cargamos los datos de gastos en educacion en Chile
-gastos <- read_delim("datos/Gastos en educacion/expenditures.csv",
-                     na = "..", delim = ",")
-
+source("codigo/limpiza_gastos-chile.R", local = knitr::knit_global())
 
 # arreglamos los datos
-gastos_porcentaje <- pivot_longer(
-  gastos, cols= `1970 [YR1970]`:`2020 [YR2020]`, names_to = "code_year",
-  values_to = "gasto_año"
-) %>% 
-  filter(!is.na(gasto_año)) %>%
+gastos_gdp <- gastos_arreglo %>% 
   filter(`Series Code` == 'UIS.XGDP.2.FSGOV' |
         `Series Code` == 'UIS.XGDP.0.FSGOV' |
         `Series Code` == 'UIS.XGDP.1.FSGOV' |
@@ -27,15 +19,12 @@ gastos_porcentaje <- pivot_longer(
     `Series Code` == 'UIS.XGDP.1.FSGOV', "Primaria", ifelse(
     `Series Code` == 'UIS.XGDP.23.FSGOV', "Secundaria", ifelse(
     `Series Code` == 'UIS.XGDP.3.FSGOV', "Secundaria superior", "Terciaria"
-    )))
-    )
-  )) %>% 
-  mutate(code_year, year = as.numeric(substr(code_year, 1, 5)))
+    ))))))
 
 
 # Creamos el gráfico
-gastos_porcentaje %>% 
-  ggplot(aes(year, gasto_año, color = nombre)) +
+gastos_gdp %>% 
+  ggplot(aes(year, gasto_anio, color = nombre)) +
   geom_line(lwd = 1.1, show.legend = FALSE) +
   scale_x_continuous(limits = c(1998, NA), breaks = seq(1998, 2017, by = 3)) +
   gghighlight(nombre == 'Secundaria', use_direct_label = FALSE) +
@@ -44,15 +33,11 @@ gastos_porcentaje %>%
   labs(title = "Evolución del gasto público en educación entre los años 1998 y 2017",
        subtitle =  "Por nivel educacional como porcentaje del PIB",
        x = "Año",
-       y = "Gasto en educación")+
+       y = "Gasto en educación",
+       caption = "Elaboración propia a partir de datos de https://datatopics.worldbank.org/education/")+
   theme_minimal() +
   geom_label(aes(2016, 1.7, label = "Secundaria"), show.legend = FALSE)
 
 
 ggsave("figuras/lineas_gasto-por-sector-educacion_chile.jpeg", height = 7, width = 10)
-
-gastos_porcentaje %>% 
-  ggplot(aes(year, gasto_año, fill = `Series Code`)) +
-  geom_col(position = "dodge") +
-  scale_x_continuous(limits = c(1998, NA))
 
