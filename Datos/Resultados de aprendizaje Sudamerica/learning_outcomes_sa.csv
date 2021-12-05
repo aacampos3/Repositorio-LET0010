@@ -1,0 +1,1026 @@
+﻿Country Name,Country Code,Series,Series Code,1998 [YR1998],1999 [YR1999],2000 [YR2000],2001 [YR2001],2002 [YR2002],2003 [YR2003],2004 [YR2004],2005 [YR2005],2006 [YR2006],2007 [YR2007],2008 [YR2008],2009 [YR2009],2010 [YR2010],2011 [YR2011],2012 [YR2012],2013 [YR2013],2014 [YR2014],2015 [YR2015],2016 [YR2016],2017 [YR2017],2018 [YR2018],2019 [YR2019],2020 [YR2020]
+Chile,CHL,PISA: 15-year-olds by mathematics proficiency level (%). Below Level 1,LO.PISA.MAT.0,..,..,..,..,..,..,..,..,28.1993108505277,..,..,21.6598712000101,..,..,21.9968674213515,..,..,23.0460091830496,..,..,24.6773166503563,..,..
+Chile,CHL,PISA: 15-year-olds by mathematics proficiency level (%). Level 1,LO.PISA.MAT.1,..,..,..,..,..,..,..,..,26.9315771671573,..,..,29.3652168722056,..,..,29.5454894037928,..,..,26.3069613002498,..,..,27.2312420861546,..,..
+Chile,CHL,PISA: 15-year-olds by mathematics proficiency level (%). Level 2,LO.PISA.MAT.2,..,..,..,..,..,..,..,..,23.930236545977,..,..,27.2807948368792,..,..,25.3234151015839,..,..,25.4745817604397,..,..,25.528043884476,..,..
+Chile,CHL,PISA: 15-year-olds by mathematics proficiency level (%). Level 3,LO.PISA.MAT.3,..,..,..,..,..,..,..,..,13.8586280835192,..,..,14.7654931970982,..,..,15.4028950483961,..,..,17.363699863679,..,..,15.622269740611,..,..
+Chile,CHL,PISA: 15-year-olds by mathematics proficiency level (%). Level 4,LO.PISA.MAT.4,..,..,..,..,..,..,..,..,5.61556575408329,..,..,5.60603678401887,..,..,6.15047911180228,..,..,6.41267166259996,..,..,5.71486635219262,..,..
+Chile,CHL,PISA: 15-year-olds by mathematics proficiency level (%). Level 5,LO.PISA.MAT.5,..,..,..,..,..,..,..,..,1.33554219660752,..,..,1.20874758463101,..,..,1.45164253208195,..,..,1.27188762608646,..,..,1.09799462856761,..,..
+Chile,CHL,PISA: 15-year-olds by mathematics proficiency level (%). Level 6,LO.PISA.MAT.6,..,..,..,..,..,..,..,..,0.129139402128064,..,..,0.113839525156943,..,..,0.129211380991533,..,..,0.124188603895484,..,..,0.128266657641717,..,..
+Chile,CHL,PISA: 15-year-olds by reading proficiency level (%). Below Level 1C,LO.PISA.REA.0.B1C,..,..,1,..,..,..,..,..,1,..,..,0,..,..,0,..,..,0,..,..,0,..,..
+Chile,CHL,PISA: 15-year-olds by reading proficiency level (%). Level 1A,LO.PISA.REA.1A,..,..,28,..,..,..,..,..,21,..,..,22,..,..,24,..,..,20,..,..,21,..,..
+Chile,CHL,PISA: 15-year-olds by reading proficiency level (%). Level 1B,LO.PISA.REA.1B,..,..,14,..,..,..,..,..,11,..,..,7,..,..,8,..,..,7,..,..,9,..,..
+Chile,CHL,PISA: 15-year-olds by reading proficiency level (%). Level 1C,LO.PISA.REA.1C,..,..,5,..,..,..,..,..,3,..,..,1,..,..,1,..,..,1,..,..,2,..,..
+Chile,CHL,PISA: 15-year-olds by reading proficiency level (%). Level 2,LO.PISA.REA.2,..,..,30,..,..,..,..,..,28,..,..,33,..,..,35,..,..,30,..,..,29,..,..
+Chile,CHL,PISA: 15-year-olds by reading proficiency level (%). Level 3,LO.PISA.REA.3,..,..,17,..,..,..,..,..,21,..,..,26,..,..,24,..,..,27,..,..,24,..,..
+Chile,CHL,PISA: 15-year-olds by reading proficiency level (%). Level 4,LO.PISA.REA.4,..,..,5,..,..,..,..,..,11,..,..,9,..,..,7,..,..,12,..,..,12,..,..
+Chile,CHL,PISA: 15-year-olds by reading proficiency level (%). Level 5,LO.PISA.REA.5,..,..,0,..,..,..,..,..,3,..,..,1,..,..,1,..,..,2,..,..,2,..,..
+Chile,CHL,PISA: 15-year-olds by reading proficiency level (%). Level 6,LO.PISA.REA.6,..,..,0,..,..,..,..,..,0,..,..,0,..,..,0,..,..,0,..,..,0,..,..
+Chile,CHL,PISA: 15-year-olds by science proficiency level (%). Below Level 1B,LO.PISA.SCI.0,..,..,..,..,..,..,..,..,2,..,..,1,..,..,1,..,..,0.982702387352046,..,..,0.971727543397582,..,..
+Chile,CHL,PISA: 15-year-olds by science proficiency level (%). Level 1A,LO.PISA.SCI.1A,..,..,..,..,..,..,..,..,26.6541070749487,..,..,23.9198833287978,..,..,26.346025138062,..,..,24.9901396224205,..,..,25.5444284653787,..,..
+Chile,CHL,PISA: 15-year-olds by science proficiency level (%). Level 1B,LO.PISA.SCI.1B,..,..,..,..,..,..,..,..,11,..,..,7,..,..,8,..,..,8.85193611466394,..,..,8.82734467605375,..,..
+Chile,CHL,PISA: 15-year-olds by science proficiency level (%). Level 2,LO.PISA.SCI.2,..,..,..,..,..,..,..,..,29.8682663552695,..,..,35.1654324386692,..,..,34.5840745573352,..,..,31.0121910501652,..,..,33.1247839439312,..,..
+Chile,CHL,PISA: 15-year-olds by science proficiency level (%). Level 3,LO.PISA.SCI.3,..,..,..,..,..,..,..,..,20.102569960003,..,..,23.6145658451724,..,..,22.374079511099,..,..,23.8197508547375,..,..,22.5615351250201,..,..
+Chile,CHL,PISA: 15-year-olds by science proficiency level (%). Level 4,LO.PISA.SCI.4,..,..,..,..,..,..,..,..,8.40264333714668,..,..,7.85724135657963,..,..,7.5499846102712,..,..,9.10382432062717,..,..,7.94011963665532,..,..
+Chile,CHL,PISA: 15-year-olds by science proficiency level (%). Level 5,LO.PISA.SCI.5,..,..,..,..,..,..,..,..,1.78485899970178,..,..,1.05715145976729,..,..,0.962735840255336,..,..,1.19927270868609,..,..,0.995741493915327,..,..
+Chile,CHL,PISA: 15-year-olds by science proficiency level (%). Level 6,LO.PISA.SCI.6,..,..,..,..,..,..,..,..,0.118834016292302,..,..,0.0310986879682464,..,..,0.0414153015832604,..,..,0.0401829413476133,..,..,0.0343191156480421,..,..
+Chile,CHL,PISA: Distribution of Mathematics Scores: 10th Percentile Score,LO.PISA.MAT.P10,..,..,258,..,..,..,..,..,302.266708210002,..,..,321.584358934413,..,..,322.83066,..,..,313.0513,..,..,310.7085,..,..
+Chile,CHL,PISA: Distribution of Mathematics Scores: 25th Percentile Score,LO.PISA.MAT.P25,..,..,321,..,..,..,..,..,350.202523757595,..,..,365.890325595887,..,..,365.00234,..,..,363.1894,..,..,358.5657,..,..
+Chile,CHL,PISA: Distribution of Mathematics Scores: 50th Percentile Score,LO.PISA.MAT.P50,..,..,384,..,..,..,..,..,411.35033889843,..,..,421.060472961245,..,..,422.632355405519,..,..,421.6818,..,..,415.8844,..,..
+Chile,CHL,PISA: Distribution of Mathematics Scores: 5th Percentile Score,LO.PISA.MAT.P05,..,..,222,..,..,..,..,..,273.492755880978,..,..,293.371241626422,..,..,299.41578,..,..,284.0848,..,..,282.2449,..,..
+Chile,CHL,PISA: Distribution of Mathematics Scores: 75th Percentile Score,LO.PISA.MAT.P75,..,..,449,..,..,..,..,..,470.065430752454,..,..,473.477177130394,..,..,476.48386,..,..,482.8088,..,..,475.3166,..,..
+Chile,CHL,PISA: Distribution of Mathematics Scores: 90th Percentile Score,LO.PISA.MAT.P90,..,..,502,..,..,..,..,..,526.959027885964,..,..,526.912291634211,..,..,531.86634,..,..,533.8637,..,..,528.2705,..,..
+Chile,CHL,PISA: Distribution of Mathematics Scores: 95th Percentile Score,LO.PISA.MAT.P95,..,..,532,..,..,..,..,..,560.56239289609,..,..,559.113569091759,..,..,563.17962,..,..,563.0174,..,..,558.5981,..,..
+Chile,CHL,PISA: Distribution of Reading Scores: 10th Percentile Score,LO.PISA.REA.P10,..,..,291.347999999995,..,..,..,..,..,309.748389090909,..,..,341.983584802763,..,..,339.1564,..,..,342.2829,..,..,331.2514,..,..
+Chile,CHL,PISA: Distribution of Reading Scores: 25th Percentile Score,LO.PISA.REA.P25,..,..,349.551999999993,..,..,..,..,..,373.020583636364,..,..,393.265242683149,..,..,387.93434,..,..,397.9255,..,..,388.6755,..,..
+Chile,CHL,PISA: Distribution of Reading Scores: 50th Percentile Score,LO.PISA.REA.P50,..,..,409.556782025629,..,..,..,..,..,442.091345938587,..,..,449.369606817505,..,..,441.398163345356,..,..,460.5004,..,..,453.0922,..,..
+Chile,CHL,PISA: Distribution of Reading Scores: 5th Percentile Score,LO.PISA.REA.P05,..,..,257,..,..,..,..,..,271.442283636364,..,..,310.293455735321,..,..,309.59842,..,..,310.1311,..,..,298.4127,..,..
+Chile,CHL,PISA: Distribution of Reading Scores: 75th Percentile Score,LO.PISA.REA.P75,..,..,471.555999999994,..,..,..,..,..,512.6978,..,..,506.093855662607,..,..,496.17842,..,..,521.4027,..,..,517.2497,..,..
+Chile,CHL,PISA: Distribution of Reading Scores: 90th Percentile Score,LO.PISA.REA.P90,..,..,523.507999999984,..,..,..,..,..,574.790781818182,..,..,555.648263952009,..,..,540.90896,..,..,571.7374,..,..,571.8504,..,..
+Chile,CHL,PISA: Distribution of Reading Scores: 95th Percentile Score,LO.PISA.REA.P95,..,..,555,..,..,..,..,..,609.189527272727,..,..,584.199291037993,..,..,567.17116,..,..,599.4925,..,..,602.3834,..,..
+Chile,CHL,PISA: Distribution of Science Scores: 10th Percentile Score,LO.PISA.SCI.P10,..,..,296,..,..,..,..,..,322.598821763797,..,..,343.323386795971,..,..,342.93176,..,..,335.6098,..,..,335.7529,..,..
+Chile,CHL,PISA: Distribution of Science Scores: 25th Percentile Score,LO.PISA.SCI.P25,..,..,351,..,..,..,..,..,373.810284374378,..,..,391.570309585975,..,..,388.26928,..,..,385.1056,..,..,384.5063,..,..
+Chile,CHL,PISA: Distribution of Science Scores: 50th Percentile Score,LO.PISA.SCI.P50,..,..,414.853077132673,..,..,..,..,..,438.17744477339,..,..,447.467359932405,..,..,444.933919694947,..,..,445.1495,..,..,442.1338,..,..
+Chile,CHL,PISA: Distribution of Science Scores: 5th Percentile Score,LO.PISA.SCI.P05,..,..,263,..,..,..,..,..,294.773802748871,..,..,314.826557254756,..,..,316.98992,..,..,307.9411,..,..,308.8908,..,..
+Chile,CHL,PISA: Distribution of Science Scores: 75th Percentile Score,LO.PISA.SCI.P75,..,..,479,..,..,..,..,..,500.887817596701,..,..,502.443118239463,..,..,499.55242,..,..,508.8745,..,..,501.6387,..,..
+Chile,CHL,PISA: Distribution of Science Scores: 90th Percentile Score,LO.PISA.SCI.P90,..,..,538,..,..,..,..,..,560.435596225829,..,..,553.37560611712,..,..,551.77172,..,..,560.2314,..,..,553.3757,..,..
+Chile,CHL,PISA: Distribution of Science Scores: 95th Percentile Score,LO.PISA.SCI.P95,..,..,574,..,..,..,..,..,595.01172575242,..,..,582.972771353973,..,..,580.67884,..,..,589.3556,..,..,583.5255,..,..
+Chile,CHL,PISA: Female 15-year-olds by mathematics proficiency level (%). Below Level 1,LO.PISA.MAT.0.FE,..,..,..,..,..,..,..,..,34.0662078748182,..,..,25.0825447338693,..,..,26.0986604560604,..,..,25.7608387015839,..,..,25.1758502214161,..,..
+Chile,CHL,PISA: Female 15-year-olds by mathematics proficiency level (%). Level 1,LO.PISA.MAT.1.FE,..,..,..,..,..,..,..,..,27.6925786770312,..,..,31.3588275888528,..,..,31.3671537584642,..,..,27.7464578073908,..,..,28.6019047454367,..,..
+Chile,CHL,PISA: Female 15-year-olds by mathematics proficiency level (%). Level 2,LO.PISA.MAT.2.FE,..,..,..,..,..,..,..,..,21.9063287326006,..,..,26.5165912583397,..,..,24.3047762342637,..,..,25.5357510219233,..,..,26.0318284593699,..,..
+Chile,CHL,PISA: Female 15-year-olds by mathematics proficiency level (%). Level 3,LO.PISA.MAT.3.FE,..,..,..,..,..,..,..,..,11.9396336065248,..,..,12.1064706776691,..,..,12.8446778698442,..,..,15.0742949137415,..,..,14.5559455877404,..,..
+Chile,CHL,PISA: Female 15-year-olds by mathematics proficiency level (%). Level 4,LO.PISA.MAT.4.FE,..,..,..,..,..,..,..,..,3.86456662063913,..,..,4.07003337503862,..,..,4.48951073273963,..,..,5.00694068554726,..,..,4.85305360767955,..,..
+Chile,CHL,PISA: Female 15-year-olds by mathematics proficiency level (%). Level 5,LO.PISA.MAT.5.FE,..,..,..,..,..,..,..,..,0.501494516671934,..,..,0.833231358497132,..,..,0.830913929225722,..,..,0.807446471091421,..,..,0.70377478832456,..,..
+Chile,CHL,PISA: Female 15-year-olds by mathematics proficiency level (%). Level 6,LO.PISA.MAT.6.FE,..,..,..,..,..,..,..,..,0.0291899717142081,..,..,0,..,..,0.0643070194020937,..,..,0.06827039872182,..,..,0.0776425900329079,..,..
+Chile,CHL,PISA: Female 15-year-olds by reading proficiency level (%). Below Level 1C,LO.PISA.REA.0.B1C.FE,..,..,0,..,..,..,..,..,0,..,..,0,..,..,0,..,..,0,..,..,0,..,..
+Chile,CHL,PISA: Female 15-year-olds by reading proficiency level (%). Level 1A,LO.PISA.REA.1A.FE,..,..,15,..,..,..,..,..,9,..,..,9,..,..,11,..,..,9,..,..,10,..,..
+Chile,CHL,PISA: Female 15-year-olds by reading proficiency level (%). Level 1B,LO.PISA.REA.1B.FE,..,..,6,..,..,..,..,..,4,..,..,3,..,..,3,..,..,3,..,..,3,..,..
+Chile,CHL,PISA: Female 15-year-olds by reading proficiency level (%). Level 1C,LO.PISA.REA.1C.FE,..,..,2,..,..,..,..,..,1,..,..,0,..,..,0,..,..,0,..,..,0,..,..
+Chile,CHL,PISA: Female 15-year-olds by reading proficiency level (%). Level 2,LO.PISA.REA.2.FE,..,..,17,..,..,..,..,..,14,..,..,17,..,..,19,..,..,15,..,..,15,..,..
+Chile,CHL,PISA: Female 15-year-olds by reading proficiency level (%). Level 3,LO.PISA.REA.3.FE,..,..,10,..,..,..,..,..,11,..,..,14,..,..,14,..,..,14,..,..,13,..,..
+Chile,CHL,PISA: Female 15-year-olds by reading proficiency level (%). Level 4,LO.PISA.REA.4.FE,..,..,3,..,..,..,..,..,5,..,..,5,..,..,4,..,..,7,..,..,6,..,..
+Chile,CHL,PISA: Female 15-year-olds by reading proficiency level (%). Level 5,LO.PISA.REA.5.FE,..,..,0,..,..,..,..,..,1,..,..,1,..,..,0,..,..,1,..,..,1,..,..
+Chile,CHL,PISA: Female 15-year-olds by reading proficiency level (%). Level 6,LO.PISA.REA.6.FE,..,..,0,..,..,..,..,..,0,..,..,0,..,..,0,..,..,0,..,..,0,..,..
+Chile,CHL,PISA: Female 15-year-olds by science proficiency level (%). Below Level 1B,LO.PISA.SCI.0.FE,..,..,..,..,..,..,..,..,2,..,..,1,..,..,1,..,..,1.0748898591154,..,..,0.941805968147911,..,..
+Chile,CHL,PISA: Female 15-year-olds by science proficiency level (%). Level 1A,LO.PISA.SCI.1A.FE,..,..,..,..,..,..,..,..,28.6122647135075,..,..,24.7121898567282,..,..,27.4640122916505,..,..,26.4537310644344,..,..,25.9661954733401,..,..
+Chile,CHL,PISA: Female 15-year-olds by science proficiency level (%). Level 1B,LO.PISA.SCI.1B.FE,..,..,..,..,..,..,..,..,13,..,..,8,..,..,7,..,..,9.8628410599565,..,..,8.30958740247541,..,..
+Chile,CHL,PISA: Female 15-year-olds by science proficiency level (%). Level 2,LO.PISA.SCI.2.FE,..,..,..,..,..,..,..,..,30.0665890530991,..,..,36.5386353721328,..,..,36.0466205503919,..,..,31.9119228179635,..,..,34.7504101079322,..,..
+Chile,CHL,PISA: Female 15-year-olds by science proficiency level (%). Level 3,LO.PISA.SCI.3.FE,..,..,..,..,..,..,..,..,17.6132851900324,..,..,22.1923010137399,..,..,20.9260436291103,..,..,22.6506387378086,..,..,22.2314433299861,..,..
+Chile,CHL,PISA: Female 15-year-olds by science proficiency level (%). Level 4,LO.PISA.SCI.4.FE,..,..,..,..,..,..,..,..,6.64675689604645,..,..,6.88254243968814,..,..,6.74999650757531,..,..,7.25424789676831,..,..,7.05705260194506,..,..
+Chile,CHL,PISA: Female 15-year-olds by science proficiency level (%). Level 5,LO.PISA.SCI.5.FE,..,..,..,..,..,..,..,..,1.21458082960552,..,..,0.796825873748139,..,..,0.738483498830886,..,..,0.781612779746963,..,..,0.724639835267463,..,..
+Chile,CHL,PISA: Female 15-year-olds by science proficiency level (%). Level 6,LO.PISA.SCI.6.FE,..,..,..,..,..,..,..,..,0.119900254512632,..,..,0,..,..,0.0220432393285912,..,..,0.0101157842063962,..,..,0.018865280905792,..,..
+Chile,CHL,PISA: Male 15-year-olds by mathematics proficiency level (%). Below Level 1,LO.PISA.MAT.0.MA,..,..,..,..,..,..,..,..,23.2033505479685,..,..,18.3692842980415,..,..,17.6225649146841,..,..,20.3593358252512,..,..,24.1912554059017,..,..
+Chile,CHL,PISA: Male 15-year-olds by mathematics proficiency level (%). Level 1,LO.PISA.MAT.1.MA,..,..,..,..,..,..,..,..,26.2835457942226,..,..,27.4485428900317,..,..,27.602799734783,..,..,24.8823941633536,..,..,25.8948707030158,..,..
+Chile,CHL,PISA: Male 15-year-olds by mathematics proficiency level (%). Level 2,LO.PISA.MAT.2.MA,..,..,..,..,..,..,..,..,25.6536966731624,..,..,28.0155065355274,..,..,26.4097289436042,..,..,25.4140469003234,..,..,25.0368630059456,..,..
+Chile,CHL,PISA: Male 15-year-olds by mathematics proficiency level (%). Level 3,LO.PISA.MAT.3.MA,..,..,..,..,..,..,..,..,15.4927491850488,..,..,17.3218996401653,..,..,18.1310716584901,..,..,19.6293608351015,..,..,16.6619165664702,..,..
+Chile,CHL,PISA: Male 15-year-olds by mathematics proficiency level (%). Level 4,LO.PISA.MAT.4.MA,..,..,..,..,..,..,..,..,7.10663030222246,..,..,7.08276328129318,..,..,7.92179669963479,..,..,7.80382345997634,..,..,6.55511824173841,..,..
+Chile,CHL,PISA: Male 15-year-olds by mathematics proficiency level (%). Level 5,LO.PISA.MAT.5.MA,..,..,..,..,..,..,..,..,2.0457760872226,..,..,1.56977201859142,..,..,2.11361027654345,..,..,1.73151194830318,..,..,1.48235186599488,..,..
+Chile,CHL,PISA: Male 15-year-olds by mathematics proficiency level (%). Level 6,LO.PISA.MAT.6.MA,..,..,..,..,..,..,..,..,0.214251410152684,..,..,0.192231336349459,..,..,0.1984277722604,..,..,0.179526867690808,..,..,0.177624210933446,..,..
+Chile,CHL,PISA: Male 15-year-olds by reading proficiency level (%). Below Level 1C,LO.PISA.REA.0.B1C.MA,..,..,1,..,..,..,..,..,1,..,..,0,..,..,0,..,..,0,..,..,0,..,..
+Chile,CHL,PISA: Male 15-year-olds by reading proficiency level (%). Level 1A,LO.PISA.REA.1A.MA,..,..,14,..,..,..,..,..,12,..,..,13,..,..,13,..,..,11,..,..,12,..,..
+Chile,CHL,PISA: Male 15-year-olds by reading proficiency level (%). Level 1B,LO.PISA.REA.1B.MA,..,..,8,..,..,..,..,..,7,..,..,5,..,..,5,..,..,4,..,..,6,..,..
+Chile,CHL,PISA: Male 15-year-olds by reading proficiency level (%). Level 1C,LO.PISA.REA.1C.MA,..,..,3,..,..,..,..,..,2,..,..,1,..,..,1,..,..,1,..,..,1,..,..
+Chile,CHL,PISA: Male 15-year-olds by reading proficiency level (%). Level 2,LO.PISA.REA.2.MA,..,..,13,..,..,..,..,..,15,..,..,16,..,..,16,..,..,15,..,..,14,..,..
+Chile,CHL,PISA: Male 15-year-olds by reading proficiency level (%). Level 3,LO.PISA.REA.3.MA,..,..,7,..,..,..,..,..,11,..,..,12,..,..,11,..,..,13,..,..,11,..,..
+Chile,CHL,PISA: Male 15-year-olds by reading proficiency level (%). Level 4,LO.PISA.REA.4.MA,..,..,1,..,..,..,..,..,6,..,..,4,..,..,3,..,..,6,..,..,5,..,..
+Chile,CHL,PISA: Male 15-year-olds by reading proficiency level (%). Level 5,LO.PISA.REA.5.MA,..,..,0,..,..,..,..,..,2,..,..,0,..,..,0,..,..,1,..,..,1,..,..
+Chile,CHL,PISA: Male 15-year-olds by reading proficiency level (%). Level 6,LO.PISA.REA.6.MA,..,..,0,..,..,..,..,..,0,..,..,0,..,..,0,..,..,0,..,..,0,..,..
+Chile,CHL,PISA: Male 15-year-olds by science proficiency level (%). Below Level 1B,LO.PISA.SCI.0.MA,..,..,..,..,..,..,..,..,2,..,..,1,..,..,1,..,..,0.891471014398978,..,..,1.00090053985394,..,..
+Chile,CHL,PISA: Male 15-year-olds by science proficiency level (%). Level 1A,LO.PISA.SCI.1A.MA,..,..,..,..,..,..,..,..,24.9866365555431,..,..,23.1581532200509,..,..,25.153762640422,..,..,23.5417274451124,..,..,25.1332132360335,..,..
+Chile,CHL,PISA: Male 15-year-olds by science proficiency level (%). Level 1B,LO.PISA.SCI.1B.MA,..,..,..,..,..,..,..,..,9,..,..,7,..,..,8,..,..,7.85151551173404,..,..,9.33214868390828,..,..
+Chile,CHL,PISA: Male 15-year-olds by science proficiency level (%). Level 2,LO.PISA.SCI.2.MA,..,..,..,..,..,..,..,..,29.699384521934,..,..,33.8452236773312,..,..,33.0243618781707,..,..,30.1217906205228,..,..,31.5398277400534,..,..
+Chile,CHL,PISA: Male 15-year-olds by science proficiency level (%). Level 3,LO.PISA.SCI.3.MA,..,..,..,..,..,..,..,..,22.2223221630924,..,..,24.981943124701,..,..,23.9183180757288,..,..,24.9767378240438,..,..,22.8833686744387,..,..
+Chile,CHL,PISA: Male 15-year-olds by science proficiency level (%). Level 4,LO.PISA.SCI.4.MA,..,..,..,..,..,..,..,..,9.8978696755704,..,..,8.79432503036772,..,..,8.40312125888198,..,..,10.9342183351569,..,..,8.80109407598104,..,..
+Chile,CHL,PISA: Male 15-year-olds by science proficiency level (%). Level 5,LO.PISA.SCI.5.MA,..,..,..,..,..,..,..,..,2.27047977801459,..,..,1.30743065091061,..,..,1.20188676057685,..,..,1.61260098438073,..,..,1.26006072380392,..,..
+Chile,CHL,PISA: Male 15-year-olds by science proficiency level (%). Level 6,LO.PISA.SCI.6.MA,..,..,..,..,..,..,..,..,0.117926060383108,..,..,0,..,..,0.0620743791532062,..,..,0.0699382646504396,..,..,0.0493863259272782,..,..
+Chile,CHL,PISA: Mean performance on the mathematics scale,LO.PISA.MAT,..,..,384,..,..,..,..,..,411.35033889843,..,..,421.060472961245,..,..,422.632355405519,..,..,422.6714,..,..,417.406556233565,..,..
+Chile,CHL,PISA: Mean performance on the mathematics scale. Female,LO.PISA.MAT.FE,..,..,380,..,..,..,..,..,396.28431732242,..,..,410.375905594986,..,..,410.54325225294,..,..,413.448981491569,..,..,413.626757549314,..,..
+Chile,CHL,PISA: Mean performance on the mathematics scale. Male,LO.PISA.MAT.MA,..,..,388,..,..,..,..,..,424.179820206782,..,..,431.332705203326,..,..,435.524618319865,..,..,431.798086785178,..,..,421.091791810278,..,..
+Chile,CHL,PISA: Mean performance on the reading scale,LO.PISA.REA,..,..,409.556782025629,..,..,..,..,..,442.091345938587,..,..,449.369606817505,..,..,441.398163345356,..,..,458.5709,..,..,452.27255409198,..,..
+Chile,CHL,PISA: Mean performance on the reading scale. Female,LO.PISA.REA.FE,..,..,421.101175076587,..,..,..,..,..,451.251972843165,..,..,460.620969593218,..,..,452.371145825452,..,..,464.561642014448,..,..,462.302439817638,..,..
+Chile,CHL,PISA: Mean performance on the reading scale. Male,LO.PISA.REA.MA,..,..,396.493977325016,..,..,..,..,..,434.290607631363,..,..,438.552452738162,..,..,429.696172444756,..,..,452.642241658627,..,..,442.493596323522,..,..
+Chile,CHL,PISA: Mean performance on the science scale,LO.PISA.SCI,..,..,414.853077132673,..,..,..,..,..,438.17744477339,..,..,447.467359932405,..,..,444.933919694947,..,..,446.9561,..,..,443.582563387665,..,..
+Chile,CHL,PISA: Mean performance on the science scale. Female,LO.PISA.SCI.FE,..,..,411.908448106977,..,..,..,..,..,426.488373209235,..,..,442.879331685593,..,..,441.645265820395,..,..,439.61740431075,..,..,441.811225794139,..,..
+Chile,CHL,PISA: Mean performance on the science scale. Male,LO.PISA.SCI.MA,..,..,418.113727661222,..,..,..,..,..,448.131281915311,..,..,451.878328581763,..,..,448.441060783071,..,..,454.218617180938,..,..,445.309585608513,..,..
+Argentina,ARG,PISA: 15-year-olds by mathematics proficiency level (%). Below Level 1,LO.PISA.MAT.0,..,..,..,..,..,..,..,..,39.418176589889,..,..,37.1761959477428,..,..,34.879422131257,..,..,26.6443574408203,..,..,40.4733419249039,..,..
+Argentina,ARG,PISA: 15-year-olds by mathematics proficiency level (%). Level 1,LO.PISA.MAT.1,..,..,..,..,..,..,..,..,24.7253036463997,..,..,26.3783799925828,..,..,31.6055089872702,..,..,29.4100275563166,..,..,28.4937771456378,..,..
+Argentina,ARG,PISA: 15-year-olds by mathematics proficiency level (%). Level 2,LO.PISA.MAT.2,..,..,..,..,..,..,..,..,20.4399810339565,..,..,20.77696163818,..,..,22.1902710600405,..,..,25.9760218474539,..,..,19.6186801187386,..,..
+Argentina,ARG,PISA: 15-year-olds by mathematics proficiency level (%). Level 3,LO.PISA.MAT.3,..,..,..,..,..,..,..,..,10.6079171018202,..,..,10.885815358909,..,..,9.24921626929772,..,..,12.9649922069664,..,..,8.81998769084606,..,..
+Argentina,ARG,PISA: 15-year-olds by mathematics proficiency level (%). Level 4,LO.PISA.MAT.4,..,..,..,..,..,..,..,..,3.76652279919467,..,..,3.92360634313655,..,..,1.80269772201912,..,..,4.1852748523562,..,..,2.25656421394488,..,..
+Argentina,ARG,PISA: 15-year-olds by mathematics proficiency level (%). Level 5,LO.PISA.MAT.5,..,..,..,..,..,..,..,..,0.909068568182838,..,..,0.793430705182311,..,..,0.266476191429195,..,..,0.747239222698108,..,..,0.327543059663636,..,..
+Argentina,ARG,PISA: 15-year-olds by mathematics proficiency level (%). Level 6,LO.PISA.MAT.6,..,..,..,..,..,..,..,..,0.133030260557045,..,..,0.0656100142664621,..,..,0.00640763868632632,..,..,0.0720868733885518,..,..,0.0101058462651703,..,..
+Argentina,ARG,PISA: 15-year-olds by reading proficiency level (%). Below Level 1C,LO.PISA.REA.0.B1C,..,..,2,..,..,..,..,..,8,..,..,4,..,..,2,..,..,0,..,..,1,..,..
+Argentina,ARG,PISA: 15-year-olds by reading proficiency level (%). Level 1A,LO.PISA.REA.1A,..,..,21,..,..,..,..,..,22,..,..,25,..,..,28,..,..,26,..,..,27,..,..
+Argentina,ARG,PISA: 15-year-olds by reading proficiency level (%). Level 1B,LO.PISA.REA.1B,..,..,14,..,..,..,..,..,17,..,..,16,..,..,18,..,..,13,..,..,17,..,..
+Argentina,ARG,PISA: 15-year-olds by reading proficiency level (%). Level 1C,LO.PISA.REA.1C,..,..,6,..,..,..,..,..,11,..,..,7,..,..,6,..,..,3,..,..,7,..,..
+Argentina,ARG,PISA: 15-year-olds by reading proficiency level (%). Level 2,LO.PISA.REA.2,..,..,25,..,..,..,..,..,22,..,..,25,..,..,27,..,..,31,..,..,26,..,..
+Argentina,ARG,PISA: 15-year-olds by reading proficiency level (%). Level 3,LO.PISA.REA.3,..,..,20,..,..,..,..,..,14,..,..,16,..,..,15,..,..,20,..,..,16,..,..
+Argentina,ARG,PISA: 15-year-olds by reading proficiency level (%). Level 4,LO.PISA.REA.4,..,..,9,..,..,..,..,..,5,..,..,6,..,..,4,..,..,6,..,..,5,..,..
+Argentina,ARG,PISA: 15-year-olds by reading proficiency level (%). Level 5,LO.PISA.REA.5,..,..,2,..,..,..,..,..,1,..,..,1,..,..,0,..,..,1,..,..,1,..,..
+Argentina,ARG,PISA: 15-year-olds by reading proficiency level (%). Level 6,LO.PISA.REA.6,..,..,0,..,..,..,..,..,0,..,..,0,..,..,0,..,..,0,..,..,0,..,..
+Argentina,ARG,PISA: 15-year-olds by science proficiency level (%). Below Level 1B,LO.PISA.SCI.0,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1.38154587563727,..,..,4.88697599284746,..,..
+Argentina,ARG,PISA: 15-year-olds by science proficiency level (%). Level 1A,LO.PISA.SCI.1A,..,..,..,..,..,..,..,..,27.918783161655,..,..,27.2130918260735,..,..,31.0392182321718,..,..,28.2163481649914,..,..,30.3887421470396,..,..
+Argentina,ARG,PISA: 15-year-olds by science proficiency level (%). Level 1B,LO.PISA.SCI.1B,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,10.1364066190566,..,..,18.2144318227504,..,..
+Argentina,ARG,PISA: 15-year-olds by science proficiency level (%). Level 2,LO.PISA.SCI.2,..,..,..,..,..,..,..,..,25.5975412047813,..,..,26.7008449542613,..,..,31.1019661771421,..,..,34.171129284966,..,..,26.9718238580583,..,..
+Argentina,ARG,PISA: 15-year-olds by science proficiency level (%). Level 3,LO.PISA.SCI.3,..,..,..,..,..,..,..,..,13.6248856643058,..,..,15.4082167697377,..,..,14.7893664382081,..,..,20.1094996454378,..,..,14.9909920475592,..,..
+Argentina,ARG,PISA: 15-year-olds by science proficiency level (%). Level 4,LO.PISA.SCI.4,..,..,..,..,..,..,..,..,4.07551177240152,..,..,4.82838674431811,..,..,3.00499485355886,..,..,5.27655389640298,..,..,4.05626845403277,..,..
+Argentina,ARG,PISA: 15-year-olds by science proficiency level (%). Level 5,LO.PISA.SCI.5,..,..,..,..,..,..,..,..,0.437159957381007,..,..,0.616793227608437,..,..,0.238692055602264,..,..,0.681551132807914,..,..,0.47661332778621,..,..
+Argentina,ARG,PISA: 15-year-olds by science proficiency level (%). Level 6,LO.PISA.SCI.6,..,..,..,..,..,..,..,..,0.0111335782148356,..,..,0.0347013522860466,..,..,0.00292850979309378,..,..,0.0269653807000139,..,..,0.0141523499259373,..,..
+Argentina,ARG,PISA: Distribution of Mathematics Scores: 10th Percentile Score,LO.PISA.MAT.P10,..,..,229,..,..,..,..,..,248.92506620969,..,..,270.844368281664,..,..,291.93798,..,..,306.4602,..,..,272.1274,..,..
+Argentina,ARG,PISA: Distribution of Mathematics Scores: 25th Percentile Score,LO.PISA.MAT.P25,..,..,307,..,..,..,..,..,315.648854961832,..,..,327.223866645895,..,..,336.52436,..,..,353.5564,..,..,321.547,..,..
+Argentina,ARG,PISA: Distribution of Mathematics Scores: 50th Percentile Score,LO.PISA.MAT.P50,..,..,388,..,..,..,..,..,381.253911744596,..,..,388.068128318725,..,..,388.431709907141,..,..,407.4132,..,..,378.2738,..,..
+Argentina,ARG,PISA: Distribution of Mathematics Scores: 5th Percentile Score,LO.PISA.MAT.P05,..,..,180,..,..,..,..,..,209.432933478735,..,..,230.884873033183,..,..,264.02088,..,..,279.6352,..,..,243.3273,..,..
+Argentina,ARG,PISA: Distribution of Mathematics Scores: 75th Percentile Score,LO.PISA.MAT.P75,..,..,474,..,..,..,..,..,450.545256270447,..,..,450.654307524536,..,..,440.38792,..,..,462.9824,..,..,436.2306,..,..
+Argentina,ARG,PISA: Distribution of Mathematics Scores: 90th Percentile Score,LO.PISA.MAT.P90,..,..,536,..,..,..,..,..,508.139897180246,..,..,509.059043464714,..,..,487.87194,..,..,513.828,..,..,489.007,..,..
+Argentina,ARG,PISA: Distribution of Mathematics Scores: 95th Percentile Score,LO.PISA.MAT.P95,..,..,574,..,..,..,..,..,542.802617230098,..,..,542.646829724256,..,..,514.09096,..,..,544.7682,..,..,520.488,..,..
+Argentina,ARG,PISA: Distribution of Reading Scores: 10th Percentile Score,LO.PISA.REA.P10,..,..,270.471999999991,..,..,..,..,..,209.247749090909,..,..,256.538320305399,..,..,273.77278,..,..,308.8581,..,..,274.0897,..,..
+Argentina,ARG,PISA: Distribution of Reading Scores: 25th Percentile Score,LO.PISA.REA.P25,..,..,344.267999999993,..,..,..,..,..,291.443996363636,..,..,329.226849663697,..,..,332.43318,..,..,364.2192,..,..,333.4561,..,..
+Argentina,ARG,PISA: Distribution of Reading Scores: 50th Percentile Score,LO.PISA.REA.P50,..,..,418.250700347196,..,..,..,..,..,373.723771602817,..,..,398.260879991497,..,..,395.979122702168,..,..,427.6997,..,..,402.06915,..,..
+Argentina,ARG,PISA: Distribution of Reading Scores: 5th Percentile Score,LO.PISA.REA.P05,..,..,232,..,..,..,..,..,154.515843636364,..,..,208.91425195419,..,..,233.1645,..,..,277.3396,..,..,239.7714,..,..
+Argentina,ARG,PISA: Distribution of Reading Scores: 75th Percentile Score,LO.PISA.REA.P75,..,..,495.199999999994,..,..,..,..,..,463.760238181818,..,..,473.170932557717,..,..,462.37352,..,..,486.8488,..,..,470.8539,..,..
+Argentina,ARG,PISA: Distribution of Reading Scores: 90th Percentile Score,LO.PISA.REA.P90,..,..,553.833999999991,..,..,..,..,..,526.515094545455,..,..,534.559989092893,..,..,516.38458,..,..,538.4891,..,..,529.3057,..,..
+Argentina,ARG,PISA: Distribution of Reading Scores: 95th Percentile Score,LO.PISA.REA.P95,..,..,589,..,..,..,..,..,560.400552727273,..,..,568.404090165424,..,..,548.58064,..,..,569.1042,..,..,560.9736,..,..
+Argentina,ARG,PISA: Distribution of Science Scores: 10th Percentile Score,LO.PISA.SCI.P10,..,..,248,..,..,..,..,..,258.948158293327,..,..,270.757180156658,..,..,297.42634,..,..,328.9245,..,..,291.0459,..,..
+Argentina,ARG,PISA: Distribution of Science Scores: 25th Percentile Score,LO.PISA.SCI.P25,..,..,323,..,..,..,..,..,324.42647046585,..,..,334.200681851565,..,..,350.26108,..,..,375.9618,..,..,340.0319,..,..
+Argentina,ARG,PISA: Distribution of Science Scores: 50th Percentile Score,LO.PISA.SCI.P50,..,..,396.166753608723,..,..,..,..,..,391.243901809767,..,..,400.838520183371,..,..,405.632004985595,..,..,431.4276,..,..,401.1643,..,..
+Argentina,ARG,PISA: Distribution of Science Scores: 5th Percentile Score,LO.PISA.SCI.P05,..,..,206,..,..,..,..,..,218.012557262654,..,..,227.862737784409,..,..,261.5069,..,..,302.996,..,..,261.4257,..,..
+Argentina,ARG,PISA: Distribution of Science Scores: 75th Percentile Score,LO.PISA.SCI.P75,..,..,474,..,..,..,..,..,461.444174690154,..,..,471.465870943678,..,..,464.32302,..,..,486.6388,..,..,466.3725,..,..
+Argentina,ARG,PISA: Distribution of Science Scores: 90th Percentile Score,LO.PISA.SCI.P90,..,..,531,..,..,..,..,..,519.630541531018,..,..,530.417754569191,..,..,513.37186,..,..,536.327,..,..,523.0053,..,..
+Argentina,ARG,PISA: Distribution of Science Scores: 95th Percentile Score,LO.PISA.SCI.P95,..,..,570,..,..,..,..,..,554.710206924501,..,..,563.763521074227,..,..,542.5028,..,..,566.6393,..,..,554.989,..,..
+Argentina,ARG,PISA: Female 15-year-olds by mathematics proficiency level (%). Below Level 1,LO.PISA.MAT.0.FE,..,..,..,..,..,..,..,..,41.3423585595768,..,..,39.1210189798051,..,..,37.7629299922425,..,..,29.5612065344436,..,..,43.5532286442267,..,..
+Argentina,ARG,PISA: Female 15-year-olds by mathematics proficiency level (%). Level 1,LO.PISA.MAT.1.FE,..,..,..,..,..,..,..,..,24.659267227787,..,..,26.4764415518179,..,..,31.9618464873031,..,..,30.3311105591922,..,..,29.233105879471,..,..
+Argentina,ARG,PISA: Female 15-year-olds by mathematics proficiency level (%). Level 2,LO.PISA.MAT.2.FE,..,..,..,..,..,..,..,..,19.9108644776337,..,..,20.5764719724804,..,..,20.627772714444,..,..,25.5084038042731,..,..,18.3458553649857,..,..
+Argentina,ARG,PISA: Female 15-year-olds by mathematics proficiency level (%). Level 3,LO.PISA.MAT.3.FE,..,..,..,..,..,..,..,..,9.71835185708981,..,..,10.3400559382667,..,..,8.30409342705307,..,..,11.1846264732154,..,..,7.2353204502684,..,..
+Argentina,ARG,PISA: Female 15-year-olds by mathematics proficiency level (%). Level 4,LO.PISA.MAT.4.FE,..,..,..,..,..,..,..,..,3.28179833184864,..,..,2.83924486104645,..,..,1.21910872684963,..,..,3.04691239565827,..,..,1.4771822800072,..,..
+Argentina,ARG,PISA: Female 15-year-olds by mathematics proficiency level (%). Level 5,LO.PISA.MAT.5.FE,..,..,..,..,..,..,..,..,0.914271565831395,..,..,0.579797771760246,..,..,0.124248652107668,..,..,0.344993345626478,..,..,0.153196423228394,..,..
+Argentina,ARG,PISA: Female 15-year-olds by mathematics proficiency level (%). Level 6,LO.PISA.MAT.6.FE,..,..,..,..,..,..,..,..,0.173087980232679,..,..,0,..,..,0,..,..,0.0227468875910237,..,..,0.00211095781255272,..,..
+Argentina,ARG,PISA: Female 15-year-olds by reading proficiency level (%). Below Level 1C,LO.PISA.REA.0.B1C.FE,..,..,1,..,..,..,..,..,2,..,..,1,..,..,1,..,..,0,..,..,0,..,..
+Argentina,ARG,PISA: Female 15-year-olds by reading proficiency level (%). Level 1A,LO.PISA.REA.1A.FE,..,..,11,..,..,..,..,..,11,..,..,13,..,..,14,..,..,13,..,..,14,..,..
+Argentina,ARG,PISA: Female 15-year-olds by reading proficiency level (%). Level 1B,LO.PISA.REA.1B.FE,..,..,6,..,..,..,..,..,8,..,..,7,..,..,7,..,..,6,..,..,8,..,..
+Argentina,ARG,PISA: Female 15-year-olds by reading proficiency level (%). Level 1C,LO.PISA.REA.1C.FE,..,..,3,..,..,..,..,..,4,..,..,3,..,..,2,..,..,1,..,..,3,..,..
+Argentina,ARG,PISA: Female 15-year-olds by reading proficiency level (%). Level 2,LO.PISA.REA.2.FE,..,..,15,..,..,..,..,..,13,..,..,15,..,..,16,..,..,17,..,..,13,..,..
+Argentina,ARG,PISA: Female 15-year-olds by reading proficiency level (%). Level 3,LO.PISA.REA.3.FE,..,..,14,..,..,..,..,..,9,..,..,10,..,..,9,..,..,11,..,..,9,..,..
+Argentina,ARG,PISA: Female 15-year-olds by reading proficiency level (%). Level 4,LO.PISA.REA.4.FE,..,..,6,..,..,..,..,..,4,..,..,4,..,..,3,..,..,4,..,..,3,..,..
+Argentina,ARG,PISA: Female 15-year-olds by reading proficiency level (%). Level 5,LO.PISA.REA.5.FE,..,..,1,..,..,..,..,..,1,..,..,1,..,..,0,..,..,1,..,..,0,..,..
+Argentina,ARG,PISA: Female 15-year-olds by reading proficiency level (%). Level 6,LO.PISA.REA.6.FE,..,..,0,..,..,..,..,..,0,..,..,0,..,..,0,..,..,0,..,..,0,..,..
+Argentina,ARG,PISA: Female 15-year-olds by science proficiency level (%). Below Level 1B,LO.PISA.SCI.0.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1.61454696562291,..,..,5.31738658325876,..,..
+Argentina,ARG,PISA: Female 15-year-olds by science proficiency level (%). Level 1A,LO.PISA.SCI.1A.FE,..,..,..,..,..,..,..,..,27.7957890075314,..,..,27.8879127450425,..,..,30.6759795158227,..,..,29.8988668934119,..,..,31.019288072948,..,..
+Argentina,ARG,PISA: Female 15-year-olds by science proficiency level (%). Level 1B,LO.PISA.SCI.1B.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,11.2612642367763,..,..,19.1897278466916,..,..
+Argentina,ARG,PISA: Female 15-year-olds by science proficiency level (%). Level 2,LO.PISA.SCI.2.FE,..,..,..,..,..,..,..,..,26.0343761016512,..,..,27.9438048696561,..,..,31.1740093119802,..,..,34.48679519212,..,..,26.4767549953434,..,..
+Argentina,ARG,PISA: Female 15-year-olds by science proficiency level (%). Level 3,LO.PISA.SCI.3.FE,..,..,..,..,..,..,..,..,14.8616441792415,..,..,15.7440977935534,..,..,16.097041327809,..,..,18.1333446331713,..,..,14.2971320449382,..,..
+Argentina,ARG,PISA: Female 15-year-olds by science proficiency level (%). Level 4,LO.PISA.SCI.4.FE,..,..,..,..,..,..,..,..,4.63571592365094,..,..,4.4030008817217,..,..,3.0317927202539,..,..,4.20756371961657,..,..,3.37322367982367,..,..
+Argentina,ARG,PISA: Female 15-year-olds by science proficiency level (%). Level 5,LO.PISA.SCI.5.FE,..,..,..,..,..,..,..,..,0.458133829093677,..,..,0.555318586224399,..,..,0.20842422243898,..,..,0.381027895771329,..,..,0.31381347275731,..,..
+Argentina,ARG,PISA: Female 15-year-olds by science proficiency level (%). Level 6,LO.PISA.SCI.6.FE,..,..,..,..,..,..,..,..,0,..,..,0.0586943670184838,..,..,0.00361838148994309,..,..,0.0165904635096713,..,..,0.0126733042390445,..,..
+Argentina,ARG,PISA: Male 15-year-olds by mathematics proficiency level (%). Below Level 1,LO.PISA.MAT.0.MA,..,..,..,..,..,..,..,..,37.25597783702,..,..,34.9213678215007,..,..,31.8255119926616,..,..,23.4678094812178,..,..,37.3043260886074,..,..
+Argentina,ARG,PISA: Male 15-year-olds by mathematics proficiency level (%). Level 1,LO.PISA.MAT.1.MA,..,..,..,..,..,..,..,..,24.79950861465,..,..,26.2646874055344,..,..,31.2281135520657,..,..,28.4069368102765,..,..,27.7330529115135,..,..
+Argentina,ARG,PISA: Male 15-year-olds by mathematics proficiency level (%). Level 2,LO.PISA.MAT.2.MA,..,..,..,..,..,..,..,..,21.0345480635963,..,..,21.0094093878145,..,..,23.8451059934625,..,..,26.4852738153349,..,..,20.9283392617736,..,..
+Argentina,ARG,PISA: Male 15-year-olds by mathematics proficiency level (%). Level 3,LO.PISA.MAT.3.MA,..,..,..,..,..,..,..,..,11.6075194746996,..,..,11.5185689161934,..,..,10.2501915984103,..,..,14.9038710990066,..,..,10.4505137582966,..,..
+Argentina,ARG,PISA: Male 15-year-olds by mathematics proficiency level (%). Level 4,LO.PISA.MAT.4.MA,..,..,..,..,..,..,..,..,4.31120654287962,..,..,5.18081521434039,..,..,2.42077418826863,..,..,5.42499032033057,..,..,3.05850075131044,..,..
+Argentina,ARG,PISA: Male 15-year-olds by mathematics proficiency level (%). Level 5,LO.PISA.MAT.5.MA,..,..,..,..,..,..,..,..,0.903221971964751,..,..,1.0411167614611,..,..,0.417108735282565,..,..,1.18529867625837,..,..,0.506935128989414,..,..
+Argentina,ARG,PISA: Male 15-year-olds by mathematics proficiency level (%). Level 6,LO.PISA.MAT.6.MA,..,..,..,..,..,..,..,..,0.088017495189807,..,..,0.0640344931554027,..,..,0.013193939848648,..,..,0.125819797575336,..,..,0.0183320995091011,..,..
+Argentina,ARG,PISA: Male 15-year-olds by reading proficiency level (%). Below Level 1C,LO.PISA.REA.0.B1C.MA,..,..,1,..,..,..,..,..,5,..,..,2,..,..,2,..,..,0,..,..,1,..,..
+Argentina,ARG,PISA: Male 15-year-olds by reading proficiency level (%). Level 1A,LO.PISA.REA.1A.MA,..,..,10,..,..,..,..,..,11,..,..,12,..,..,14,..,..,13,..,..,13,..,..
+Argentina,ARG,PISA: Male 15-year-olds by reading proficiency level (%). Level 1B,LO.PISA.REA.1B.MA,..,..,8,..,..,..,..,..,9,..,..,8,..,..,10,..,..,7,..,..,9,..,..
+Argentina,ARG,PISA: Male 15-year-olds by reading proficiency level (%). Level 1C,LO.PISA.REA.1C.MA,..,..,4,..,..,..,..,..,6,..,..,5,..,..,4,..,..,2,..,..,4,..,..
+Argentina,ARG,PISA: Male 15-year-olds by reading proficiency level (%). Level 2,LO.PISA.REA.2.MA,..,..,11,..,..,..,..,..,9,..,..,11,..,..,12,..,..,14,..,..,12,..,..
+Argentina,ARG,PISA: Male 15-year-olds by reading proficiency level (%). Level 3,LO.PISA.REA.3.MA,..,..,7,..,..,..,..,..,5,..,..,6,..,..,6,..,..,9,..,..,7,..,..
+Argentina,ARG,PISA: Male 15-year-olds by reading proficiency level (%). Level 4,LO.PISA.REA.4.MA,..,..,3,..,..,..,..,..,1,..,..,2,..,..,1,..,..,3,..,..,2,..,..
+Argentina,ARG,PISA: Male 15-year-olds by reading proficiency level (%). Level 5,LO.PISA.REA.5.MA,..,..,0,..,..,..,..,..,0,..,..,0,..,..,0,..,..,0,..,..,0,..,..
+Argentina,ARG,PISA: Male 15-year-olds by reading proficiency level (%). Level 6,LO.PISA.REA.6.MA,..,..,0,..,..,..,..,..,0,..,..,0,..,..,0,..,..,0,..,..,0,..,..
+Argentina,ARG,PISA: Male 15-year-olds by science proficiency level (%). Below Level 1B,LO.PISA.SCI.0.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,1.12779975671837,..,..,4.44410971190092,..,..
+Argentina,ARG,PISA: Male 15-year-olds by science proficiency level (%). Level 1A,LO.PISA.SCI.1A.MA,..,..,..,..,..,..,..,..,28.0569914033107,..,..,26.4307043475304,..,..,31.4239227143746,..,..,26.3840279927064,..,..,29.7399487962391,..,..
+Argentina,ARG,PISA: Male 15-year-olds by science proficiency level (%). Level 1B,LO.PISA.SCI.1B.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,8.91139838046718,..,..,17.2109116200248,..,..
+Argentina,ARG,PISA: Male 15-year-olds by science proficiency level (%). Level 2,LO.PISA.SCI.2.MA,..,..,..,..,..,..,..,..,25.1066708587846,..,..,25.2597570347852,..,..,31.0256656187579,..,..,33.8273583660389,..,..,27.4812195628283,..,..
+Argentina,ARG,PISA: Male 15-year-olds by science proficiency level (%). Level 3,LO.PISA.SCI.3.MA,..,..,..,..,..,..,..,..,12.2351430304385,..,..,15.0187962584188,..,..,13.4044138749185,..,..,22.2615997269255,..,..,15.7049317267958,..,..
+Argentina,ARG,PISA: Male 15-year-olds by science proficiency level (%). Level 4,LO.PISA.SCI.4.MA,..,..,..,..,..,..,..,..,3.44601168547366,..,..,5.32157917965811,..,..,2.97661335410122,..,..,6.44072058995236,..,..,4.75907992199615,..,..
+Argentina,ARG,PISA: Male 15-year-olds by science proficiency level (%). Level 5,LO.PISA.SCI.5.MA,..,..,..,..,..,..,..,..,0.413591667076673,..,..,0.688066936402591,..,..,0.270748580857952,..,..,1.00883116848362,..,..,0.644124462366765,..,..
+Argentina,ARG,PISA: Male 15-year-olds by science proficiency level (%). Level 6,LO.PISA.SCI.6.MA,..,..,..,..,..,..,..,..,0.0236443538640805,..,..,0,..,..,0.00219786979801029,..,..,0.0382640187077446,..,..,0.0156741978481231,..,..
+Argentina,ARG,PISA: Mean performance on the mathematics scale,LO.PISA.MAT,..,..,388,..,..,..,..,..,381.253911744596,..,..,388.068128318725,..,..,388.431709907141,..,..,409.0333,..,..,379.453816602929,..,..
+Argentina,ARG,PISA: Mean performance on the mathematics scale. Female,LO.PISA.MAT.FE,..,..,389,..,..,..,..,..,375.185110382793,..,..,383.234836538462,..,..,381.703703035251,..,..,400.443116055612,..,..,371.848368383667,..,..
+Argentina,ARG,PISA: Mean performance on the mathematics scale. Male,LO.PISA.MAT.MA,..,..,386,..,..,..,..,..,388.073409558528,..,..,393.671847561458,..,..,395.557311566371,..,..,418.388360865522,..,..,387.279359567793,..,..
+Argentina,ARG,PISA: Mean performance on the reading scale,LO.PISA.REA,..,..,418.250700347196,..,..,..,..,..,373.723771602817,..,..,398.260879991497,..,..,395.979122702168,..,..,425.3031,..,..,401.503108807317,..,..
+Argentina,ARG,PISA: Mean performance on the reading scale. Female,LO.PISA.REA.FE,..,..,437.456756967273,..,..,..,..,..,399.105551971482,..,..,415.178249870315,..,..,414.251513601116,..,..,432.95807959441,..,..,409.414080880782,..,..
+Argentina,ARG,PISA: Mean performance on the reading scale. Male,LO.PISA.REA.MA,..,..,393.411760674745,..,..,..,..,..,345.202324710956,..,..,378.646878719441,..,..,376.626916114613,..,..,416.966607209736,..,..,393.363200406132,..,..
+Argentina,ARG,PISA: Mean performance on the science scale,LO.PISA.SCI,..,..,396.166753608723,..,..,..,..,..,391.243901809767,..,..,400.838520183371,..,..,405.632004985595,..,..,432.2262,..,..,404.071444821693,..,..
+Argentina,ARG,PISA: Mean performance on the science scale. Female,LO.PISA.SCI.FE,..,..,402.107182502205,..,..,..,..,..,397.283708730153,..,..,404.436219988575,..,..,408.888760084624,..,..,424.994351346692,..,..,399.231010217297,..,..
+Argentina,ARG,PISA: Mean performance on the science scale. Male,LO.PISA.SCI.MA,..,..,388.442778715895,..,..,..,..,..,384.456984981442,..,..,396.667346468948,..,..,402.182790384734,..,..,440.102029698007,..,..,409.051957195621,..,..
+Bolivia,BOL,PISA: 15-year-olds by mathematics proficiency level (%). Below Level 1,LO.PISA.MAT.0,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: 15-year-olds by mathematics proficiency level (%). Level 1,LO.PISA.MAT.1,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: 15-year-olds by mathematics proficiency level (%). Level 2,LO.PISA.MAT.2,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: 15-year-olds by mathematics proficiency level (%). Level 3,LO.PISA.MAT.3,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: 15-year-olds by mathematics proficiency level (%). Level 4,LO.PISA.MAT.4,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: 15-year-olds by mathematics proficiency level (%). Level 5,LO.PISA.MAT.5,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: 15-year-olds by mathematics proficiency level (%). Level 6,LO.PISA.MAT.6,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: 15-year-olds by reading proficiency level (%). Below Level 1C,LO.PISA.REA.0.B1C,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: 15-year-olds by reading proficiency level (%). Level 1A,LO.PISA.REA.1A,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: 15-year-olds by reading proficiency level (%). Level 1B,LO.PISA.REA.1B,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: 15-year-olds by reading proficiency level (%). Level 1C,LO.PISA.REA.1C,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: 15-year-olds by reading proficiency level (%). Level 2,LO.PISA.REA.2,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: 15-year-olds by reading proficiency level (%). Level 3,LO.PISA.REA.3,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: 15-year-olds by reading proficiency level (%). Level 4,LO.PISA.REA.4,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: 15-year-olds by reading proficiency level (%). Level 5,LO.PISA.REA.5,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: 15-year-olds by reading proficiency level (%). Level 6,LO.PISA.REA.6,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: 15-year-olds by science proficiency level (%). Below Level 1B,LO.PISA.SCI.0,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: 15-year-olds by science proficiency level (%). Level 1A,LO.PISA.SCI.1A,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: 15-year-olds by science proficiency level (%). Level 1B,LO.PISA.SCI.1B,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: 15-year-olds by science proficiency level (%). Level 2,LO.PISA.SCI.2,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: 15-year-olds by science proficiency level (%). Level 3,LO.PISA.SCI.3,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: 15-year-olds by science proficiency level (%). Level 4,LO.PISA.SCI.4,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: 15-year-olds by science proficiency level (%). Level 5,LO.PISA.SCI.5,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: 15-year-olds by science proficiency level (%). Level 6,LO.PISA.SCI.6,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: Distribution of Mathematics Scores: 10th Percentile Score,LO.PISA.MAT.P10,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: Distribution of Mathematics Scores: 25th Percentile Score,LO.PISA.MAT.P25,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: Distribution of Mathematics Scores: 50th Percentile Score,LO.PISA.MAT.P50,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: Distribution of Mathematics Scores: 5th Percentile Score,LO.PISA.MAT.P05,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: Distribution of Mathematics Scores: 75th Percentile Score,LO.PISA.MAT.P75,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: Distribution of Mathematics Scores: 90th Percentile Score,LO.PISA.MAT.P90,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: Distribution of Mathematics Scores: 95th Percentile Score,LO.PISA.MAT.P95,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: Distribution of Reading Scores: 10th Percentile Score,LO.PISA.REA.P10,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: Distribution of Reading Scores: 25th Percentile Score,LO.PISA.REA.P25,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: Distribution of Reading Scores: 50th Percentile Score,LO.PISA.REA.P50,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: Distribution of Reading Scores: 5th Percentile Score,LO.PISA.REA.P05,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: Distribution of Reading Scores: 75th Percentile Score,LO.PISA.REA.P75,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: Distribution of Reading Scores: 90th Percentile Score,LO.PISA.REA.P90,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: Distribution of Reading Scores: 95th Percentile Score,LO.PISA.REA.P95,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: Distribution of Science Scores: 10th Percentile Score,LO.PISA.SCI.P10,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: Distribution of Science Scores: 25th Percentile Score,LO.PISA.SCI.P25,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: Distribution of Science Scores: 50th Percentile Score,LO.PISA.SCI.P50,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: Distribution of Science Scores: 5th Percentile Score,LO.PISA.SCI.P05,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: Distribution of Science Scores: 75th Percentile Score,LO.PISA.SCI.P75,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: Distribution of Science Scores: 90th Percentile Score,LO.PISA.SCI.P90,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: Distribution of Science Scores: 95th Percentile Score,LO.PISA.SCI.P95,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: Female 15-year-olds by mathematics proficiency level (%). Below Level 1,LO.PISA.MAT.0.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: Female 15-year-olds by mathematics proficiency level (%). Level 1,LO.PISA.MAT.1.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: Female 15-year-olds by mathematics proficiency level (%). Level 2,LO.PISA.MAT.2.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: Female 15-year-olds by mathematics proficiency level (%). Level 3,LO.PISA.MAT.3.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: Female 15-year-olds by mathematics proficiency level (%). Level 4,LO.PISA.MAT.4.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: Female 15-year-olds by mathematics proficiency level (%). Level 5,LO.PISA.MAT.5.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: Female 15-year-olds by mathematics proficiency level (%). Level 6,LO.PISA.MAT.6.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: Female 15-year-olds by reading proficiency level (%). Below Level 1C,LO.PISA.REA.0.B1C.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: Female 15-year-olds by reading proficiency level (%). Level 1A,LO.PISA.REA.1A.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: Female 15-year-olds by reading proficiency level (%). Level 1B,LO.PISA.REA.1B.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: Female 15-year-olds by reading proficiency level (%). Level 1C,LO.PISA.REA.1C.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: Female 15-year-olds by reading proficiency level (%). Level 2,LO.PISA.REA.2.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: Female 15-year-olds by reading proficiency level (%). Level 3,LO.PISA.REA.3.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: Female 15-year-olds by reading proficiency level (%). Level 4,LO.PISA.REA.4.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: Female 15-year-olds by reading proficiency level (%). Level 5,LO.PISA.REA.5.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: Female 15-year-olds by reading proficiency level (%). Level 6,LO.PISA.REA.6.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: Female 15-year-olds by science proficiency level (%). Below Level 1B,LO.PISA.SCI.0.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: Female 15-year-olds by science proficiency level (%). Level 1A,LO.PISA.SCI.1A.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: Female 15-year-olds by science proficiency level (%). Level 1B,LO.PISA.SCI.1B.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: Female 15-year-olds by science proficiency level (%). Level 2,LO.PISA.SCI.2.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: Female 15-year-olds by science proficiency level (%). Level 3,LO.PISA.SCI.3.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: Female 15-year-olds by science proficiency level (%). Level 4,LO.PISA.SCI.4.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: Female 15-year-olds by science proficiency level (%). Level 5,LO.PISA.SCI.5.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: Female 15-year-olds by science proficiency level (%). Level 6,LO.PISA.SCI.6.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: Male 15-year-olds by mathematics proficiency level (%). Below Level 1,LO.PISA.MAT.0.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: Male 15-year-olds by mathematics proficiency level (%). Level 1,LO.PISA.MAT.1.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: Male 15-year-olds by mathematics proficiency level (%). Level 2,LO.PISA.MAT.2.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: Male 15-year-olds by mathematics proficiency level (%). Level 3,LO.PISA.MAT.3.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: Male 15-year-olds by mathematics proficiency level (%). Level 4,LO.PISA.MAT.4.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: Male 15-year-olds by mathematics proficiency level (%). Level 5,LO.PISA.MAT.5.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: Male 15-year-olds by mathematics proficiency level (%). Level 6,LO.PISA.MAT.6.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: Male 15-year-olds by reading proficiency level (%). Below Level 1C,LO.PISA.REA.0.B1C.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: Male 15-year-olds by reading proficiency level (%). Level 1A,LO.PISA.REA.1A.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: Male 15-year-olds by reading proficiency level (%). Level 1B,LO.PISA.REA.1B.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: Male 15-year-olds by reading proficiency level (%). Level 1C,LO.PISA.REA.1C.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: Male 15-year-olds by reading proficiency level (%). Level 2,LO.PISA.REA.2.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: Male 15-year-olds by reading proficiency level (%). Level 3,LO.PISA.REA.3.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: Male 15-year-olds by reading proficiency level (%). Level 4,LO.PISA.REA.4.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: Male 15-year-olds by reading proficiency level (%). Level 5,LO.PISA.REA.5.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: Male 15-year-olds by reading proficiency level (%). Level 6,LO.PISA.REA.6.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: Male 15-year-olds by science proficiency level (%). Below Level 1B,LO.PISA.SCI.0.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: Male 15-year-olds by science proficiency level (%). Level 1A,LO.PISA.SCI.1A.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: Male 15-year-olds by science proficiency level (%). Level 1B,LO.PISA.SCI.1B.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: Male 15-year-olds by science proficiency level (%). Level 2,LO.PISA.SCI.2.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: Male 15-year-olds by science proficiency level (%). Level 3,LO.PISA.SCI.3.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: Male 15-year-olds by science proficiency level (%). Level 4,LO.PISA.SCI.4.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: Male 15-year-olds by science proficiency level (%). Level 5,LO.PISA.SCI.5.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: Male 15-year-olds by science proficiency level (%). Level 6,LO.PISA.SCI.6.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: Mean performance on the mathematics scale,LO.PISA.MAT,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: Mean performance on the mathematics scale. Female,LO.PISA.MAT.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: Mean performance on the mathematics scale. Male,LO.PISA.MAT.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: Mean performance on the reading scale,LO.PISA.REA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: Mean performance on the reading scale. Female,LO.PISA.REA.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: Mean performance on the reading scale. Male,LO.PISA.REA.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: Mean performance on the science scale,LO.PISA.SCI,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: Mean performance on the science scale. Female,LO.PISA.SCI.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Bolivia,BOL,PISA: Mean performance on the science scale. Male,LO.PISA.SCI.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Brazil,BRA,PISA: 15-year-olds by mathematics proficiency level (%). Below Level 1,LO.PISA.MAT.0,..,..,..,..,..,53.263950101,..,..,46.5705626703395,..,..,38.1256619140479,..,..,35.2240470506599,..,..,43.7440364617467,..,..,41.0252772203941,..,..
+Brazil,BRA,PISA: 15-year-olds by mathematics proficiency level (%). Level 1,LO.PISA.MAT.1,..,..,..,..,..,21.904645698,..,..,25.9493659078347,..,..,30.9935050404792,..,..,31.8650426002583,..,..,26.5073320275074,..,..,27.0685893697091,..,..
+Brazil,BRA,PISA: 15-year-olds by mathematics proficiency level (%). Level 2,LO.PISA.MAT.2,..,..,..,..,..,14.126676278,..,..,16.5613238391596,..,..,18.9633239009766,..,..,20.4052062541166,..,..,17.1827010111607,..,..,18.2366749963861,..,..
+Brazil,BRA,PISA: 15-year-olds by mathematics proficiency level (%). Level 3,LO.PISA.MAT.3,..,..,..,..,..,6.8167786104,..,..,7.08656586089446,..,..,8.13533757111611,..,..,8.89270574018445,..,..,8.58164989722646,..,..,9.28437765173445,..,..
+Brazil,BRA,PISA: 15-year-olds by mathematics proficiency level (%). Level 4,LO.PISA.MAT.4,..,..,..,..,..,2.6985183154,..,..,2.81420250295341,..,..,2.98326518568274,..,..,2.8598847721449,..,..,3.09004204856284,..,..,3.44581801461069,..,..
+Brazil,BRA,PISA: 15-year-olds by mathematics proficiency level (%). Level 5,LO.PISA.MAT.5,..,..,..,..,..,0.9124907013,..,..,0.8359884081854,..,..,0.728868219141788,..,..,0.70923109606357,..,..,0.765344741880721,..,..,0.809727194265781,..,..
+Brazil,BRA,PISA: 15-year-olds by mathematics proficiency level (%). Level 6,LO.PISA.MAT.6,..,..,..,..,..,0.2769402961,..,..,0.181990810632921,..,..,0.0700381685555536,..,..,0.0438824865722621,..,..,0.128893811915214,..,..,0.129535552899739,..,..
+Brazil,BRA,PISA: 15-year-olds by reading proficiency level (%). Below Level 1C,LO.PISA.REA.0.B1C,..,..,1,..,..,3,..,..,3,..,..,1,..,..,1,..,..,1,..,..,0,..,..
+Brazil,BRA,PISA: 15-year-olds by reading proficiency level (%). Level 1A,LO.PISA.REA.1A,..,..,33,..,..,23,..,..,28,..,..,29,..,..,30,..,..,27,..,..,27,..,..
+Brazil,BRA,PISA: 15-year-olds by reading proficiency level (%). Level 1B,LO.PISA.REA.1B,..,..,17,..,..,16,..,..,18,..,..,16,..,..,16,..,..,17,..,..,18,..,..
+Brazil,BRA,PISA: 15-year-olds by reading proficiency level (%). Level 1C,LO.PISA.REA.1C,..,..,5,..,..,8,..,..,7,..,..,4,..,..,4,..,..,6,..,..,5,..,..
+Brazil,BRA,PISA: 15-year-olds by reading proficiency level (%). Level 2,LO.PISA.REA.2,..,..,28,..,..,25,..,..,25,..,..,27,..,..,29,..,..,25,..,..,25,..,..
+Brazil,BRA,PISA: 15-year-olds by reading proficiency level (%). Level 3,LO.PISA.REA.3,..,..,13,..,..,17,..,..,13,..,..,16,..,..,15,..,..,16,..,..,16,..,..
+Brazil,BRA,PISA: 15-year-olds by reading proficiency level (%). Level 4,LO.PISA.REA.4,..,..,3,..,..,6,..,..,5,..,..,6,..,..,4,..,..,6,..,..,7,..,..
+Brazil,BRA,PISA: 15-year-olds by reading proficiency level (%). Level 5,LO.PISA.REA.5,..,..,1,..,..,2,..,..,1,..,..,1,..,..,0,..,..,1,..,..,2,..,..
+Brazil,BRA,PISA: 15-year-olds by reading proficiency level (%). Level 6,LO.PISA.REA.6,..,..,0,..,..,0,..,..,0,..,..,0,..,..,0,..,..,0,..,..,0,..,..
+Brazil,BRA,PISA: 15-year-olds by science proficiency level (%). Below Level 1B,LO.PISA.SCI.0,..,..,..,..,..,..,..,..,6,..,..,3,..,..,3,..,..,4.37501642204364,..,..,4.02500749010532,..,..
+Brazil,BRA,PISA: 15-year-olds by science proficiency level (%). Level 1A,LO.PISA.SCI.1A,..,..,..,..,..,30.8303275353845,..,..,33.0938428631187,..,..,34.4712804890906,..,..,35.0966575030431,..,..,32.3732175373914,..,..,31.4438221540345,..,..
+Brazil,BRA,PISA: 15-year-olds by science proficiency level (%). Level 1B,LO.PISA.SCI.1B,..,..,..,..,..,..,..,..,22,..,..,17,..,..,16,..,..,19.8503561976483,..,..,19.9186025632997,..,..
+Brazil,BRA,PISA: 15-year-olds by science proficiency level (%). Level 2,LO.PISA.SCI.2,..,..,..,..,..,23.4382993201924,..,..,23.7793078599436,..,..,28.7835860000935,..,..,30.7268033156378,..,..,25.3613668168256,..,..,25.300734379312,..,..
+Brazil,BRA,PISA: 15-year-olds by science proficiency level (%). Level 3,LO.PISA.SCI.3,..,..,..,..,..,11.6497477152471,..,..,11.2505454917698,..,..,12.6168106739917,..,..,12.4931327943365,..,..,13.147515003033,..,..,13.8958700418094,..,..
+Brazil,BRA,PISA: 15-year-olds by science proficiency level (%). Level 4,LO.PISA.SCI.4,..,..,..,..,..,4.2729264886932,..,..,3.40225587572826,..,..,3.85153121965942,..,..,2.76958688576698,..,..,4.2197562310837,..,..,4.61991060314418,..,..
+Brazil,BRA,PISA: 15-year-olds by science proficiency level (%). Level 5,LO.PISA.SCI.5,..,..,..,..,..,0.767909223860402,..,..,0.517630551372941,..,..,0.553397861932454,..,..,0.295551965478162,..,..,0.648725380781654,..,..,0.759678884106835,..,..
+Brazil,BRA,PISA: 15-year-olds by science proficiency level (%). Level 6,LO.PISA.SCI.6,..,..,..,..,..,0,..,..,0.0358116316101968,..,..,0,..,..,0.00260402597476173,..,..,0.0240464111927405,..,..,0.0363738841880202,..,..
+Brazil,BRA,PISA: Distribution of Mathematics Scores: 10th Percentile Score,LO.PISA.MAT.P10,..,..,212,..,..,233.2918,..,..,255.483720205639,..,..,286.890481383393,..,..,297.87352,..,..,267.3868,..,..,276.5052,..,..
+Brazil,BRA,PISA: Distribution of Mathematics Scores: 25th Percentile Score,LO.PISA.MAT.P25,..,..,266,..,..,285.76102,..,..,307.594640909799,..,..,330.931609284935,..,..,337.36566,..,..,314.7235,..,..,321.76,..,..
+Brazil,BRA,PISA: Distribution of Mathematics Scores: 50th Percentile Score,LO.PISA.MAT.P50,..,..,334,..,..,356.01579097,..,..,369.515046708324,..,..,385.814111985143,..,..,391.459888954175,..,..,371.3515,..,..,376.8624,..,..
+Brazil,BRA,PISA: Distribution of Mathematics Scores: 5th Percentile Score,LO.PISA.MAT.P05,..,..,179,..,..,202.61724,..,..,225.479046580464,..,..,261.076491665368,..,..,274.50538,..,..,240.2542,..,..,250.8056,..,..
+Brazil,BRA,PISA: Distribution of Mathematics Scores: 75th Percentile Score,LO.PISA.MAT.P75,..,..,399,..,..,419.31764,..,..,426.881134133043,..,..,434.966505686244,..,..,439.98284,..,..,434.0156,..,..,439.981,..,..
+Brazil,BRA,PISA: Distribution of Mathematics Scores: 90th Percentile Score,LO.PISA.MAT.P90,..,..,464,..,..,487.83298,..,..,486.983953886898,..,..,492.872721607727,..,..,494.8668,..,..,496.2034,..,..,500.6473,..,..
+Brazil,BRA,PISA: Distribution of Mathematics Scores: 95th Percentile Score,LO.PISA.MAT.P95,..,..,499,..,..,528.291,..,..,529.950147998131,..,..,531.180869294283,..,..,529.54512,..,..,533.4938,..,..,538.2465,..,..
+Brazil,BRA,PISA: Distribution of Reading Scores: 10th Percentile Score,LO.PISA.REA.P10,..,..,287.673999999996,..,..,255.84902,..,..,263.565581818182,..,..,292.686875113615,..,..,302.04558,..,..,279.1686,..,..,285.8658,..,..
+Brazil,BRA,PISA: Distribution of Reading Scores: 25th Percentile Score,LO.PISA.REA.P25,..,..,338.779999999993,..,..,328.03636,..,..,325.854350909091,..,..,347.51625159062,..,..,352.80472,..,..,336.4213,..,..,339.8507,..,..
+Brazil,BRA,PISA: Distribution of Reading Scores: 50th Percentile Score,LO.PISA.REA.P50,..,..,396.029083682819,..,..,402.79628397,..,..,392.88511252389,..,..,411.754927512485,..,..,410.121847655763,..,..,404.8044,..,..,407.6026,..,..
+Brazil,BRA,PISA: Distribution of Reading Scores: 5th Percentile Score,LO.PISA.REA.P05,..,..,255,..,..,213.71826,..,..,224.457376363636,..,..,262.152972186875,..,..,270.81464,..,..,246.9765,..,..,258.058,..,..
+Brazil,BRA,PISA: Distribution of Reading Scores: 75th Percentile Score,LO.PISA.REA.P75,..,..,452.065999999992,..,..,479.28874,..,..,460.159358181818,..,..,474.400563533903,..,..,467.73052,..,..,477.1397,..,..,482.1287,..,..
+Brazil,BRA,PISA: Distribution of Reading Scores: 90th Percentile Score,LO.PISA.REA.P90,..,..,506.883999999991,..,..,542.32474,..,..,522.634121818182,..,..,536.619432830395,..,..,520.15336,..,..,539.4847,..,..,548.1319,..,..
+Brazil,BRA,PISA: Distribution of Reading Scores: 95th Percentile Score,LO.PISA.REA.P95,..,..,539,..,..,580.76398,..,..,561.819263636364,..,..,571.776676967824,..,..,552.27102,..,..,575.6255,..,..,583.8177,..,..
+Brazil,BRA,PISA: Distribution of Science Scores: 10th Percentile Score,LO.PISA.SCI.P10,..,..,262,..,..,267.86678,..,..,281.103736436579,..,..,302.256620663931,..,..,306.11714,..,..,290.6869,..,..,292.4679,..,..
+Brazil,BRA,PISA: Distribution of Science Scores: 25th Percentile Score,LO.PISA.SCI.P25,..,..,315,..,..,323.36992,..,..,327.690128862373,..,..,348.414770607982,..,..,351.02572,..,..,336.8203,..,..,337.6071,..,..
+Brazil,BRA,PISA: Distribution of Science Scores: 50th Percentile Score,LO.PISA.SCI.P50,..,..,375.168949766359,..,..,389.61963651,..,..,390.331570738221,..,..,405.403988763084,..,..,404.710529258465,..,..,393.9767,..,..,396.327,..,..
+Brazil,BRA,PISA: Distribution of Science Scores: 5th Percentile Score,LO.PISA.SCI.P05,..,..,230,..,..,234.60486,..,..,253.987397530612,..,..,274.729578515479,..,..,279.9515,..,..,265.1225,..,..,267.785,..,..
+Brazil,BRA,PISA: Distribution of Science Scores: 75th Percentile Score,LO.PISA.SCI.P75,..,..,432,..,..,452.20532,..,..,447.140026175108,..,..,458.485639686685,..,..,456.26632,..,..,459.7103,..,..,464.2448,..,..
+Brazil,BRA,PISA: Distribution of Science Scores: 90th Percentile Score,LO.PISA.SCI.P90,..,..,492,..,..,519.94562,..,..,509.653071575934,..,..,517.064528161134,..,..,507.0869,..,..,521.9678,..,..,526.6831,..,..
+Brazil,BRA,PISA: Distribution of Science Scores: 95th Percentile Score,LO.PISA.SCI.P95,..,..,531,..,..,559.8708,..,..,548.910219716966,..,..,554.08429690414,..,..,537.87768,..,..,557.687,..,..,562.7114,..,..
+Brazil,BRA,PISA: Female 15-year-olds by mathematics proficiency level (%). Below Level 1,LO.PISA.MAT.0.FE,..,..,..,..,..,55.141703925,..,..,50.0809216947326,..,..,41.6184742720388,..,..,39.0144884709505,..,..,46.7137404913271,..,..,42.1751233499464,..,..
+Brazil,BRA,PISA: Female 15-year-olds by mathematics proficiency level (%). Level 1,LO.PISA.MAT.1.FE,..,..,..,..,..,22.316430018,..,..,25.5846204679699,..,..,30.4416556622376,..,..,32.0674317701351,..,..,26.9467276472608,..,..,27.9935769779053,..,..
+Brazil,BRA,PISA: Female 15-year-olds by mathematics proficiency level (%). Level 2,LO.PISA.MAT.2.FE,..,..,..,..,..,14.328227445,..,..,15.2925267295485,..,..,17.726744099264,..,..,18.9747165001704,..,..,16.123123250052,..,..,17.9610982424696,..,..
+Brazil,BRA,PISA: Female 15-year-olds by mathematics proficiency level (%). Level 3,LO.PISA.MAT.3.FE,..,..,..,..,..,5.7095861454,..,..,6.05712793592399,..,..,7.38041743279032,..,..,7.44167104172861,..,..,7.21588404385553,..,..,8.62342079276223,..,..
+Brazil,BRA,PISA: Female 15-year-olds by mathematics proficiency level (%). Level 4,LO.PISA.MAT.4.FE,..,..,..,..,..,1.9613397137,..,..,2.27403408321858,..,..,2.33289697383769,..,..,2.0607038164785,..,..,2.36571655803464,..,..,2.67788391549864,..,..
+Brazil,BRA,PISA: Female 15-year-olds by mathematics proficiency level (%). Level 5,LO.PISA.MAT.5.FE,..,..,..,..,..,0.4637528334,..,..,0.636212178841537,..,..,0.483719507333279,..,..,0.407797461572289,..,..,0.552953792491231,..,..,0.513957046271023,..,..
+Brazil,BRA,PISA: Female 15-year-olds by mathematics proficiency level (%). Level 6,LO.PISA.MAT.6.FE,..,..,..,..,..,0.0789599193,..,..,0.074556909764822,..,..,0,..,..,0.033190938964559,..,..,0.0818542169786667,..,..,0.0549396751467819,..,..
+Brazil,BRA,PISA: Female 15-year-olds by reading proficiency level (%). Below Level 1C,LO.PISA.REA.0.B1C.FE,..,..,0,..,..,1,..,..,1,..,..,0,..,..,0,..,..,0,..,..,0,..,..
+Brazil,BRA,PISA: Female 15-year-olds by reading proficiency level (%). Level 1A,LO.PISA.REA.1A.FE,..,..,18,..,..,12,..,..,15,..,..,15,..,..,15,..,..,14,..,..,13,..,..
+Brazil,BRA,PISA: Female 15-year-olds by reading proficiency level (%). Level 1B,LO.PISA.REA.1B.FE,..,..,8,..,..,8,..,..,8,..,..,7,..,..,6,..,..,8,..,..,7,..,..
+Brazil,BRA,PISA: Female 15-year-olds by reading proficiency level (%). Level 1C,LO.PISA.REA.1C.FE,..,..,2,..,..,3,..,..,3,..,..,2,..,..,1,..,..,2,..,..,2,..,..
+Brazil,BRA,PISA: Female 15-year-olds by reading proficiency level (%). Level 2,LO.PISA.REA.2.FE,..,..,16,..,..,15,..,..,15,..,..,16,..,..,17,..,..,14,..,..,13,..,..
+Brazil,BRA,PISA: Female 15-year-olds by reading proficiency level (%). Level 3,LO.PISA.REA.3.FE,..,..,8,..,..,10,..,..,8,..,..,10,..,..,9,..,..,9,..,..,9,..,..
+Brazil,BRA,PISA: Female 15-year-olds by reading proficiency level (%). Level 4,LO.PISA.REA.4.FE,..,..,2,..,..,4,..,..,3,..,..,4,..,..,3,..,..,4,..,..,4,..,..
+Brazil,BRA,PISA: Female 15-year-olds by reading proficiency level (%). Level 5,LO.PISA.REA.5.FE,..,..,0,..,..,1,..,..,1,..,..,1,..,..,0,..,..,1,..,..,1,..,..
+Brazil,BRA,PISA: Female 15-year-olds by reading proficiency level (%). Level 6,LO.PISA.REA.6.FE,..,..,0,..,..,0,..,..,0,..,..,0,..,..,0,..,..,0,..,..,0,..,..
+Brazil,BRA,PISA: Female 15-year-olds by science proficiency level (%). Below Level 1B,LO.PISA.SCI.0.FE,..,..,..,..,..,..,..,..,6,..,..,3,..,..,2,..,..,4.1047721464731,..,..,3.53803961680905,..,..
+Brazil,BRA,PISA: Female 15-year-olds by science proficiency level (%). Level 1A,LO.PISA.SCI.1A.FE,..,..,..,..,..,31.9263220154043,..,..,34.4077827074987,..,..,34.9024178877757,..,..,36.2204650198768,..,..,33.7385529727776,..,..,32.7156904102682,..,..
+Brazil,BRA,PISA: Female 15-year-olds by science proficiency level (%). Level 1B,LO.PISA.SCI.1B.FE,..,..,..,..,..,..,..,..,23,..,..,17,..,..,16,..,..,19.6586818854008,..,..,18.7752422194382,..,..
+Brazil,BRA,PISA: Female 15-year-olds by science proficiency level (%). Level 2,LO.PISA.SCI.2.FE,..,..,..,..,..,23.7318527558166,..,..,22.7975043018134,..,..,28.8680111588849,..,..,30.9881912634953,..,..,25.9691560789648,..,..,26.3203066276149,..,..
+Brazil,BRA,PISA: Female 15-year-olds by science proficiency level (%). Level 3,LO.PISA.SCI.3.FE,..,..,..,..,..,11.3849718050981,..,..,10.6952789341736,..,..,12.5148915358936,..,..,12.080214054523,..,..,12.4641318146097,..,..,13.8085506657438,..,..
+Brazil,BRA,PISA: Female 15-year-olds by science proficiency level (%). Level 4,LO.PISA.SCI.4.FE,..,..,..,..,..,3.44004113144199,..,..,2.84943275922344,..,..,3.4446934541742,..,..,2.42689923401708,..,..,3.56453968883008,..,..,4.17564919873,..,..
+Brazil,BRA,PISA: Female 15-year-olds by science proficiency level (%). Level 5,LO.PISA.SCI.5.FE,..,..,..,..,..,0.534072941048887,..,..,0.357782080621305,..,..,0.447392878567499,..,..,0.261068908266972,..,..,0.479737606289883,..,..,0.64307292598133,..,..
+Brazil,BRA,PISA: Female 15-year-olds by science proficiency level (%). Level 6,LO.PISA.SCI.6.FE,..,..,..,..,..,0,..,..,0.00675612947627006,..,..,0,..,..,0.00501710726747717,..,..,0.0204278066540733,..,..,0.0234483354145351,..,..
+Brazil,BRA,PISA: Male 15-year-olds by mathematics proficiency level (%). Below Level 1,LO.PISA.MAT.0.MA,..,..,..,..,..,51.148836012,..,..,42.4833439556606,..,..,34.172689662503,..,..,31.0896164519455,..,..,40.5962927541438,..,..,39.8746613475387,..,..
+Brazil,BRA,PISA: Male 15-year-olds by mathematics proficiency level (%). Level 1,LO.PISA.MAT.1.MA,..,..,..,..,..,21.389963102,..,..,26.3740502143542,..,..,31.6180577091133,..,..,31.6442862597676,..,..,26.0415937642156,..,..,26.1429825456034,..,..
+Brazil,BRA,PISA: Male 15-year-olds by mathematics proficiency level (%). Level 2,LO.PISA.MAT.2.MA,..,..,..,..,..,13.873608955,..,..,18.0386232422967,..,..,20.3628166712676,..,..,21.9655154514052,..,..,18.3058025717955,..,..,18.5124362300825,..,..
+Brazil,BRA,PISA: Male 15-year-olds by mathematics proficiency level (%). Level 3,LO.PISA.MAT.3.MA,..,..,..,..,..,8.1000452531,..,..,8.28517202148996,..,..,8.98971451813618,..,..,10.475424371576,..,..,10.0292961367795,..,..,9.9457769760964,..,..
+Brazil,BRA,PISA: Male 15-year-olds by mathematics proficiency level (%). Level 4,LO.PISA.MAT.4.MA,..,..,..,..,..,3.5511898726,..,..,3.44313716715074,..,..,3.71931603273976,..,..,3.73159279520772,..,..,3.85779229651898,..,..,4.2142661930546,..,..
+Brazil,BRA,PISA: Male 15-year-olds by mathematics proficiency level (%). Level 5,LO.PISA.MAT.5.MA,..,..,..,..,..,1.4308418899,..,..,1.06859400141625,..,..,1.00631400092391,..,..,1.03802035930112,..,..,0.990468952183623,..,..,1.10569534013593,..,..
+Brazil,BRA,PISA: Male 15-year-olds by mathematics proficiency level (%). Level 6,LO.PISA.MAT.6.MA,..,..,..,..,..,0.5055149156,..,..,0.307079397631504,..,..,0.13109140531622,..,..,0.0555443107968164,..,..,0.178753524362936,..,..,0.204181367488473,..,..
+Brazil,BRA,PISA: Male 15-year-olds by reading proficiency level (%). Below Level 1C,LO.PISA.REA.0.B1C.MA,..,..,1,..,..,2,..,..,2,..,..,1,..,..,0,..,..,1,..,..,0,..,..
+Brazil,BRA,PISA: Male 15-year-olds by reading proficiency level (%). Level 1A,LO.PISA.REA.1A.MA,..,..,15,..,..,11,..,..,13,..,..,14,..,..,15,..,..,13,..,..,14,..,..
+Brazil,BRA,PISA: Male 15-year-olds by reading proficiency level (%). Level 1B,LO.PISA.REA.1B.MA,..,..,9,..,..,8,..,..,10,..,..,9,..,..,10,..,..,10,..,..,10,..,..
+Brazil,BRA,PISA: Male 15-year-olds by reading proficiency level (%). Level 1C,LO.PISA.REA.1C.MA,..,..,3,..,..,5,..,..,4,..,..,3,..,..,3,..,..,4,..,..,4,..,..
+Brazil,BRA,PISA: Male 15-year-olds by reading proficiency level (%). Level 2,LO.PISA.REA.2.MA,..,..,12,..,..,10,..,..,10,..,..,11,..,..,12,..,..,11,..,..,11,..,..
+Brazil,BRA,PISA: Male 15-year-olds by reading proficiency level (%). Level 3,LO.PISA.REA.3.MA,..,..,5,..,..,7,..,..,5,..,..,6,..,..,6,..,..,7,..,..,7,..,..
+Brazil,BRA,PISA: Male 15-year-olds by reading proficiency level (%). Level 4,LO.PISA.REA.4.MA,..,..,1,..,..,2,..,..,2,..,..,2,..,..,2,..,..,3,..,..,3,..,..
+Brazil,BRA,PISA: Male 15-year-olds by reading proficiency level (%). Level 5,LO.PISA.REA.5.MA,..,..,0,..,..,1,..,..,0,..,..,0,..,..,0,..,..,1,..,..,1,..,..
+Brazil,BRA,PISA: Male 15-year-olds by reading proficiency level (%). Level 6,LO.PISA.REA.6.MA,..,..,0,..,..,0,..,..,0,..,..,0,..,..,0,..,..,0,..,..,0,..,..
+Brazil,BRA,PISA: Male 15-year-olds by science proficiency level (%). Below Level 1B,LO.PISA.SCI.0.MA,..,..,..,..,..,..,..,..,5,..,..,3,..,..,3,..,..,4.66146238078893,..,..,4.51230135507097,..,..
+Brazil,BRA,PISA: Male 15-year-olds by science proficiency level (%). Level 1A,LO.PISA.SCI.1A.MA,..,..,..,..,..,29.5501277588246,..,..,31.5639823888498,..,..,33.9833429765855,..,..,33.8708624914673,..,..,30.9260275202399,..,..,30.1711024690336,..,..
+Brazil,BRA,PISA: Male 15-year-olds by science proficiency level (%). Level 1B,LO.PISA.SCI.1B.MA,..,..,..,..,..,..,..,..,22,..,..,16,..,..,16,..,..,20.0535217671044,..,..,21.0627283086747,..,..
+Brazil,BRA,PISA: Male 15-year-olds by science proficiency level (%). Level 2,LO.PISA.SCI.2.MA,..,..,..,..,..,23.0803894743359,..,..,24.9224518657399,..,..,28.6880382649649,..,..,30.4416939550307,..,..,24.7171393765179,..,..,24.2804795971553,..,..
+Brazil,BRA,PISA: Male 15-year-olds by science proficiency level (%). Level 3,LO.PISA.SCI.3.MA,..,..,..,..,..,11.9585546661415,..,..,11.8970593811106,..,..,12.7321571293722,..,..,12.9435246308989,..,..,13.871868376236,..,..,13.9832478722222,..,..
+Brazil,BRA,PISA: Male 15-year-olds by science proficiency level (%). Level 4,LO.PISA.SCI.4.MA,..,..,..,..,..,5.23745571536866,..,..,4.04592479163818,..,..,4.31196774845386,..,..,3.14337404037437,..,..,4.91425431151622,..,..,5.0644694101691,..,..
+Brazil,BRA,PISA: Male 15-year-olds by science proficiency level (%). Level 5,LO.PISA.SCI.5.MA,..,..,..,..,..,1.03829715624583,..,..,0.703747030237053,..,..,0.673368451480009,..,..,0.333164420351619,..,..,0.82784430930784,..,..,0.876362901942298,..,..
+Brazil,BRA,PISA: Male 15-year-olds by science proficiency level (%). Level 6,LO.PISA.SCI.6.MA,..,..,..,..,..,0,..,..,0.0696418442069584,..,..,0,..,..,0,..,..,0.0278819582888272,..,..,0.0493080857319515,..,..
+Brazil,BRA,PISA: Mean performance on the mathematics scale,LO.PISA.MAT,..,..,334,..,..,356.01579097,..,..,369.515046708324,..,..,385.814111985143,..,..,391.459888954175,..,..,377.0695,..,..,383.56912410618,..,..
+Brazil,BRA,PISA: Mean performance on the mathematics scale. Female,LO.PISA.MAT.FE,..,..,322,..,..,348.4398014,..,..,360.870109204733,..,..,378.53897294914,..,..,382.92535440549,..,..,369.549307407329,..,..,379.269456136934,..,..
+Brazil,BRA,PISA: Mean performance on the mathematics scale. Male,LO.PISA.MAT.MA,..,..,349,..,..,364.69763536,..,..,379.580612682163,..,..,394.047712816765,..,..,400.768947417648,..,..,385.040590455449,..,..,387.871670408919,..,..
+Brazil,BRA,PISA: Mean performance on the reading scale,LO.PISA.REA,..,..,396.029083682819,..,..,402.79628397,..,..,392.88511252389,..,..,411.754927512485,..,..,410.121847655763,..,..,407.3486,..,..,412.87331668525,..,..
+Brazil,BRA,PISA: Mean performance on the reading scale. Female,LO.PISA.REA.FE,..,..,404.302980672766,..,..,418.85041418,..,..,407.553196953584,..,..,425.183035279245,..,..,424.733890691266,..,..,418.561682215033,..,..,425.71064817308,..,..
+Brazil,BRA,PISA: Mean performance on the reading scale. Male,LO.PISA.REA.MA,..,..,387.636777336646,..,..,384.21793132,..,..,375.806611785661,..,..,396.557736265922,..,..,394.183736196679,..,..,395.463254933214,..,..,400.027391482409,..,..
+Brazil,BRA,PISA: Mean performance on the science scale,LO.PISA.SCI,..,..,375.168949766359,..,..,389.61963651,..,..,390.331570738221,..,..,405.403988763084,..,..,404.710529258465,..,..,400.6821,..,..,403.620942039241,..,..
+Brazil,BRA,PISA: Mean performance on the science scale. Female,LO.PISA.SCI.FE,..,..,375.675949262877,..,..,386.87999335,..,..,386.193380058665,..,..,403.847548912967,..,..,403.949198502962,..,..,398.699999107607,..,..,404.389102013817,..,..
+Brazil,BRA,PISA: Mean performance on the science scale. Male,LO.PISA.SCI.MA,..,..,375.763844564699,..,..,392.75717484,..,..,395.149793111732,..,..,407.165481482454,..,..,405.540952109597,..,..,402.783037454013,..,..,402.852267834125,..,..
+Colombia,COL,PISA: 15-year-olds by mathematics proficiency level (%). Below Level 1,LO.PISA.MAT.0,..,..,..,..,..,..,..,..,44.5898958311231,..,..,38.8371931771458,..,..,41.6464981412905,..,..,35.3941457631837,..,..,35.5007491711865,..,..
+Colombia,COL,PISA: 15-year-olds by mathematics proficiency level (%). Level 1,LO.PISA.MAT.1,..,..,..,..,..,..,..,..,27.3062994753771,..,..,31.6100666833105,..,..,32.1705183420304,..,..,30.8925887075339,..,..,29.8860462008527,..,..
+Colombia,COL,PISA: 15-year-olds by mathematics proficiency level (%). Level 2,LO.PISA.MAT.2,..,..,..,..,..,..,..,..,18.1656462003096,..,..,20.3200221499004,..,..,17.8298169654914,..,..,21.5252234689112,..,..,21.0885141346417,..,..
+Colombia,COL,PISA: 15-year-olds by mathematics proficiency level (%). Level 3,LO.PISA.MAT.3,..,..,..,..,..,..,..,..,7.59384566418408,..,..,7.51456253278198,..,..,6.43668513555558,..,..,9.52051179996878,..,..,9.95015859514106,..,..
+Colombia,COL,PISA: 15-year-olds by mathematics proficiency level (%). Level 4,LO.PISA.MAT.4,..,..,..,..,..,..,..,..,1.93700074935479,..,..,1.60244074440937,..,..,1.61497902697218,..,..,2.35370825548067,..,..,3.05869641578015,..,..
+Colombia,COL,PISA: 15-year-olds by mathematics proficiency level (%). Level 5,LO.PISA.MAT.5,..,..,..,..,..,..,..,..,0.371254653686785,..,..,0.1155415194346,..,..,0.276905257454506,..,..,0.300430274003553,..,..,0.48672442176216,..,..
+Colombia,COL,PISA: 15-year-olds by mathematics proficiency level (%). Level 6,LO.PISA.MAT.6,..,..,..,..,..,..,..,..,0.0360574259644546,..,..,0,..,..,0.0245971312054134,..,..,0.0133917309182142,..,..,0.0291110606357631,..,..
+Colombia,COL,PISA: 15-year-olds by reading proficiency level (%). Below Level 1C,LO.PISA.REA.0.B1C,..,..,..,..,..,..,..,..,4,..,..,1,..,..,1,..,..,0,..,..,0,..,..
+Colombia,COL,PISA: 15-year-olds by reading proficiency level (%). Level 1A,LO.PISA.REA.1A,..,..,..,..,..,..,..,..,25,..,..,29,..,..,31,..,..,26,..,..,30,..,..
+Colombia,COL,PISA: 15-year-olds by reading proficiency level (%). Level 1B,LO.PISA.REA.1B,..,..,..,..,..,..,..,..,17,..,..,14,..,..,15,..,..,14,..,..,16,..,..
+Colombia,COL,PISA: 15-year-olds by reading proficiency level (%). Level 1C,LO.PISA.REA.1C,..,..,..,..,..,..,..,..,9,..,..,4,..,..,4,..,..,3,..,..,4,..,..
+Colombia,COL,PISA: 15-year-olds by reading proficiency level (%). Level 2,LO.PISA.REA.2,..,..,..,..,..,..,..,..,25,..,..,31,..,..,31,..,..,29,..,..,28,..,..
+Colombia,COL,PISA: 15-year-olds by reading proficiency level (%). Level 3,LO.PISA.REA.3,..,..,..,..,..,..,..,..,14,..,..,17,..,..,15,..,..,20,..,..,16,..,..
+Colombia,COL,PISA: 15-year-olds by reading proficiency level (%). Level 4,LO.PISA.REA.4,..,..,..,..,..,..,..,..,4,..,..,5,..,..,3,..,..,7,..,..,6,..,..
+Colombia,COL,PISA: 15-year-olds by reading proficiency level (%). Level 5,LO.PISA.REA.5,..,..,..,..,..,..,..,..,1,..,..,1,..,..,0,..,..,1,..,..,1,..,..
+Colombia,COL,PISA: 15-year-olds by reading proficiency level (%). Level 6,LO.PISA.REA.6,..,..,..,..,..,..,..,..,0,..,..,0,..,..,0,..,..,0,..,..,0,..,..
+Colombia,COL,PISA: 15-year-olds by science proficiency level (%). Below Level 1B,LO.PISA.SCI.0,..,..,..,..,..,..,..,..,7,..,..,4,..,..,3,..,..,1.69637368663014,..,..,2.06672148640902,..,..
+Colombia,COL,PISA: 15-year-olds by science proficiency level (%). Level 1A,LO.PISA.SCI.1A,..,..,..,..,..,..,..,..,33.9899860663937,..,..,33.6914370749492,..,..,36.3353072095358,..,..,32.8262154870813,..,..,32.98977414602,..,..
+Colombia,COL,PISA: 15-year-olds by science proficiency level (%). Level 1B,LO.PISA.SCI.1B,..,..,..,..,..,..,..,..,20,..,..,17,..,..,17,..,..,14.4878450154089,..,..,15.3103408119758,..,..
+Colombia,COL,PISA: 15-year-olds by science proficiency level (%). Level 2,LO.PISA.SCI.2,..,..,..,..,..,..,..,..,27.2035681758366,..,..,30.18376982262,..,..,30.7924735888392,..,..,30.6083369649539,..,..,29.6410565061729,..,..
+Colombia,COL,PISA: 15-year-olds by science proficiency level (%). Level 3,LO.PISA.SCI.3,..,..,..,..,..,..,..,..,10.5599802889539,..,..,13.1116479302559,..,..,11.0195437039908,..,..,15.9254548302376,..,..,15.3669477149091,..,..
+Colombia,COL,PISA: 15-year-olds by science proficiency level (%). Level 4,LO.PISA.SCI.4,..,..,..,..,..,..,..,..,1.90280138450091,..,..,2.48174422767725,..,..,1.89871608294344,..,..,4.10436908942869,..,..,4.18406781443203,..,..
+Colombia,COL,PISA: 15-year-olds by science proficiency level (%). Level 5,LO.PISA.SCI.5,..,..,..,..,..,..,..,..,0.15937196028308,..,..,0.135133854607842,..,..,0.137173100598389,..,..,0.345146475274754,..,..,0.428608475670224,..,..
+Colombia,COL,PISA: 15-year-olds by science proficiency level (%). Level 6,LO.PISA.SCI.6,..,..,..,..,..,..,..,..,0.00257569953739534,..,..,0,..,..,0.000907631468862746,..,..,0.0062584509846521,..,..,0.0124830444109404,..,..
+Colombia,COL,PISA: Distribution of Mathematics Scores: 10th Percentile Score,LO.PISA.MAT.P10,..,..,..,..,..,..,..,..,257.540115282754,..,..,286.267331360025,..,..,285.19238,..,..,292.9851,..,..,290.0758,..,..
+Colombia,COL,PISA: Distribution of Mathematics Scores: 25th Percentile Score,LO.PISA.MAT.P25,..,..,..,..,..,..,..,..,311.317962299424,..,..,329.716466739367,..,..,325.79062,..,..,335.4687,..,..,334.7394,..,..
+Colombia,COL,PISA: Distribution of Mathematics Scores: 50th Percentile Score,LO.PISA.MAT.P50,..,..,..,..,..,..,..,..,369.978512943413,..,..,380.848214875471,..,..,376.488601072821,..,..,386.3858,..,..,387.4174,..,..
+Colombia,COL,PISA: Distribution of Mathematics Scores: 5th Percentile Score,LO.PISA.MAT.P05,..,..,..,..,..,..,..,..,225.712727839227,..,..,259.082411590591,..,..,262.29166,..,..,268.5754,..,..,262.3642,..,..
+Colombia,COL,PISA: Distribution of Mathematics Scores: 75th Percentile Score,LO.PISA.MAT.P75,..,..,..,..,..,..,..,..,428.267642935037,..,..,430.806979280261,..,..,423.18896,..,..,441.3767,..,..,444.5176,..,..
+Colombia,COL,PISA: Distribution of Mathematics Scores: 90th Percentile Score,LO.PISA.MAT.P90,..,..,..,..,..,..,..,..,481.76507244119,..,..,478.851846081944,..,..,474.038,..,..,492.01215,..,..,498.8089,..,..
+Colombia,COL,PISA: Distribution of Mathematics Scores: 95th Percentile Score,LO.PISA.MAT.P95,..,..,..,..,..,..,..,..,515.259386197227,..,..,509.183673469388,..,..,506.02118,..,..,521.9139,..,..,531.1092,..,..
+Colombia,COL,PISA: Distribution of Reading Scores: 10th Percentile Score,LO.PISA.REA.P10,..,..,..,..,..,..,..,..,242.552745454545,..,..,301.525631703327,..,..,294.88364,..,..,307.6048,..,..,300.0133,..,..
+Colombia,COL,PISA: Distribution of Reading Scores: 25th Percentile Score,LO.PISA.REA.P25,..,..,..,..,..,..,..,..,315.551872727273,..,..,354.909780039993,..,..,348.00944,..,..,360.7194,..,..,349.8847,..,..
+Colombia,COL,PISA: Distribution of Reading Scores: 50th Percentile Score,LO.PISA.REA.P50,..,..,..,..,..,..,..,..,385.308038214618,..,..,413.181499141822,..,..,403.402534102204,..,..,425.2064,..,..,407.6717,..,..
+Colombia,COL,PISA: Distribution of Reading Scores: 5th Percentile Score,LO.PISA.REA.P05,..,..,..,..,..,..,..,..,200.459876363636,..,..,268.94348300309,..,..,262.05738,..,..,278.2973,..,..,271.511,..,..
+Colombia,COL,PISA: Distribution of Reading Scores: 75th Percentile Score,LO.PISA.REA.P75,..,..,..,..,..,..,..,..,461.789227272727,..,..,472.625504453736,..,..,460.47464,..,..,488.5017,..,..,472.266,..,..
+Colombia,COL,PISA: Distribution of Reading Scores: 90th Percentile Score,LO.PISA.REA.P90,..,..,..,..,..,..,..,..,518.101765454545,..,..,523.898254862752,..,..,509.44792,..,..,542.3877,..,..,531.5032,..,..
+Colombia,COL,PISA: Distribution of Reading Scores: 95th Percentile Score,LO.PISA.REA.P95,..,..,..,..,..,..,..,..,550.325409090909,..,..,554.147191419743,..,..,539.95072,..,..,571.8024,..,..,565.8329,..,..
+Colombia,COL,PISA: Distribution of Science Scores: 10th Percentile Score,LO.PISA.SCI.P10,..,..,..,..,..,..,..,..,279.518530929696,..,..,297.855277881388,..,..,301.58522,..,..,315.2411,..,..,310.7065,..,..
+Colombia,COL,PISA: Distribution of Science Scores: 25th Percentile Score,LO.PISA.SCI.P25,..,..,..,..,..,..,..,..,331.71841579751,..,..,347.668780305856,..,..,347.3144,..,..,357.281,..,..,354.5678,..,..
+Colombia,COL,PISA: Distribution of Science Scores: 50th Percentile Score,LO.PISA.SCI.P50,..,..,..,..,..,..,..,..,388.038271909179,..,..,401.750115298746,..,..,398.678631615801,..,..,411.6449,..,..,408.7806,..,..
+Colombia,COL,PISA: Distribution of Science Scores: 5th Percentile Score,LO.PISA.SCI.P05,..,..,..,..,..,..,..,..,247.217637542396,..,..,267.773218948154,..,..,273.1257,..,..,291.2059,..,..,286.5535,..,..
+Colombia,COL,PISA: Distribution of Science Scores: 75th Percentile Score,LO.PISA.SCI.P75,..,..,..,..,..,..,..,..,444.846140559267,..,..,457.254755688176,..,..,448.63856,..,..,470.5777,..,..,468.9652,..,..
+Colombia,COL,PISA: Distribution of Science Scores: 90th Percentile Score,LO.PISA.SCI.P90,..,..,..,..,..,..,..,..,495.777861021574,..,..,506.266318537859,..,..,497.445,..,..,523.5024,..,..,523.9515,..,..
+Colombia,COL,PISA: Distribution of Science Scores: 95th Percentile Score,LO.PISA.SCI.P95,..,..,..,..,..,..,..,..,527.593868018534,..,..,535.793078624479,..,..,525.49422,..,..,554.3953,..,..,555.4976,..,..
+Colombia,COL,PISA: Female 15-year-olds by mathematics proficiency level (%). Below Level 1,LO.PISA.MAT.0.FE,..,..,..,..,..,..,..,..,49.8670237816604,..,..,46.282628433233,..,..,47.3771779809088,..,..,37.3684806636561,..,..,39.3958991877667,..,..
+Colombia,COL,PISA: Female 15-year-olds by mathematics proficiency level (%). Level 1,LO.PISA.MAT.1.FE,..,..,..,..,..,..,..,..,26.654765562741,..,..,31.4422165562737,..,..,32.2027256418314,..,..,31.8813470510107,..,..,30.8697593791954,..,..
+Colombia,COL,PISA: Female 15-year-olds by mathematics proficiency level (%). Level 2,LO.PISA.MAT.2.FE,..,..,..,..,..,..,..,..,15.9721396294378,..,..,16.9473198530299,..,..,15.245091948903,..,..,20.485916601987,..,..,19.5349159912435,..,..
+Colombia,COL,PISA: Female 15-year-olds by mathematics proficiency level (%). Level 3,LO.PISA.MAT.3.FE,..,..,..,..,..,..,..,..,5.89956174286148,..,..,4.52764533789754,..,..,4.27092771344925,..,..,8.09995107976049,..,..,7.99147312275322,..,..
+Colombia,COL,PISA: Female 15-year-olds by mathematics proficiency level (%). Level 4,LO.PISA.MAT.4.FE,..,..,..,..,..,..,..,..,1.32509116126523,..,..,0.789683739851761,..,..,0.748800598571567,..,..,1.97176109226219,..,..,1.94507301451158,..,..
+Colombia,COL,PISA: Female 15-year-olds by mathematics proficiency level (%). Level 5,LO.PISA.MAT.5.FE,..,..,..,..,..,..,..,..,0.258980529142209,..,..,0,..,..,0.140761237394497,..,..,0.186853981841518,..,..,0.247207049473214,..,..
+Colombia,COL,PISA: Female 15-year-olds by mathematics proficiency level (%). Level 6,LO.PISA.MAT.6.FE,..,..,..,..,..,..,..,..,0.0224375928919046,..,..,0,..,..,0.0145148789415197,..,..,0.0056895294819139,..,..,0.0156722550565152,..,..
+Colombia,COL,PISA: Female 15-year-olds by reading proficiency level (%). Below Level 1C,LO.PISA.REA.0.B1C.FE,..,..,..,..,..,..,..,..,2,..,..,0,..,..,0,..,..,0,..,..,0,..,..
+Colombia,COL,PISA: Female 15-year-olds by reading proficiency level (%). Level 1A,LO.PISA.REA.1A.FE,..,..,..,..,..,..,..,..,14,..,..,15,..,..,16,..,..,14,..,..,16,..,..
+Colombia,COL,PISA: Female 15-year-olds by reading proficiency level (%). Level 1B,LO.PISA.REA.1B.FE,..,..,..,..,..,..,..,..,9,..,..,7,..,..,7,..,..,6,..,..,7,..,..
+Colombia,COL,PISA: Female 15-year-olds by reading proficiency level (%). Level 1C,LO.PISA.REA.1C.FE,..,..,..,..,..,..,..,..,4,..,..,2,..,..,2,..,..,1,..,..,1,..,..
+Colombia,COL,PISA: Female 15-year-olds by reading proficiency level (%). Level 2,LO.PISA.REA.2.FE,..,..,..,..,..,..,..,..,14,..,..,16,..,..,18,..,..,16,..,..,15,..,..
+Colombia,COL,PISA: Female 15-year-olds by reading proficiency level (%). Level 3,LO.PISA.REA.3.FE,..,..,..,..,..,..,..,..,8,..,..,10,..,..,8,..,..,11,..,..,8,..,..
+Colombia,COL,PISA: Female 15-year-olds by reading proficiency level (%). Level 4,LO.PISA.REA.4.FE,..,..,..,..,..,..,..,..,3,..,..,3,..,..,2,..,..,4,..,..,3,..,..
+Colombia,COL,PISA: Female 15-year-olds by reading proficiency level (%). Level 5,LO.PISA.REA.5.FE,..,..,..,..,..,..,..,..,0,..,..,0,..,..,0,..,..,1,..,..,1,..,..
+Colombia,COL,PISA: Female 15-year-olds by reading proficiency level (%). Level 6,LO.PISA.REA.6.FE,..,..,..,..,..,..,..,..,0,..,..,0,..,..,0,..,..,0,..,..,0,..,..
+Colombia,COL,PISA: Female 15-year-olds by science proficiency level (%). Below Level 1B,LO.PISA.SCI.0.FE,..,..,..,..,..,..,..,..,7,..,..,4,..,..,4,..,..,1.92408842728663,..,..,2.11319917709577,..,..
+Colombia,COL,PISA: Female 15-year-olds by science proficiency level (%). Level 1A,LO.PISA.SCI.1A.FE,..,..,..,..,..,..,..,..,35.5150911872552,..,..,36.0095763723495,..,..,38.3362685469797,..,..,34.3541451442784,..,..,35.4195069583758,..,..
+Colombia,COL,PISA: Female 15-year-olds by science proficiency level (%). Level 1B,LO.PISA.SCI.1B.FE,..,..,..,..,..,..,..,..,20,..,..,19,..,..,18,..,..,14.930151651476,..,..,15.9028557927178,..,..
+Colombia,COL,PISA: Female 15-year-olds by science proficiency level (%). Level 2,LO.PISA.SCI.2.FE,..,..,..,..,..,..,..,..,26.8707078560545,..,..,27.5698035594968,..,..,29.9593984229908,..,..,30.7390670739317,..,..,29.5404664614418,..,..
+Colombia,COL,PISA: Female 15-year-olds by science proficiency level (%). Level 3,LO.PISA.SCI.3.FE,..,..,..,..,..,..,..,..,9.06880317865596,..,..,10.7285307057087,..,..,8.63365842081866,..,..,14.3999693995732,..,..,13.6116799362984,..,..
+Colombia,COL,PISA: Female 15-year-olds by science proficiency level (%). Level 4,LO.PISA.SCI.4.FE,..,..,..,..,..,..,..,..,1.4058941588822,..,..,1.87277169698406,..,..,1.08082356359143,..,..,3.41507298206748,..,..,3.13196499008052,..,..
+Colombia,COL,PISA: Female 15-year-olds by science proficiency level (%). Level 5,LO.PISA.SCI.5.FE,..,..,..,..,..,..,..,..,0.0944534621728349,..,..,0.0866358139280531,..,..,0.0652666559908782,..,..,0.232743413286836,..,..,0.272277724635611,..,..
+Colombia,COL,PISA: Female 15-year-olds by science proficiency level (%). Level 6,LO.PISA.SCI.6.FE,..,..,..,..,..,..,..,..,0,..,..,0,..,..,0,..,..,0.00476190809970594,..,..,0.00804895935440222,..,..
+Colombia,COL,PISA: Male 15-year-olds by mathematics proficiency level (%). Below Level 1,LO.PISA.MAT.0.MA,..,..,..,..,..,..,..,..,38.4292915591139,..,..,30.6467301889342,..,..,35.2101130587937,..,..,33.193176056092,..,..,31.4476690779845,..,..
+Colombia,COL,PISA: Male 15-year-olds by mathematics proficiency level (%). Level 1,LO.PISA.MAT.1.MA,..,..,..,..,..,..,..,..,28.0669106720674,..,..,31.7947127390184,..,..,32.1343448705071,..,..,29.7903303413842,..,..,28.8624480637876,..,..
+Colombia,COL,PISA: Male 15-year-olds by mathematics proficiency level (%). Level 2,LO.PISA.MAT.2.MA,..,..,..,..,..,..,..,..,20.7263811451231,..,..,24.0302140168147,..,..,20.732838248257,..,..,22.683832846644,..,..,22.7051034010472,..,..
+Colombia,COL,PISA: Male 15-year-olds by mathematics proficiency level (%). Level 3,LO.PISA.MAT.3.MA,..,..,..,..,..,..,..,..,9.57178003711008,..,..,10.8003656983595,..,..,8.86914501013833,..,..,11.1041393352541,..,..,11.9882595830843,..,..
+Colombia,COL,PISA: Male 15-year-olds by mathematics proficiency level (%). Level 4,LO.PISA.MAT.4.MA,..,..,..,..,..,..,..,..,2.65135387056042,..,..,2.49652630627041,..,..,2.58782309981599,..,..,2.77949930833214,..,..,4.21747202642227,..,..
+Colombia,COL,PISA: Male 15-year-olds by mathematics proficiency level (%). Level 5,LO.PISA.MAT.5.MA,..,..,..,..,..,..,..,..,0.502325277288959,..,..,0.231087334003065,..,..,0.429814748877733,..,..,0.427044040711848,..,..,0.735953100880575,..,..
+Colombia,COL,PISA: Male 15-year-olds by mathematics proficiency level (%). Level 6,LO.PISA.MAT.6.MA,..,..,..,..,..,..,..,..,0.051957438736034,..,..,0,..,..,0.0359209636101942,..,..,0.0219780715816754,..,..,0.0430947467936282,..,..
+Colombia,COL,PISA: Male 15-year-olds by reading proficiency level (%). Below Level 1C,LO.PISA.REA.0.B1C.MA,..,..,..,..,..,..,..,..,3,..,..,0,..,..,0,..,..,0,..,..,0,..,..
+Colombia,COL,PISA: Male 15-year-olds by reading proficiency level (%). Level 1A,LO.PISA.REA.1A.MA,..,..,..,..,..,..,..,..,11,..,..,14,..,..,15,..,..,13,..,..,14,..,..
+Colombia,COL,PISA: Male 15-year-olds by reading proficiency level (%). Level 1B,LO.PISA.REA.1B.MA,..,..,..,..,..,..,..,..,8,..,..,7,..,..,9,..,..,7,..,..,9,..,..
+Colombia,COL,PISA: Male 15-year-olds by reading proficiency level (%). Level 1C,LO.PISA.REA.1C.MA,..,..,..,..,..,..,..,..,5,..,..,2,..,..,3,..,..,2,..,..,2,..,..
+Colombia,COL,PISA: Male 15-year-olds by reading proficiency level (%). Level 2,LO.PISA.REA.2.MA,..,..,..,..,..,..,..,..,11,..,..,14,..,..,13,..,..,13,..,..,13,..,..
+Colombia,COL,PISA: Male 15-year-olds by reading proficiency level (%). Level 3,LO.PISA.REA.3.MA,..,..,..,..,..,..,..,..,6,..,..,8,..,..,6,..,..,9,..,..,8,..,..
+Colombia,COL,PISA: Male 15-year-olds by reading proficiency level (%). Level 4,LO.PISA.REA.4.MA,..,..,..,..,..,..,..,..,1,..,..,2,..,..,1,..,..,3,..,..,3,..,..
+Colombia,COL,PISA: Male 15-year-olds by reading proficiency level (%). Level 5,LO.PISA.REA.5.MA,..,..,..,..,..,..,..,..,0,..,..,0,..,..,0,..,..,0,..,..,0,..,..
+Colombia,COL,PISA: Male 15-year-olds by reading proficiency level (%). Level 6,LO.PISA.REA.6.MA,..,..,..,..,..,..,..,..,0,..,..,0,..,..,0,..,..,0,..,..,0,..,..
+Colombia,COL,PISA: Male 15-year-olds by science proficiency level (%). Below Level 1B,LO.PISA.SCI.0.MA,..,..,..,..,..,..,..,..,7,..,..,3,..,..,3,..,..,1.44251946669851,..,..,2.01835934320565,..,..
+Colombia,COL,PISA: Male 15-year-olds by science proficiency level (%). Level 1A,LO.PISA.SCI.1A.MA,..,..,..,..,..,..,..,..,32.2095537534182,..,..,31.1413330899133,..,..,34.087937252844,..,..,31.1228940854017,..,..,30.4615270562697,..,..
+Colombia,COL,PISA: Male 15-year-olds by science proficiency level (%). Level 1B,LO.PISA.SCI.1B.MA,..,..,..,..,..,..,..,..,18,..,..,14,..,..,15,..,..,13.9947657982018,..,..,14.6938021258798,..,..
+Colombia,COL,PISA: Male 15-year-olds by science proficiency level (%). Level 2,LO.PISA.SCI.2.MA,..,..,..,..,..,..,..,..,27.5921546810822,..,..,33.0593027087656,..,..,31.7281378939702,..,..,30.4626002869484,..,..,29.745725005753,..,..
+Colombia,COL,PISA: Male 15-year-olds by science proficiency level (%). Level 3,LO.PISA.SCI.3.MA,..,..,..,..,..,..,..,..,12.3008044952512,..,..,15.7332318609286,..,..,13.6992391109813,..,..,17.6260514315027,..,..,17.1933833750103,..,..
+Colombia,COL,PISA: Male 15-year-olds by science proficiency level (%). Level 4,LO.PISA.SCI.4.MA,..,..,..,..,..,..,..,..,2.48289889315181,..,..,3.15165361536579,..,..,2.81732807278959,..,..,4.87278981235436,..,..,5.27882847710978,..,..
+Colombia,COL,PISA: Male 15-year-olds by science proficiency level (%). Level 5,LO.PISA.SCI.5.MA,..,..,..,..,..,..,..,..,0.2351588618968,..,..,0.188484853377703,..,..,0.217934472784553,..,..,0.470452336180413,..,..,0.591277705937762,..,..
+Colombia,COL,PISA: Male 15-year-olds by science proficiency level (%). Level 6,LO.PISA.SCI.6.MA,..,..,..,..,..,..,..,..,0.0055826127148319,..,..,0,..,..,0.00192703332169231,..,..,0.0079267827121327,..,..,0.0170969108339845,..,..
+Colombia,COL,PISA: Mean performance on the mathematics scale,LO.PISA.MAT,..,..,..,..,..,..,..,..,369.978512943413,..,..,380.848214875471,..,..,376.488601072821,..,..,389.6438,..,..,390.932273740346,..,..
+Colombia,COL,PISA: Mean performance on the mathematics scale. Female,LO.PISA.MAT.FE,..,..,..,..,..,..,..,..,359.808180441982,..,..,365.520319409516,..,..,364.493877753131,..,..,384.488336339736,..,..,381.36527504906,..,..
+Colombia,COL,PISA: Mean performance on the mathematics scale. Male,LO.PISA.MAT.MA,..,..,..,..,..,..,..,..,381.851523119286,..,..,397.709896722546,..,..,389.960416006495,..,..,395.39112047514,..,..,400.887169388085,..,..
+Colombia,COL,PISA: Mean performance on the reading scale,LO.PISA.REA,..,..,..,..,..,..,..,..,385.308038214618,..,..,413.181499141822,..,..,403.402534102204,..,..,424.9052,..,..,412.295085675563,..,..
+Colombia,COL,PISA: Mean performance on the reading scale. Female,LO.PISA.REA.FE,..,..,..,..,..,..,..,..,393.913354544062,..,..,417.608491276199,..,..,412.136656006929,..,..,432.281926359328,..,..,417.356222078505,..,..
+Colombia,COL,PISA: Mean performance on the reading scale. Male,LO.PISA.REA.MA,..,..,..,..,..,..,..,..,375.262053156455,..,..,408.31151988896,..,..,393.592847728228,..,..,416.681626098461,..,..,407.028743913005,..,..
+Colombia,COL,PISA: Mean performance on the science scale,LO.PISA.SCI,..,..,..,..,..,..,..,..,388.038271909179,..,..,401.750115298746,..,..,398.678631615801,..,..,415.7288,..,..,413.322992973877,..,..
+Colombia,COL,PISA: Mean performance on the science scale. Female,LO.PISA.SCI.FE,..,..,..,..,..,..,..,..,383.886778938213,..,..,391.643197826633,..,..,390.384636522928,..,..,411.031598695599,..,..,407.285406377695,..,..
+Colombia,COL,PISA: Mean performance on the science scale. Male,LO.PISA.SCI.MA,..,..,..,..,..,..,..,..,392.884791753289,..,..,412.868381811453,..,..,407.993991709898,..,..,420.965111798094,..,..,419.605375408393,..,..
+Ecuador,ECU,PISA: 15-year-olds by mathematics proficiency level (%). Below Level 1,LO.PISA.MAT.0,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: 15-year-olds by mathematics proficiency level (%). Level 1,LO.PISA.MAT.1,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: 15-year-olds by mathematics proficiency level (%). Level 2,LO.PISA.MAT.2,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: 15-year-olds by mathematics proficiency level (%). Level 3,LO.PISA.MAT.3,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: 15-year-olds by mathematics proficiency level (%). Level 4,LO.PISA.MAT.4,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: 15-year-olds by mathematics proficiency level (%). Level 5,LO.PISA.MAT.5,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: 15-year-olds by mathematics proficiency level (%). Level 6,LO.PISA.MAT.6,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: 15-year-olds by reading proficiency level (%). Below Level 1C,LO.PISA.REA.0.B1C,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: 15-year-olds by reading proficiency level (%). Level 1A,LO.PISA.REA.1A,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: 15-year-olds by reading proficiency level (%). Level 1B,LO.PISA.REA.1B,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: 15-year-olds by reading proficiency level (%). Level 1C,LO.PISA.REA.1C,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: 15-year-olds by reading proficiency level (%). Level 2,LO.PISA.REA.2,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: 15-year-olds by reading proficiency level (%). Level 3,LO.PISA.REA.3,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: 15-year-olds by reading proficiency level (%). Level 4,LO.PISA.REA.4,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: 15-year-olds by reading proficiency level (%). Level 5,LO.PISA.REA.5,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: 15-year-olds by reading proficiency level (%). Level 6,LO.PISA.REA.6,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: 15-year-olds by science proficiency level (%). Below Level 1B,LO.PISA.SCI.0,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: 15-year-olds by science proficiency level (%). Level 1A,LO.PISA.SCI.1A,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: 15-year-olds by science proficiency level (%). Level 1B,LO.PISA.SCI.1B,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: 15-year-olds by science proficiency level (%). Level 2,LO.PISA.SCI.2,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: 15-year-olds by science proficiency level (%). Level 3,LO.PISA.SCI.3,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: 15-year-olds by science proficiency level (%). Level 4,LO.PISA.SCI.4,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: 15-year-olds by science proficiency level (%). Level 5,LO.PISA.SCI.5,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: 15-year-olds by science proficiency level (%). Level 6,LO.PISA.SCI.6,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: Distribution of Mathematics Scores: 10th Percentile Score,LO.PISA.MAT.P10,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: Distribution of Mathematics Scores: 25th Percentile Score,LO.PISA.MAT.P25,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: Distribution of Mathematics Scores: 50th Percentile Score,LO.PISA.MAT.P50,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: Distribution of Mathematics Scores: 5th Percentile Score,LO.PISA.MAT.P05,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: Distribution of Mathematics Scores: 75th Percentile Score,LO.PISA.MAT.P75,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: Distribution of Mathematics Scores: 90th Percentile Score,LO.PISA.MAT.P90,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: Distribution of Mathematics Scores: 95th Percentile Score,LO.PISA.MAT.P95,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: Distribution of Reading Scores: 10th Percentile Score,LO.PISA.REA.P10,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: Distribution of Reading Scores: 25th Percentile Score,LO.PISA.REA.P25,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: Distribution of Reading Scores: 50th Percentile Score,LO.PISA.REA.P50,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: Distribution of Reading Scores: 5th Percentile Score,LO.PISA.REA.P05,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: Distribution of Reading Scores: 75th Percentile Score,LO.PISA.REA.P75,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: Distribution of Reading Scores: 90th Percentile Score,LO.PISA.REA.P90,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: Distribution of Reading Scores: 95th Percentile Score,LO.PISA.REA.P95,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: Distribution of Science Scores: 10th Percentile Score,LO.PISA.SCI.P10,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: Distribution of Science Scores: 25th Percentile Score,LO.PISA.SCI.P25,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: Distribution of Science Scores: 50th Percentile Score,LO.PISA.SCI.P50,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: Distribution of Science Scores: 5th Percentile Score,LO.PISA.SCI.P05,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: Distribution of Science Scores: 75th Percentile Score,LO.PISA.SCI.P75,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: Distribution of Science Scores: 90th Percentile Score,LO.PISA.SCI.P90,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: Distribution of Science Scores: 95th Percentile Score,LO.PISA.SCI.P95,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: Female 15-year-olds by mathematics proficiency level (%). Below Level 1,LO.PISA.MAT.0.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: Female 15-year-olds by mathematics proficiency level (%). Level 1,LO.PISA.MAT.1.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: Female 15-year-olds by mathematics proficiency level (%). Level 2,LO.PISA.MAT.2.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: Female 15-year-olds by mathematics proficiency level (%). Level 3,LO.PISA.MAT.3.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: Female 15-year-olds by mathematics proficiency level (%). Level 4,LO.PISA.MAT.4.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: Female 15-year-olds by mathematics proficiency level (%). Level 5,LO.PISA.MAT.5.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: Female 15-year-olds by mathematics proficiency level (%). Level 6,LO.PISA.MAT.6.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: Female 15-year-olds by reading proficiency level (%). Below Level 1C,LO.PISA.REA.0.B1C.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: Female 15-year-olds by reading proficiency level (%). Level 1A,LO.PISA.REA.1A.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: Female 15-year-olds by reading proficiency level (%). Level 1B,LO.PISA.REA.1B.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: Female 15-year-olds by reading proficiency level (%). Level 1C,LO.PISA.REA.1C.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: Female 15-year-olds by reading proficiency level (%). Level 2,LO.PISA.REA.2.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: Female 15-year-olds by reading proficiency level (%). Level 3,LO.PISA.REA.3.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: Female 15-year-olds by reading proficiency level (%). Level 4,LO.PISA.REA.4.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: Female 15-year-olds by reading proficiency level (%). Level 5,LO.PISA.REA.5.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: Female 15-year-olds by reading proficiency level (%). Level 6,LO.PISA.REA.6.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: Female 15-year-olds by science proficiency level (%). Below Level 1B,LO.PISA.SCI.0.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: Female 15-year-olds by science proficiency level (%). Level 1A,LO.PISA.SCI.1A.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: Female 15-year-olds by science proficiency level (%). Level 1B,LO.PISA.SCI.1B.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: Female 15-year-olds by science proficiency level (%). Level 2,LO.PISA.SCI.2.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: Female 15-year-olds by science proficiency level (%). Level 3,LO.PISA.SCI.3.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: Female 15-year-olds by science proficiency level (%). Level 4,LO.PISA.SCI.4.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: Female 15-year-olds by science proficiency level (%). Level 5,LO.PISA.SCI.5.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: Female 15-year-olds by science proficiency level (%). Level 6,LO.PISA.SCI.6.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: Male 15-year-olds by mathematics proficiency level (%). Below Level 1,LO.PISA.MAT.0.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: Male 15-year-olds by mathematics proficiency level (%). Level 1,LO.PISA.MAT.1.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: Male 15-year-olds by mathematics proficiency level (%). Level 2,LO.PISA.MAT.2.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: Male 15-year-olds by mathematics proficiency level (%). Level 3,LO.PISA.MAT.3.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: Male 15-year-olds by mathematics proficiency level (%). Level 4,LO.PISA.MAT.4.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: Male 15-year-olds by mathematics proficiency level (%). Level 5,LO.PISA.MAT.5.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: Male 15-year-olds by mathematics proficiency level (%). Level 6,LO.PISA.MAT.6.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: Male 15-year-olds by reading proficiency level (%). Below Level 1C,LO.PISA.REA.0.B1C.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: Male 15-year-olds by reading proficiency level (%). Level 1A,LO.PISA.REA.1A.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: Male 15-year-olds by reading proficiency level (%). Level 1B,LO.PISA.REA.1B.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: Male 15-year-olds by reading proficiency level (%). Level 1C,LO.PISA.REA.1C.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: Male 15-year-olds by reading proficiency level (%). Level 2,LO.PISA.REA.2.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: Male 15-year-olds by reading proficiency level (%). Level 3,LO.PISA.REA.3.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: Male 15-year-olds by reading proficiency level (%). Level 4,LO.PISA.REA.4.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: Male 15-year-olds by reading proficiency level (%). Level 5,LO.PISA.REA.5.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: Male 15-year-olds by reading proficiency level (%). Level 6,LO.PISA.REA.6.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: Male 15-year-olds by science proficiency level (%). Below Level 1B,LO.PISA.SCI.0.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: Male 15-year-olds by science proficiency level (%). Level 1A,LO.PISA.SCI.1A.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: Male 15-year-olds by science proficiency level (%). Level 1B,LO.PISA.SCI.1B.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: Male 15-year-olds by science proficiency level (%). Level 2,LO.PISA.SCI.2.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: Male 15-year-olds by science proficiency level (%). Level 3,LO.PISA.SCI.3.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: Male 15-year-olds by science proficiency level (%). Level 4,LO.PISA.SCI.4.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: Male 15-year-olds by science proficiency level (%). Level 5,LO.PISA.SCI.5.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: Male 15-year-olds by science proficiency level (%). Level 6,LO.PISA.SCI.6.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: Mean performance on the mathematics scale,LO.PISA.MAT,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: Mean performance on the mathematics scale. Female,LO.PISA.MAT.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: Mean performance on the mathematics scale. Male,LO.PISA.MAT.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: Mean performance on the reading scale,LO.PISA.REA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: Mean performance on the reading scale. Female,LO.PISA.REA.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: Mean performance on the reading scale. Male,LO.PISA.REA.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: Mean performance on the science scale,LO.PISA.SCI,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: Mean performance on the science scale. Female,LO.PISA.SCI.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ecuador,ECU,PISA: Mean performance on the science scale. Male,LO.PISA.SCI.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: 15-year-olds by mathematics proficiency level (%). Below Level 1,LO.PISA.MAT.0,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: 15-year-olds by mathematics proficiency level (%). Level 1,LO.PISA.MAT.1,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: 15-year-olds by mathematics proficiency level (%). Level 2,LO.PISA.MAT.2,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: 15-year-olds by mathematics proficiency level (%). Level 3,LO.PISA.MAT.3,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: 15-year-olds by mathematics proficiency level (%). Level 4,LO.PISA.MAT.4,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: 15-year-olds by mathematics proficiency level (%). Level 5,LO.PISA.MAT.5,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: 15-year-olds by mathematics proficiency level (%). Level 6,LO.PISA.MAT.6,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: 15-year-olds by reading proficiency level (%). Below Level 1C,LO.PISA.REA.0.B1C,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: 15-year-olds by reading proficiency level (%). Level 1A,LO.PISA.REA.1A,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: 15-year-olds by reading proficiency level (%). Level 1B,LO.PISA.REA.1B,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: 15-year-olds by reading proficiency level (%). Level 1C,LO.PISA.REA.1C,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: 15-year-olds by reading proficiency level (%). Level 2,LO.PISA.REA.2,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: 15-year-olds by reading proficiency level (%). Level 3,LO.PISA.REA.3,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: 15-year-olds by reading proficiency level (%). Level 4,LO.PISA.REA.4,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: 15-year-olds by reading proficiency level (%). Level 5,LO.PISA.REA.5,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: 15-year-olds by reading proficiency level (%). Level 6,LO.PISA.REA.6,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: 15-year-olds by science proficiency level (%). Below Level 1B,LO.PISA.SCI.0,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: 15-year-olds by science proficiency level (%). Level 1A,LO.PISA.SCI.1A,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: 15-year-olds by science proficiency level (%). Level 1B,LO.PISA.SCI.1B,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: 15-year-olds by science proficiency level (%). Level 2,LO.PISA.SCI.2,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: 15-year-olds by science proficiency level (%). Level 3,LO.PISA.SCI.3,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: 15-year-olds by science proficiency level (%). Level 4,LO.PISA.SCI.4,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: 15-year-olds by science proficiency level (%). Level 5,LO.PISA.SCI.5,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: 15-year-olds by science proficiency level (%). Level 6,LO.PISA.SCI.6,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: Distribution of Mathematics Scores: 10th Percentile Score,LO.PISA.MAT.P10,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: Distribution of Mathematics Scores: 25th Percentile Score,LO.PISA.MAT.P25,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: Distribution of Mathematics Scores: 50th Percentile Score,LO.PISA.MAT.P50,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: Distribution of Mathematics Scores: 5th Percentile Score,LO.PISA.MAT.P05,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: Distribution of Mathematics Scores: 75th Percentile Score,LO.PISA.MAT.P75,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: Distribution of Mathematics Scores: 90th Percentile Score,LO.PISA.MAT.P90,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: Distribution of Mathematics Scores: 95th Percentile Score,LO.PISA.MAT.P95,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: Distribution of Reading Scores: 10th Percentile Score,LO.PISA.REA.P10,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: Distribution of Reading Scores: 25th Percentile Score,LO.PISA.REA.P25,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: Distribution of Reading Scores: 50th Percentile Score,LO.PISA.REA.P50,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: Distribution of Reading Scores: 5th Percentile Score,LO.PISA.REA.P05,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: Distribution of Reading Scores: 75th Percentile Score,LO.PISA.REA.P75,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: Distribution of Reading Scores: 90th Percentile Score,LO.PISA.REA.P90,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: Distribution of Reading Scores: 95th Percentile Score,LO.PISA.REA.P95,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: Distribution of Science Scores: 10th Percentile Score,LO.PISA.SCI.P10,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: Distribution of Science Scores: 25th Percentile Score,LO.PISA.SCI.P25,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: Distribution of Science Scores: 50th Percentile Score,LO.PISA.SCI.P50,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: Distribution of Science Scores: 5th Percentile Score,LO.PISA.SCI.P05,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: Distribution of Science Scores: 75th Percentile Score,LO.PISA.SCI.P75,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: Distribution of Science Scores: 90th Percentile Score,LO.PISA.SCI.P90,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: Distribution of Science Scores: 95th Percentile Score,LO.PISA.SCI.P95,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: Female 15-year-olds by mathematics proficiency level (%). Below Level 1,LO.PISA.MAT.0.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: Female 15-year-olds by mathematics proficiency level (%). Level 1,LO.PISA.MAT.1.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: Female 15-year-olds by mathematics proficiency level (%). Level 2,LO.PISA.MAT.2.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: Female 15-year-olds by mathematics proficiency level (%). Level 3,LO.PISA.MAT.3.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: Female 15-year-olds by mathematics proficiency level (%). Level 4,LO.PISA.MAT.4.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: Female 15-year-olds by mathematics proficiency level (%). Level 5,LO.PISA.MAT.5.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: Female 15-year-olds by mathematics proficiency level (%). Level 6,LO.PISA.MAT.6.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: Female 15-year-olds by reading proficiency level (%). Below Level 1C,LO.PISA.REA.0.B1C.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: Female 15-year-olds by reading proficiency level (%). Level 1A,LO.PISA.REA.1A.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: Female 15-year-olds by reading proficiency level (%). Level 1B,LO.PISA.REA.1B.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: Female 15-year-olds by reading proficiency level (%). Level 1C,LO.PISA.REA.1C.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: Female 15-year-olds by reading proficiency level (%). Level 2,LO.PISA.REA.2.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: Female 15-year-olds by reading proficiency level (%). Level 3,LO.PISA.REA.3.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: Female 15-year-olds by reading proficiency level (%). Level 4,LO.PISA.REA.4.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: Female 15-year-olds by reading proficiency level (%). Level 5,LO.PISA.REA.5.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: Female 15-year-olds by reading proficiency level (%). Level 6,LO.PISA.REA.6.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: Female 15-year-olds by science proficiency level (%). Below Level 1B,LO.PISA.SCI.0.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: Female 15-year-olds by science proficiency level (%). Level 1A,LO.PISA.SCI.1A.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: Female 15-year-olds by science proficiency level (%). Level 1B,LO.PISA.SCI.1B.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: Female 15-year-olds by science proficiency level (%). Level 2,LO.PISA.SCI.2.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: Female 15-year-olds by science proficiency level (%). Level 3,LO.PISA.SCI.3.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: Female 15-year-olds by science proficiency level (%). Level 4,LO.PISA.SCI.4.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: Female 15-year-olds by science proficiency level (%). Level 5,LO.PISA.SCI.5.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: Female 15-year-olds by science proficiency level (%). Level 6,LO.PISA.SCI.6.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: Male 15-year-olds by mathematics proficiency level (%). Below Level 1,LO.PISA.MAT.0.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: Male 15-year-olds by mathematics proficiency level (%). Level 1,LO.PISA.MAT.1.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: Male 15-year-olds by mathematics proficiency level (%). Level 2,LO.PISA.MAT.2.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: Male 15-year-olds by mathematics proficiency level (%). Level 3,LO.PISA.MAT.3.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: Male 15-year-olds by mathematics proficiency level (%). Level 4,LO.PISA.MAT.4.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: Male 15-year-olds by mathematics proficiency level (%). Level 5,LO.PISA.MAT.5.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: Male 15-year-olds by mathematics proficiency level (%). Level 6,LO.PISA.MAT.6.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: Male 15-year-olds by reading proficiency level (%). Below Level 1C,LO.PISA.REA.0.B1C.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: Male 15-year-olds by reading proficiency level (%). Level 1A,LO.PISA.REA.1A.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: Male 15-year-olds by reading proficiency level (%). Level 1B,LO.PISA.REA.1B.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: Male 15-year-olds by reading proficiency level (%). Level 1C,LO.PISA.REA.1C.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: Male 15-year-olds by reading proficiency level (%). Level 2,LO.PISA.REA.2.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: Male 15-year-olds by reading proficiency level (%). Level 3,LO.PISA.REA.3.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: Male 15-year-olds by reading proficiency level (%). Level 4,LO.PISA.REA.4.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: Male 15-year-olds by reading proficiency level (%). Level 5,LO.PISA.REA.5.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: Male 15-year-olds by reading proficiency level (%). Level 6,LO.PISA.REA.6.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: Male 15-year-olds by science proficiency level (%). Below Level 1B,LO.PISA.SCI.0.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: Male 15-year-olds by science proficiency level (%). Level 1A,LO.PISA.SCI.1A.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: Male 15-year-olds by science proficiency level (%). Level 1B,LO.PISA.SCI.1B.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: Male 15-year-olds by science proficiency level (%). Level 2,LO.PISA.SCI.2.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: Male 15-year-olds by science proficiency level (%). Level 3,LO.PISA.SCI.3.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: Male 15-year-olds by science proficiency level (%). Level 4,LO.PISA.SCI.4.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: Male 15-year-olds by science proficiency level (%). Level 5,LO.PISA.SCI.5.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: Male 15-year-olds by science proficiency level (%). Level 6,LO.PISA.SCI.6.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: Mean performance on the mathematics scale,LO.PISA.MAT,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: Mean performance on the mathematics scale. Female,LO.PISA.MAT.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: Mean performance on the mathematics scale. Male,LO.PISA.MAT.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: Mean performance on the reading scale,LO.PISA.REA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: Mean performance on the reading scale. Female,LO.PISA.REA.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: Mean performance on the reading scale. Male,LO.PISA.REA.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: Mean performance on the science scale,LO.PISA.SCI,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: Mean performance on the science scale. Female,LO.PISA.SCI.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Paraguay,PRY,PISA: Mean performance on the science scale. Male,LO.PISA.SCI.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Peru,PER,PISA: 15-year-olds by mathematics proficiency level (%). Below Level 1,LO.PISA.MAT.0,..,..,..,..,..,..,..,..,..,..,..,47.6440625921462,..,..,46.9679660000986,..,..,37.7308160490951,..,..,32.0414826634629,..,..
+Peru,PER,PISA: 15-year-olds by mathematics proficiency level (%). Level 1,LO.PISA.MAT.1,..,..,..,..,..,..,..,..,..,..,..,25.8874174242529,..,..,27.6134306947296,..,..,28.4296973293441,..,..,28.2949957540782,..,..
+Peru,PER,PISA: 15-year-olds by mathematics proficiency level (%). Level 2,LO.PISA.MAT.2,..,..,..,..,..,..,..,..,..,..,..,16.9006537174067,..,..,16.1305313835465,..,..,20.9933657133091,..,..,23.06258205206,..,..
+Peru,PER,PISA: 15-year-olds by mathematics proficiency level (%). Level 3,LO.PISA.MAT.3,..,..,..,..,..,..,..,..,..,..,..,6.84790751354114,..,..,6.65730916166402,..,..,9.76924727465473,..,..,11.6217285399569,..,..
+Peru,PER,PISA: 15-year-olds by mathematics proficiency level (%). Level 4,LO.PISA.MAT.4,..,..,..,..,..,..,..,..,..,..,..,2.09457169676144,..,..,2.05802429267357,..,..,2.68928503980337,..,..,4.11873556580546,..,..
+Peru,PER,PISA: 15-year-olds by mathematics proficiency level (%). Level 5,LO.PISA.MAT.5,..,..,..,..,..,..,..,..,..,..,..,0.533081728819196,..,..,0.546034041922835,..,..,0.371288024902674,..,..,0.789596452179598,..,..
+Peru,PER,PISA: 15-year-olds by mathematics proficiency level (%). Level 6,LO.PISA.MAT.6,..,..,..,..,..,..,..,..,..,..,..,0.0923053270724932,..,..,0.0267044253648713,..,..,0.0163005688909194,..,..,0.0708789724568888,..,..
+Peru,PER,PISA: 15-year-olds by reading proficiency level (%). Below Level 1C,LO.PISA.REA.0.B1C,..,..,7,..,..,..,..,..,..,..,..,3,..,..,2,..,..,1,..,..,0,..,..
+Peru,PER,PISA: 15-year-olds by reading proficiency level (%). Level 1A,LO.PISA.REA.1A,..,..,25,..,..,..,..,..,..,..,..,29,..,..,29,..,..,28,..,..,29,..,..
+Peru,PER,PISA: 15-year-olds by reading proficiency level (%). Level 1B,LO.PISA.REA.1B,..,..,28,..,..,..,..,..,..,..,..,22,..,..,21,..,..,19,..,..,20,..,..
+Peru,PER,PISA: 15-year-olds by reading proficiency level (%). Level 1C,LO.PISA.REA.1C,..,..,19,..,..,..,..,..,..,..,..,11,..,..,8,..,..,6,..,..,5,..,..
+Peru,PER,PISA: 15-year-olds by reading proficiency level (%). Level 2,LO.PISA.REA.2,..,..,14,..,..,..,..,..,..,..,..,22,..,..,25,..,..,27,..,..,26,..,..
+Peru,PER,PISA: 15-year-olds by reading proficiency level (%). Level 3,LO.PISA.REA.3,..,..,5,..,..,..,..,..,..,..,..,10,..,..,11,..,..,15,..,..,14,..,..
+Peru,PER,PISA: 15-year-olds by reading proficiency level (%). Level 4,LO.PISA.REA.4,..,..,1,..,..,..,..,..,..,..,..,3,..,..,3,..,..,4,..,..,5,..,..
+Peru,PER,PISA: 15-year-olds by reading proficiency level (%). Level 5,LO.PISA.REA.5,..,..,0,..,..,..,..,..,..,..,..,0,..,..,0,..,..,0,..,..,1,..,..
+Peru,PER,PISA: 15-year-olds by reading proficiency level (%). Level 6,LO.PISA.REA.6,..,..,0,..,..,..,..,..,..,..,..,0,..,..,0,..,..,0,..,..,0,..,..
+Peru,PER,PISA: 15-year-olds by science proficiency level (%). Below Level 1B,LO.PISA.SCI.0,..,..,..,..,..,..,..,..,..,..,..,10,..,..,7,..,..,2.78122503611815,..,..,2.68906646548492,..,..
+Peru,PER,PISA: 15-year-olds by science proficiency level (%). Level 1A,LO.PISA.SCI.1A,..,..,..,..,..,..,..,..,..,..,..,33.0243410479484,..,..,37.0185377534937,..,..,36.6705568696698,..,..,34.5411274999421,..,..
+Peru,PER,PISA: 15-year-olds by science proficiency level (%). Level 1B,LO.PISA.SCI.1B,..,..,..,..,..,..,..,..,..,..,..,25,..,..,24,..,..,19.0100083661907,..,..,17.2550635264839,..,..
+Peru,PER,PISA: 15-year-olds by science proficiency level (%). Level 2,LO.PISA.SCI.2,..,..,..,..,..,..,..,..,..,..,..,21.7000154434384,..,..,23.4832804956545,..,..,27.8769353051805,..,..,29.0148694425747,..,..
+Peru,PER,PISA: 15-year-olds by science proficiency level (%). Level 3,LO.PISA.SCI.3,..,..,..,..,..,..,..,..,..,..,..,7.9944617369697,..,..,7.04599830221744,..,..,11.496092822425,..,..,13.1607349288016,..,..
+Peru,PER,PISA: 15-year-olds by science proficiency level (%). Level 4,LO.PISA.SCI.4,..,..,..,..,..,..,..,..,..,..,..,1.7954357206221,..,..,0.958639850335459,..,..,2.04396932098543,..,..,3.12059780369769,..,..
+Peru,PER,PISA: 15-year-olds by science proficiency level (%). Level 5,LO.PISA.SCI.5,..,..,..,..,..,..,..,..,..,..,..,0.182327669193616,..,..,0.0373116266456464,..,..,0.121212279430463,..,..,0.213965856095711,..,..
+Peru,PER,PISA: 15-year-olds by science proficiency level (%). Level 6,LO.PISA.SCI.6,..,..,..,..,..,..,..,..,..,..,..,0,..,..,0,..,..,0,..,..,0.00457447691932676,..,..
+Peru,PER,PISA: Distribution of Mathematics Scores: 10th Percentile Score,LO.PISA.MAT.P10,..,..,156,..,..,..,..,..,..,..,..,251.698083813678,..,..,264.03644,..,..,283.2326,..,..,293.4686,..,..
+Peru,PER,PISA: Distribution of Mathematics Scores: 25th Percentile Score,LO.PISA.MAT.P25,..,..,220,..,..,..,..,..,..,..,..,303.279326997975,..,..,310.5546,..,..,329.0742,..,..,340.6364,..,..
+Peru,PER,PISA: Distribution of Mathematics Scores: 50th Percentile Score,LO.PISA.MAT.P50,..,..,292,..,..,..,..,..,..,..,..,365.107272239707,..,..,368.102547127356,..,..,384.0765,..,..,397.2037,..,..
+Peru,PER,PISA: Distribution of Mathematics Scores: 5th Percentile Score,LO.PISA.MAT.P05,..,..,116,..,..,..,..,..,..,..,..,222.191930207197,..,..,237.39678,..,..,254.4675,..,..,265.6873,..,..
+Peru,PER,PISA: Distribution of Mathematics Scores: 75th Percentile Score,LO.PISA.MAT.P75,..,..,363,..,..,..,..,..,..,..,..,424.248325284312,..,..,421.14814,..,..,442.4838,..,..,455.9333,..,..
+Peru,PER,PISA: Distribution of Mathematics Scores: 90th Percentile Score,LO.PISA.MAT.P90,..,..,431,..,..,..,..,..,..,..,..,479.880043620501,..,..,477.74574,..,..,495.1831,..,..,510.9351,..,..
+Peru,PER,PISA: Distribution of Mathematics Scores: 95th Percentile Score,LO.PISA.MAT.P95,..,..,470,..,..,..,..,..,..,..,..,515.851378719427,..,..,516.53684,..,..,525.8321,..,..,544.3417,..,..
+Peru,PER,PISA: Distribution of Reading Scores: 10th Percentile Score,LO.PISA.REA.P10,..,..,205.495999999998,..,..,..,..,..,..,..,..,241.498945646246,..,..,263.17132,..,..,280.7736,..,..,283.4213,..,..
+Peru,PER,PISA: Distribution of Reading Scores: 25th Percentile Score,LO.PISA.REA.P25,..,..,259.351999999993,..,..,..,..,..,..,..,..,302.252954008362,..,..,319.3316,..,..,332.9911,..,..,333.5818,..,..
+Peru,PER,PISA: Distribution of Reading Scores: 50th Percentile Score,LO.PISA.REA.P50,..,..,327.084842940491,..,..,..,..,..,..,..,..,369.695760262673,..,..,384.151223462193,..,..,397.89555,..,..,397.0845,..,..
+Peru,PER,PISA: Distribution of Reading Scores: 5th Percentile Score,LO.PISA.REA.P05,..,..,175,..,..,..,..,..,..,..,..,208.701890565352,..,..,231.28502,..,..,252.5445,..,..,256.3586,..,..
+Peru,PER,PISA: Distribution of Reading Scores: 75th Percentile Score,LO.PISA.REA.P75,..,..,392.275999999992,..,..,..,..,..,..,..,..,437.457280494456,..,..,447.28486,..,..,461.5912,..,..,462.777,..,..
+Peru,PER,PISA: Distribution of Reading Scores: 90th Percentile Score,LO.PISA.REA.P90,..,..,452.181999999989,..,..,..,..,..,..,..,..,495.59151063443,..,..,504.48782,..,..,513.9718,..,..,522.9885,..,..
+Peru,PER,PISA: Distribution of Reading Scores: 95th Percentile Score,LO.PISA.REA.P95,..,..,489,..,..,..,..,..,..,..,..,530.462515906199,..,..,539.58836,..,..,543.3753,..,..,558.1037,..,..
+Peru,PER,PISA: Distribution of Science Scores: 10th Percentile Score,LO.PISA.SCI.P10,..,..,221,..,..,..,..,..,..,..,..,255.856023871689,..,..,274.95338,..,..,301.4286,..,..,304.2456,..,..
+Peru,PER,PISA: Distribution of Science Scores: 25th Percentile Score,LO.PISA.SCI.P25,..,..,273,..,..,..,..,..,..,..,..,310.089518836255,..,..,320.51474,..,..,342.0189,..,..,347.0997,..,..
+Peru,PER,PISA: Distribution of Science Scores: 50th Percentile Score,LO.PISA.SCI.P50,..,..,333.340958888972,..,..,..,..,..,..,..,..,369.351771359662,..,..,373.113448374386,..,..,392.0942,..,..,400.1934,..,..
+Peru,PER,PISA: Distribution of Science Scores: 5th Percentile Score,LO.PISA.SCI.P05,..,..,187,..,..,..,..,..,..,..,..,224.748228273032,..,..,247.57554,..,..,277.8098,..,..,279.5433,..,..
+Peru,PER,PISA: Distribution of Science Scores: 75th Percentile Score,LO.PISA.SCI.P75,..,..,393,..,..,..,..,..,..,..,..,428.086534875046,..,..,424.972,..,..,448.1797,..,..,457.8264,..,..
+Peru,PER,PISA: Distribution of Science Scores: 90th Percentile Score,LO.PISA.SCI.P90,..,..,446,..,..,..,..,..,..,..,..,484.240954867587,..,..,474.56172,..,..,499.5644,..,..,510.9688,..,..
+Peru,PER,PISA: Distribution of Science Scores: 95th Percentile Score,LO.PISA.SCI.P95,..,..,481,..,..,..,..,..,..,..,..,519.060052219321,..,..,503.84186,..,..,529.2379,..,..,543.4583,..,..
+Peru,PER,PISA: Female 15-year-olds by mathematics proficiency level (%). Below Level 1,LO.PISA.MAT.0.FE,..,..,..,..,..,..,..,..,..,..,..,50.8852133933174,..,..,51.0571986447377,..,..,39.7578703317469,..,..,34.5969294353946,..,..
+Peru,PER,PISA: Female 15-year-olds by mathematics proficiency level (%). Level 1,LO.PISA.MAT.1.FE,..,..,..,..,..,..,..,..,..,..,..,25.7604403616135,..,..,26.4473580558507,..,..,28.6585203629476,..,..,28.9715125819442,..,..
+Peru,PER,PISA: Female 15-year-olds by mathematics proficiency level (%). Level 2,LO.PISA.MAT.2.FE,..,..,..,..,..,..,..,..,..,..,..,15.5588655438154,..,..,14.8471585317994,..,..,20.310681999749,..,..,23.2163558206049,..,..
+Peru,PER,PISA: Female 15-year-olds by mathematics proficiency level (%). Level 3,LO.PISA.MAT.3.FE,..,..,..,..,..,..,..,..,..,..,..,5.97378450065107,..,..,5.75592537958701,..,..,8.6631060839331,..,..,10.0975074260932,..,..
+Peru,PER,PISA: Female 15-year-olds by mathematics proficiency level (%). Level 4,LO.PISA.MAT.4.FE,..,..,..,..,..,..,..,..,..,..,..,1.53623052663217,..,..,1.47247024991759,..,..,2.3085112542709,..,..,2.74245759109551,..,..
+Peru,PER,PISA: Female 15-year-olds by mathematics proficiency level (%). Level 5,LO.PISA.MAT.5.FE,..,..,..,..,..,..,..,..,..,..,..,0.261094972561818,..,..,0.415334573917038,..,..,0.287060275918373,..,..,0.362047301849604,..,..
+Peru,PER,PISA: Female 15-year-olds by mathematics proficiency level (%). Level 6,LO.PISA.MAT.6.FE,..,..,..,..,..,..,..,..,..,..,..,0,..,..,0.00455456419047096,..,..,0.014249691434131,..,..,0.0131898430178839,..,..
+Peru,PER,PISA: Female 15-year-olds by reading proficiency level (%). Below Level 1C,LO.PISA.REA.0.B1C.FE,..,..,3,..,..,..,..,..,..,..,..,1,..,..,1,..,..,0,..,..,0,..,..
+Peru,PER,PISA: Female 15-year-olds by reading proficiency level (%). Level 1A,LO.PISA.REA.1A.FE,..,..,13,..,..,..,..,..,..,..,..,14,..,..,15,..,..,14,..,..,14,..,..
+Peru,PER,PISA: Female 15-year-olds by reading proficiency level (%). Level 1B,LO.PISA.REA.1B.FE,..,..,14,..,..,..,..,..,..,..,..,10,..,..,9,..,..,9,..,..,8,..,..
+Peru,PER,PISA: Female 15-year-olds by reading proficiency level (%). Level 1C,LO.PISA.REA.1C.FE,..,..,9,..,..,..,..,..,..,..,..,4,..,..,3,..,..,3,..,..,2,..,..
+Peru,PER,PISA: Female 15-year-olds by reading proficiency level (%). Level 2,LO.PISA.REA.2.FE,..,..,8,..,..,..,..,..,..,..,..,12,..,..,14,..,..,14,..,..,14,..,..
+Peru,PER,PISA: Female 15-year-olds by reading proficiency level (%). Level 3,LO.PISA.REA.3.FE,..,..,3,..,..,..,..,..,..,..,..,6,..,..,7,..,..,8,..,..,7,..,..
+Peru,PER,PISA: Female 15-year-olds by reading proficiency level (%). Level 4,LO.PISA.REA.4.FE,..,..,1,..,..,..,..,..,..,..,..,2,..,..,2,..,..,2,..,..,2,..,..
+Peru,PER,PISA: Female 15-year-olds by reading proficiency level (%). Level 5,LO.PISA.REA.5.FE,..,..,0,..,..,..,..,..,..,..,..,0,..,..,0,..,..,0,..,..,0,..,..
+Peru,PER,PISA: Female 15-year-olds by reading proficiency level (%). Level 6,LO.PISA.REA.6.FE,..,..,0,..,..,..,..,..,..,..,..,0,..,..,0,..,..,0,..,..,0,..,..
+Peru,PER,PISA: Female 15-year-olds by science proficiency level (%). Below Level 1B,LO.PISA.SCI.0.FE,..,..,..,..,..,..,..,..,..,..,..,11,..,..,8,..,..,3.19598984517007,..,..,3.35479247245102,..,..
+Peru,PER,PISA: Female 15-year-olds by science proficiency level (%). Level 1A,LO.PISA.SCI.1A.FE,..,..,..,..,..,..,..,..,..,..,..,32.6647460073831,..,..,36.6939378176471,..,..,37.3094414828054,..,..,35.5921875904804,..,..
+Peru,PER,PISA: Female 15-year-olds by science proficiency level (%). Level 1B,LO.PISA.SCI.1B.FE,..,..,..,..,..,..,..,..,..,..,..,25,..,..,24,..,..,20.23578208016,..,..,18.1371722425151,..,..
+Peru,PER,PISA: Female 15-year-olds by science proficiency level (%). Level 2,LO.PISA.SCI.2.FE,..,..,..,..,..,..,..,..,..,..,..,22.1062552803381,..,..,23.0679822181382,..,..,27.3346654531377,..,..,29.1065846167457,..,..
+Peru,PER,PISA: Female 15-year-olds by science proficiency level (%). Level 3,LO.PISA.SCI.3.FE,..,..,..,..,..,..,..,..,..,..,..,8.09149357447605,..,..,6.62103863506734,..,..,10.3275858202076,..,..,11.6879380513247,..,..
+Peru,PER,PISA: Female 15-year-olds by science proficiency level (%). Level 4,LO.PISA.SCI.4.FE,..,..,..,..,..,..,..,..,..,..,..,1.34011363404311,..,..,0.973864808279755,..,..,1.51408428038094,..,..,2.02516942557649,..,..
+Peru,PER,PISA: Female 15-year-olds by science proficiency level (%). Level 5,LO.PISA.SCI.5.FE,..,..,..,..,..,..,..,..,..,..,..,0,..,..,0.0436384974110382,..,..,0.0824510381383027,..,..,0.0929792785376458,..,..
+Peru,PER,PISA: Female 15-year-olds by science proficiency level (%). Level 6,LO.PISA.SCI.6.FE,..,..,..,..,..,..,..,..,..,..,..,0,..,..,0,..,..,0,..,..,0.00317632236893919,..,..
+Peru,PER,PISA: Male 15-year-olds by mathematics proficiency level (%). Below Level 1,LO.PISA.MAT.0.MA,..,..,..,..,..,..,..,..,..,..,..,44.4673100905885,..,..,42.6411104257025,..,..,35.7230941354441,..,..,29.5872707529765,..,..
+Peru,PER,PISA: Male 15-year-olds by mathematics proficiency level (%). Level 1,LO.PISA.MAT.1.MA,..,..,..,..,..,..,..,..,..,..,..,26.0118715845573,..,..,28.8472631362019,..,..,28.2030566207822,..,..,27.6452793620837,..,..
+Peru,PER,PISA: Male 15-year-olds by mathematics proficiency level (%). Level 2,LO.PISA.MAT.2.MA,..,..,..,..,..,..,..,..,..,..,..,18.2157819537962,..,..,17.4884802850086,..,..,21.6695385536409,..,..,22.9149000817569,..,..
+Peru,PER,PISA: Male 15-year-olds by mathematics proficiency level (%). Level 3,LO.PISA.MAT.3.MA,..,..,..,..,..,..,..,..,..,..,..,7.70466261017666,..,..,7.61107183086876,..,..,10.8648390045903,..,..,13.0855671348151,..,..
+Peru,PER,PISA: Male 15-year-olds by mathematics proficiency level (%). Level 4,LO.PISA.MAT.4.MA,..,..,..,..,..,..,..,..,..,..,..,2.64181920782755,..,..,2.67760454016342,..,..,3.06642731956377,..,..,5.44049183745742,..,..
+Peru,PER,PISA: Male 15-year-olds by mathematics proficiency level (%). Level 5,LO.PISA.MAT.5.MA,..,..,..,..,..,..,..,..,..,..,..,0.799664390761062,..,..,0.684328379970075,..,..,0.454712479205916,..,..,1.20020810278546,..,..
+Peru,PER,PISA: Male 15-year-olds by mathematics proficiency level (%). Level 6,LO.PISA.MAT.6.MA,..,..,..,..,..,..,..,..,..,..,..,0.158890162292803,..,..,0.0501414020847306,..,..,0.0183318867729548,..,..,0.126282728124938,..,..
+Peru,PER,PISA: Male 15-year-olds by reading proficiency level (%). Below Level 1C,LO.PISA.REA.0.B1C.MA,..,..,4,..,..,..,..,..,..,..,..,2,..,..,1,..,..,0,..,..,0,..,..
+Peru,PER,PISA: Male 15-year-olds by reading proficiency level (%). Level 1A,LO.PISA.REA.1A.MA,..,..,13,..,..,..,..,..,..,..,..,15,..,..,15,..,..,15,..,..,15,..,..
+Peru,PER,PISA: Male 15-year-olds by reading proficiency level (%). Level 1B,LO.PISA.REA.1B.MA,..,..,15,..,..,..,..,..,..,..,..,12,..,..,11,..,..,10,..,..,11,..,..
+Peru,PER,PISA: Male 15-year-olds by reading proficiency level (%). Level 1C,LO.PISA.REA.1C.MA,..,..,9,..,..,..,..,..,..,..,..,6,..,..,5,..,..,3,..,..,3,..,..
+Peru,PER,PISA: Male 15-year-olds by reading proficiency level (%). Level 2,LO.PISA.REA.2.MA,..,..,7,..,..,..,..,..,..,..,..,10,..,..,11,..,..,13,..,..,12,..,..
+Peru,PER,PISA: Male 15-year-olds by reading proficiency level (%). Level 3,LO.PISA.REA.3.MA,..,..,2,..,..,..,..,..,..,..,..,4,..,..,5,..,..,7,..,..,7,..,..
+Peru,PER,PISA: Male 15-year-olds by reading proficiency level (%). Level 4,LO.PISA.REA.4.MA,..,..,0,..,..,..,..,..,..,..,..,1,..,..,1,..,..,2,..,..,3,..,..
+Peru,PER,PISA: Male 15-year-olds by reading proficiency level (%). Level 5,LO.PISA.REA.5.MA,..,..,0,..,..,..,..,..,..,..,..,0,..,..,0,..,..,0,..,..,0,..,..
+Peru,PER,PISA: Male 15-year-olds by reading proficiency level (%). Level 6,LO.PISA.REA.6.MA,..,..,0,..,..,..,..,..,..,..,..,0,..,..,0,..,..,0,..,..,0,..,..
+Peru,PER,PISA: Male 15-year-olds by science proficiency level (%). Below Level 1B,LO.PISA.SCI.0.MA,..,..,..,..,..,..,..,..,..,..,..,10,..,..,6,..,..,2.37041591113731,..,..,2.04971341248358,..,..
+Peru,PER,PISA: Male 15-year-olds by science proficiency level (%). Level 1A,LO.PISA.SCI.1A.MA,..,..,..,..,..,..,..,..,..,..,..,33.3767913085939,..,..,37.3620000027513,..,..,36.0377654101294,..,..,33.5317054993869,..,..
+Peru,PER,PISA: Male 15-year-olds by science proficiency level (%). Level 1B,LO.PISA.SCI.1B.MA,..,..,..,..,..,..,..,..,..,..,..,25,..,..,24,..,..,17.7959250691742,..,..,16.4078998363588,..,..
+Peru,PER,PISA: Male 15-year-olds by science proficiency level (%). Level 2,LO.PISA.SCI.2.MA,..,..,..,..,..,..,..,..,..,..,..,21.3018471701086,..,..,23.9227115144463,..,..,28.4140334353963,..,..,28.9267875950891,..,..
+Peru,PER,PISA: Male 15-year-olds by science proficiency level (%). Level 3,LO.PISA.SCI.3.MA,..,..,..,..,..,..,..,..,..,..,..,7.89935782128097,..,..,7.49565212837299,..,..,12.6534555702728,..,..,14.5751864752523,..,..
+Peru,PER,PISA: Male 15-year-olds by science proficiency level (%). Level 4,LO.PISA.SCI.4.MA,..,..,..,..,..,..,..,..,..,..,..,2.24171103031509,..,..,0.9425301789433,..,..,2.56880075586232,..,..,4.17263042758123,..,..
+Peru,PER,PISA: Male 15-year-olds by science proficiency level (%). Level 5,LO.PISA.SCI.5.MA,..,..,..,..,..,..,..,..,..,..,..,0.293077724182194,..,..,0.0306171051012001,..,..,0.159603848027619,..,..,0.330159510729167,..,..
+Peru,PER,PISA: Male 15-year-olds by science proficiency level (%). Level 6,LO.PISA.SCI.6.MA,..,..,..,..,..,..,..,..,..,..,..,0,..,..,0,..,..,0,..,..,0.00591724311894058,..,..
+Peru,PER,PISA: Mean performance on the mathematics scale,LO.PISA.MAT,..,..,292,..,..,..,..,..,..,..,..,365.107272239707,..,..,368.102547127356,..,..,386.5606,..,..,399.837674812822,..,..
+Peru,PER,PISA: Mean performance on the mathematics scale. Female,LO.PISA.MAT.FE,..,..,285,..,..,..,..,..,..,..,..,356.214817158784,..,..,358.921352628586,..,..,381.79715645039,..,..,391.508138149931,..,..
+Peru,PER,PISA: Mean performance on the mathematics scale. Male,LO.PISA.MAT.MA,..,..,301,..,..,..,..,..,..,..,..,373.823043475395,..,..,377.817255496599,..,..,391.278591104649,..,..,407.837234150718,..,..
+Peru,PER,PISA: Mean performance on the reading scale,LO.PISA.REA,..,..,327.084842940491,..,..,..,..,..,..,..,..,369.695760262673,..,..,384.151223462193,..,..,397.5414,..,..,400.51370593417,..,..
+Peru,PER,PISA: Mean performance on the reading scale. Female,LO.PISA.REA.FE,..,..,330.492418898531,..,..,..,..,..,..,..,..,380.883441667421,..,..,394.700707684305,..,..,401.424690050047,..,..,405.878946949625,..,..
+Peru,PER,PISA: Mean performance on the reading scale. Male,LO.PISA.REA.MA,..,..,323.938993789359,..,..,..,..,..,..,..,..,358.730366466045,..,..,372.988714849909,..,..,393.695225017837,..,..,395.361010700057,..,..
+Peru,PER,PISA: Mean performance on the science scale,LO.PISA.SCI,..,..,333.340958888972,..,..,..,..,..,..,..,..,369.351771359662,..,..,373.113448374386,..,..,396.6836,..,..,404.215601330196,..,..
+Peru,PER,PISA: Mean performance on the science scale. Female,LO.PISA.SCI.FE,..,..,328.123919002663,..,..,..,..,..,..,..,..,367.073215990165,..,..,370.256959202589,..,..,391.680958629118,..,..,397.444071310272,..,..
+Peru,PER,PISA: Mean performance on the science scale. Male,LO.PISA.SCI.MA,..,..,339.119923344947,..,..,..,..,..,..,..,..,371.585054200879,..,..,376.135926469986,..,..,401.638627955373,..,..,410.718874968941,..,..
+Uruguay,URY,PISA: 15-year-olds by mathematics proficiency level (%). Below Level 1,LO.PISA.MAT.0,..,..,..,..,..,26.261517252,..,..,24.4326494295713,..,..,22.9429227472402,..,..,29.2445246158776,..,..,25.4412088191043,..,..,24.6052015869676,..,..
+Uruguay,URY,PISA: 15-year-olds by mathematics proficiency level (%). Level 1,LO.PISA.MAT.1,..,..,..,..,..,21.821299572,..,..,21.6810272658321,..,..,24.6282104540403,..,..,26.5398813913762,..,..,26.9872689380152,..,..,26.1004254453658,..,..
+Uruguay,URY,PISA: 15-year-olds by mathematics proficiency level (%). Level 2,LO.PISA.MAT.2,..,..,..,..,..,24.172890871,..,..,24.2644155448308,..,..,25.1461480830476,..,..,23.0199735934972,..,..,24.3659351358639,..,..,26.4584195918912,..,..
+Uruguay,URY,PISA: 15-year-olds by mathematics proficiency level (%). Level 3,LO.PISA.MAT.3,..,..,..,..,..,16.779680449,..,..,18.2811220872484,..,..,17.0078868883905,..,..,14.4090440732078,..,..,15.3461450820481,..,..,15.7941287356853,..,..
+Uruguay,URY,PISA: 15-year-olds by mathematics proficiency level (%). Level 4,LO.PISA.MAT.4,..,..,..,..,..,8.1558684972,..,..,8.15741613587279,..,..,7.85799552101471,..,..,5.41420185376561,..,..,6.16677719533836,..,..,6.01218968306004,..,..
+Uruguay,URY,PISA: 15-year-olds by mathematics proficiency level (%). Level 5,LO.PISA.MAT.5,..,..,..,..,..,2.3285439437,..,..,2.62742800700229,..,..,2.08276280438894,..,..,1.2514037687192,..,..,1.50501447218107,..,..,0.970699253049381,..,..
+Uruguay,URY,PISA: 15-year-olds by mathematics proficiency level (%). Level 6,LO.PISA.MAT.6,..,..,..,..,..,0.4801994142,..,..,0.555941529642394,..,..,0.334073501877702,..,..,0.1209707035565,..,..,0.187650357448953,..,..,0.0589357039806876,..,..
+Uruguay,URY,PISA: 15-year-olds by reading proficiency level (%). Below Level 1C,LO.PISA.REA.0.B1C,..,..,..,..,..,3,..,..,4,..,..,1,..,..,1,..,..,0,..,..,0,..,..
+Uruguay,URY,PISA: 15-year-olds by reading proficiency level (%). Level 1A,LO.PISA.REA.1A,..,..,..,..,..,20,..,..,21,..,..,24,..,..,26,..,..,24,..,..,24,..,..
+Uruguay,URY,PISA: 15-year-olds by reading proficiency level (%). Level 1B,LO.PISA.REA.1B,..,..,..,..,..,11,..,..,14,..,..,12,..,..,15,..,..,12,..,..,14,..,..
+Uruguay,URY,PISA: 15-year-olds by reading proficiency level (%). Level 1C,LO.PISA.REA.1C,..,..,..,..,..,6,..,..,7,..,..,4,..,..,5,..,..,3,..,..,4,..,..
+Uruguay,URY,PISA: 15-year-olds by reading proficiency level (%). Level 2,LO.PISA.REA.2,..,..,..,..,..,24,..,..,23,..,..,28,..,..,29,..,..,28,..,..,28,..,..
+Uruguay,URY,PISA: 15-year-olds by reading proficiency level (%). Level 3,LO.PISA.REA.3,..,..,..,..,..,20,..,..,18,..,..,20,..,..,17,..,..,21,..,..,20,..,..
+Uruguay,URY,PISA: 15-year-olds by reading proficiency level (%). Level 4,LO.PISA.REA.4,..,..,..,..,..,11,..,..,9,..,..,8,..,..,6,..,..,9,..,..,8,..,..
+Uruguay,URY,PISA: 15-year-olds by reading proficiency level (%). Level 5,LO.PISA.REA.5,..,..,..,..,..,4,..,..,3,..,..,2,..,..,1,..,..,2,..,..,1,..,..
+Uruguay,URY,PISA: 15-year-olds by reading proficiency level (%). Level 6,LO.PISA.REA.6,..,..,..,..,..,1,..,..,0,..,..,0,..,..,0,..,..,0,..,..,0,..,..
+Uruguay,URY,PISA: 15-year-olds by science proficiency level (%). Below Level 1B,LO.PISA.SCI.0,..,..,..,..,..,..,..,..,4,..,..,4,..,..,5,..,..,1.16070136027957,..,..,2.08198810603695,..,..
+Uruguay,URY,PISA: 15-year-olds by science proficiency level (%). Level 1A,LO.PISA.SCI.1A,..,..,..,..,..,21.5588217383534,..,..,25.4061356409105,..,..,25.628885799858,..,..,27.239412660299,..,..,28.4090712731946,..,..,28.6047941083379,..,..
+Uruguay,URY,PISA: 15-year-olds by science proficiency level (%). Level 1B,LO.PISA.SCI.1B,..,..,..,..,..,..,..,..,13,..,..,13,..,..,15,..,..,11.2176331497026,..,..,13.1883621325908,..,..
+Uruguay,URY,PISA: 15-year-olds by science proficiency level (%). Level 2,LO.PISA.SCI.2,..,..,..,..,..,25.753963847856,..,..,29.7832611173443,..,..,29.2643123209721,..,..,29.3157911206176,..,..,30.2594482919339,..,..,30.5541612699791,..,..
+Uruguay,URY,PISA: 15-year-olds by science proficiency level (%). Level 3,LO.PISA.SCI.3,..,..,..,..,..,20.871312970439,..,..,19.7265368526917,..,..,19.5357152416881,..,..,17.0763137270353,..,..,20.2828976616828,..,..,18.7368808232254,..,..
+Uruguay,URY,PISA: 15-year-olds by science proficiency level (%). Level 4,LO.PISA.SCI.4,..,..,..,..,..,10.6503566621572,..,..,6.90070211461898,..,..,7.0994127771576,..,..,5.64502009893644,..,..,7.39735251398332,..,..,6.11942698916439,..,..
+Uruguay,URY,PISA: 15-year-olds by science proficiency level (%). Level 5,LO.PISA.SCI.5,..,..,..,..,..,2.88730297050909,..,..,1.31993829557414,..,..,1.40813466620328,..,..,0.996220664988712,..,..,1.21732694914252,..,..,0.683504434778823,..,..
+Uruguay,URY,PISA: 15-year-olds by science proficiency level (%). Level 6,LO.PISA.SCI.6,..,..,..,..,..,0,..,..,0.121927490971082,..,..,0.102094587618967,..,..,0.0485231338386971,..,..,0.0555688000805947,..,..,0.0308821358866387,..,..
+Uruguay,URY,PISA: Distribution of Mathematics Scores: 10th Percentile Score,LO.PISA.MAT.P10,..,..,..,..,..,291.30704,..,..,296.393519239757,..,..,310.024926000935,..,..,297.48404,..,..,308.8399,..,..,307.3725,..,..
+Uruguay,URY,PISA: Distribution of Mathematics Scores: 25th Percentile Score,LO.PISA.MAT.P25,..,..,..,..,..,353.34164,..,..,359.845770369216,..,..,363.740458015267,..,..,347.33602,..,..,356.6034,..,..,358.7624,..,..
+Uruguay,URY,PISA: Distribution of Mathematics Scores: 50th Percentile Score,LO.PISA.MAT.P50,..,..,..,..,..,422.19987928,..,..,426.79904085015,..,..,426.723772663418,..,..,409.291567937716,..,..,414.7852,..,..,418.5199,..,..
+Uruguay,URY,PISA: Distribution of Mathematics Scores: 5th Percentile Score,LO.PISA.MAT.P05,..,..,..,..,..,255.27342,..,..,261.310172924131,..,..,278.24427480916,..,..,266.5758,..,..,280.8402,..,..,276.3719,..,..
+Uruguay,URY,PISA: Distribution of Mathematics Scores: 75th Percentile Score,LO.PISA.MAT.P75,..,..,..,..,..,490.66834,..,..,495.318585449447,..,..,489.591673764352,..,..,470.01868,..,..,476.9768,..,..,476.5255,..,..
+Uruguay,URY,PISA: Distribution of Mathematics Scores: 90th Percentile Score,LO.PISA.MAT.P90,..,..,..,..,..,549.97662,..,..,551.199563794984,..,..,546.432466116218,..,..,525.97756,..,..,532.4725,..,..,528.6852,..,..
+Uruguay,URY,PISA: Distribution of Mathematics Scores: 95th Percentile Score,LO.PISA.MAT.P95,..,..,..,..,..,583.40864,..,..,587.015111388067,..,..,577.87677037663,..,..,558.24116,..,..,565.48925,..,..,558.0259,..,..
+Uruguay,URY,PISA: Distribution of Reading Scores: 10th Percentile Score,LO.PISA.REA.P10,..,..,..,..,..,272.23608,..,..,253.103836363636,..,..,296.700893911447,..,..,285.18674,..,..,310.6325,..,..,299.2175,..,..
+Uruguay,URY,PISA: Distribution of Reading Scores: 25th Percentile Score,LO.PISA.REA.P25,..,..,..,..,..,355.31518,..,..,333.226109090909,..,..,359.032194146519,..,..,347.8029,..,..,368.1074,..,..,360.059,..,..
+Uruguay,URY,PISA: Distribution of Reading Scores: 50th Percentile Score,LO.PISA.REA.P50,..,..,..,..,..,434.14975809,..,..,412.516732697916,..,..,425.813358651984,..,..,411.348919041115,..,..,435.5863,..,..,427.3886,..,..
+Uruguay,URY,PISA: Distribution of Reading Scores: 5th Percentile Score,LO.PISA.REA.P05,..,..,..,..,..,223.87744,..,..,203.889592727273,..,..,257.496691510635,..,..,248.16772,..,..,279.5655,..,..,267.4816,..,..
+Uruguay,URY,PISA: Distribution of Reading Scores: 75th Percentile Score,LO.PISA.REA.P75,..,..,..,..,..,518.34282,..,..,497.31246,..,..,494.715633521178,..,..,477.4278,..,..,504.0072,..,..,495.0389,..,..
+Uruguay,URY,PISA: Distribution of Reading Scores: 90th Percentile Score,LO.PISA.REA.P90,..,..,..,..,..,587.44404,..,..,564.781654545455,..,..,552.165079076531,..,..,533.62038,..,..,562.5257,..,..,552.2648,..,..
+Uruguay,URY,PISA: Distribution of Reading Scores: 95th Percentile Score,LO.PISA.REA.P95,..,..,..,..,..,628.24512,..,..,603.699243636364,..,..,584.267230720283,..,..,564.25306,..,..,597.2367,..,..,585.0551,..,..
+Uruguay,URY,PISA: Distribution of Science Scores: 10th Percentile Score,LO.PISA.SCI.P10,..,..,..,..,..,295.82714,..,..,306.056736062565,..,..,303.412905632227,..,..,293.00632,..,..,326.0399,..,..,314.1402,..,..
+Uruguay,URY,PISA: Distribution of Science Scores: 25th Percentile Score,LO.PISA.SCI.P25,..,..,..,..,..,362.93194,..,..,363.478474364815,..,..,362.383439015293,..,..,352.03284,..,..,371.6503,..,..,364.044,..,..
+Uruguay,URY,PISA: Distribution of Science Scores: 50th Percentile Score,LO.PISA.SCI.P50,..,..,..,..,..,438.37301269,..,..,428.133884760905,..,..,427.214249705468,..,..,415.842935489846,..,..,431.2759,..,..,423.3278,..,..
+Uruguay,URY,PISA: Distribution of Science Scores: 5th Percentile Score,LO.PISA.SCI.P05,..,..,..,..,..,257.04578,..,..,273.5879973863,..,..,268.078701205063,..,..,255.85602,..,..,301.1421,..,..,287.0269,..,..
+Uruguay,URY,PISA: Distribution of Science Scores: 75th Percentile Score,LO.PISA.SCI.P75,..,..,..,..,..,515.55184,..,..,492.775295296773,..,..,493.267437523312,..,..,480.21262,..,..,495.792,..,..,485.9233,..,..
+Uruguay,URY,PISA: Distribution of Science Scores: 90th Percentile Score,LO.PISA.SCI.P90,..,..,..,..,..,578.80758,..,..,549.693497732131,..,..,551.41738157404,..,..,538.41852,..,..,552.0393,..,..,540.3626,..,..
+Uruguay,URY,PISA: Distribution of Science Scores: 95th Percentile Score,LO.PISA.SCI.P95,..,..,..,..,..,612.79572,..,..,583.430400813902,..,..,583.942558746736,..,..,571.50316,..,..,582.8884,..,..,572.5661,..,..
+Uruguay,URY,PISA: Female 15-year-olds by mathematics proficiency level (%). Below Level 1,LO.PISA.MAT.0.FE,..,..,..,..,..,27.747530237,..,..,26.0966430077211,..,..,24.147162331112,..,..,30.3085971745422,..,..,26.5604875750818,..,..,24.9479588634352,..,..
+Uruguay,URY,PISA: Female 15-year-olds by mathematics proficiency level (%). Level 1,LO.PISA.MAT.1.FE,..,..,..,..,..,22.733280858,..,..,21.9074554297342,..,..,26.0678907667115,..,..,28.1484247130954,..,..,28.3963704851673,..,..,27.4528385352988,..,..
+Uruguay,URY,PISA: Female 15-year-olds by mathematics proficiency level (%). Level 2,LO.PISA.MAT.2.FE,..,..,..,..,..,24.058965564,..,..,24.3488340272465,..,..,25.3690225162085,..,..,23.1269076794376,..,..,25.1275303430831,..,..,27.1508937608071,..,..
+Uruguay,URY,PISA: Female 15-year-olds by mathematics proficiency level (%). Level 3,LO.PISA.MAT.3.FE,..,..,..,..,..,16.144403762,..,..,18.2824123340517,..,..,16.0121429197597,..,..,13.2278430333196,..,..,14.00737502224,..,..,14.78000918253,..,..
+Uruguay,URY,PISA: Female 15-year-olds by mathematics proficiency level (%). Level 4,LO.PISA.MAT.4.FE,..,..,..,..,..,7.4139089888,..,..,7.22114160907085,..,..,6.62930065075552,..,..,4.38356734806787,..,..,4.90904337988493,..,..,4.91713063905376,..,..
+Uruguay,URY,PISA: Female 15-year-olds by mathematics proficiency level (%). Level 5,LO.PISA.MAT.5.FE,..,..,..,..,..,1.7193984887,..,..,1.828980843747,..,..,1.6017395178431,..,..,0.768888724218074,..,..,0.923120343117338,..,..,0.708781046999984,..,..
+Uruguay,URY,PISA: Female 15-year-olds by mathematics proficiency level (%). Level 6,LO.PISA.MAT.6.FE,..,..,..,..,..,0.1825121015,..,..,0.314532748428684,..,..,0.172741297609736,..,..,0.0357713273191536,..,..,0.0760728514254915,..,..,0.0423879718753112,..,..
+Uruguay,URY,PISA: Female 15-year-olds by reading proficiency level (%). Below Level 1C,LO.PISA.REA.0.B1C.FE,..,..,..,..,..,1,..,..,1,..,..,0,..,..,0,..,..,0,..,..,0,..,..
+Uruguay,URY,PISA: Female 15-year-olds by reading proficiency level (%). Level 1A,LO.PISA.REA.1A.FE,..,..,..,..,..,10,..,..,10,..,..,12,..,..,13,..,..,12,..,..,12,..,..
+Uruguay,URY,PISA: Female 15-year-olds by reading proficiency level (%). Level 1B,LO.PISA.REA.1B.FE,..,..,..,..,..,5,..,..,6,..,..,5,..,..,6,..,..,5,..,..,6,..,..
+Uruguay,URY,PISA: Female 15-year-olds by reading proficiency level (%). Level 1C,LO.PISA.REA.1C.FE,..,..,..,..,..,2,..,..,3,..,..,1,..,..,2,..,..,1,..,..,1,..,..
+Uruguay,URY,PISA: Female 15-year-olds by reading proficiency level (%). Level 2,LO.PISA.REA.2.FE,..,..,..,..,..,13,..,..,13,..,..,16,..,..,17,..,..,15,..,..,16,..,..
+Uruguay,URY,PISA: Female 15-year-olds by reading proficiency level (%). Level 3,LO.PISA.REA.3.FE,..,..,..,..,..,11,..,..,11,..,..,13,..,..,11,..,..,12,..,..,12,..,..
+Uruguay,URY,PISA: Female 15-year-olds by reading proficiency level (%). Level 4,LO.PISA.REA.4.FE,..,..,..,..,..,7,..,..,6,..,..,5,..,..,4,..,..,5,..,..,5,..,..
+Uruguay,URY,PISA: Female 15-year-olds by reading proficiency level (%). Level 5,LO.PISA.REA.5.FE,..,..,..,..,..,3,..,..,2,..,..,1,..,..,1,..,..,1,..,..,1,..,..
+Uruguay,URY,PISA: Female 15-year-olds by reading proficiency level (%). Level 6,LO.PISA.REA.6.FE,..,..,..,..,..,1,..,..,0,..,..,0,..,..,0,..,..,0,..,..,0,..,..
+Uruguay,URY,PISA: Female 15-year-olds by science proficiency level (%). Below Level 1B,LO.PISA.SCI.0.FE,..,..,..,..,..,..,..,..,3,..,..,3,..,..,4,..,..,1.24541148195509,..,..,2.0488449757371,..,..
+Uruguay,URY,PISA: Female 15-year-olds by science proficiency level (%). Level 1A,LO.PISA.SCI.1A.FE,..,..,..,..,..,22.3815192109866,..,..,25.0420786815788,..,..,26.4083461524304,..,..,28.2688519808598,..,..,28.9997491277579,..,..,29.2329184094317,..,..
+Uruguay,URY,PISA: Female 15-year-olds by science proficiency level (%). Level 1B,LO.PISA.SCI.1B.FE,..,..,..,..,..,..,..,..,12,..,..,13,..,..,14,..,..,11.1722875629704,..,..,12.9201376749551,..,..
+Uruguay,URY,PISA: Female 15-year-olds by science proficiency level (%). Level 2,LO.PISA.SCI.2.FE,..,..,..,..,..,26.3419349356183,..,..,31.6631501718599,..,..,30.4231440078197,..,..,30.5098565182505,..,..,32.0211920622112,..,..,31.4239021691797,..,..
+Uruguay,URY,PISA: Female 15-year-olds by science proficiency level (%). Level 3,LO.PISA.SCI.3.FE,..,..,..,..,..,21.3244001551861,..,..,20.5105203175524,..,..,19.4095509934526,..,..,17.1182975725581,..,..,19.658735653042,..,..,18.5332084871557,..,..
+Uruguay,URY,PISA: Female 15-year-olds by science proficiency level (%). Level 4,LO.PISA.SCI.4.FE,..,..,..,..,..,9.96142134219931,..,..,6.47534449397883,..,..,6.75734073720285,..,..,4.94548038001671,..,..,6.06125184529972,..,..,5.23818336961719,..,..
+Uruguay,URY,PISA: Female 15-year-olds by science proficiency level (%). Level 5,LO.PISA.SCI.5.FE,..,..,..,..,..,2.33619550551723,..,..,0.922386776831195,..,..,1.13105445616473,..,..,0.748352475605651,..,..,0.835485652530125,..,..,0.572663714193881,..,..
+Uruguay,URY,PISA: Female 15-year-olds by science proficiency level (%). Level 6,LO.PISA.SCI.6.FE,..,..,..,..,..,0,..,..,0.0593851435354246,..,..,0,..,..,0.0210652772613997,..,..,0.00588661423370344,..,..,0.0301411997295176,..,..
+Uruguay,URY,PISA: Male 15-year-olds by mathematics proficiency level (%). Below Level 1,LO.PISA.MAT.0.MA,..,..,..,..,..,24.701344229,..,..,22.6889822462696,..,..,21.5862895337089,..,..,28.0379925446731,..,..,24.2086949275578,..,..,24.2318275612526,..,..
+Uruguay,URY,PISA: Male 15-year-olds by mathematics proficiency level (%). Level 1,LO.PISA.MAT.1.MA,..,..,..,..,..,20.863805516,..,..,21.443757504725,..,..,23.0063420524408,..,..,24.7159840548901,..,..,25.4356114780755,..,..,24.6272082316516,..,..
+Uruguay,URY,PISA: Male 15-year-olds by mathematics proficiency level (%). Level 2,LO.PISA.MAT.2.MA,..,..,..,..,..,24.292501663,..,..,24.1759550246791,..,..,24.8950694251772,..,..,22.8987230235605,..,..,23.5272909039245,..,..,25.7040902576861,..,..
+Uruguay,URY,PISA: Male 15-year-olds by mathematics proficiency level (%). Level 3,LO.PISA.MAT.3.MA,..,..,..,..,..,17.44666086,..,..,18.279770062193,..,..,18.1296398668758,..,..,15.7483859494363,..,..,16.8203557623527,..,..,16.8988343863433,..,..
+Uruguay,URY,PISA: Male 15-year-olds by mathematics proficiency level (%). Level 4,LO.PISA.MAT.4.MA,..,..,..,..,..,8.934855775,..,..,9.13852038313869,..,..,9.2421787787432,..,..,6.58281913901438,..,..,7.55175336069074,..,..,7.20506473408713,..,..
+Uruguay,URY,PISA: Male 15-year-olds by mathematics proficiency level (%). Level 5,LO.PISA.MAT.5.MA,..,..,..,..,..,2.9680890326,..,..,3.46410558463852,..,..,2.62465843358924,..,..,1.79851859776799,..,..,2.14577763654047,..,..,1.25601326886998,..,..
+Uruguay,URY,PISA: Male 15-year-olds by mathematics proficiency level (%). Level 6,LO.PISA.MAT.6.MA,..,..,..,..,..,0.7927429247,..,..,0.808909194356134,..,..,0.515821909464886,..,..,0.217576690657587,..,..,0.310515930858254,..,..,0.0769615601092911,..,..
+Uruguay,URY,PISA: Male 15-year-olds by reading proficiency level (%). Below Level 1C,LO.PISA.REA.0.B1C.MA,..,..,..,..,..,2,..,..,3,..,..,1,..,..,1,..,..,0,..,..,0,..,..
+Uruguay,URY,PISA: Male 15-year-olds by reading proficiency level (%). Level 1A,LO.PISA.REA.1A.MA,..,..,..,..,..,10,..,..,11,..,..,12,..,..,13,..,..,12,..,..,12,..,..
+Uruguay,URY,PISA: Male 15-year-olds by reading proficiency level (%). Level 1B,LO.PISA.REA.1B.MA,..,..,..,..,..,7,..,..,8,..,..,8,..,..,9,..,..,7,..,..,8,..,..
+Uruguay,URY,PISA: Male 15-year-olds by reading proficiency level (%). Level 1C,LO.PISA.REA.1C.MA,..,..,..,..,..,4,..,..,5,..,..,3,..,..,4,..,..,2,..,..,3,..,..
+Uruguay,URY,PISA: Male 15-year-olds by reading proficiency level (%). Level 2,LO.PISA.REA.2.MA,..,..,..,..,..,11,..,..,11,..,..,12,..,..,12,..,..,12,..,..,13,..,..
+Uruguay,URY,PISA: Male 15-year-olds by reading proficiency level (%). Level 3,LO.PISA.REA.3.MA,..,..,..,..,..,8,..,..,7,..,..,8,..,..,7,..,..,9,..,..,9,..,..
+Uruguay,URY,PISA: Male 15-year-olds by reading proficiency level (%). Level 4,LO.PISA.REA.4.MA,..,..,..,..,..,5,..,..,3,..,..,3,..,..,2,..,..,4,..,..,4,..,..
+Uruguay,URY,PISA: Male 15-year-olds by reading proficiency level (%). Level 5,LO.PISA.REA.5.MA,..,..,..,..,..,2,..,..,1,..,..,1,..,..,0,..,..,1,..,..,1,..,..
+Uruguay,URY,PISA: Male 15-year-olds by reading proficiency level (%). Level 6,LO.PISA.REA.6.MA,..,..,..,..,..,0,..,..,0,..,..,0,..,..,0,..,..,0,..,..,0,..,..
+Uruguay,URY,PISA: Male 15-year-olds by science proficiency level (%). Below Level 1B,LO.PISA.SCI.0.MA,..,..,..,..,..,..,..,..,5,..,..,5,..,..,6,..,..,1.0674212893749,..,..,2.11809174215049,..,..
+Uruguay,URY,PISA: Male 15-year-olds by science proficiency level (%). Level 1A,LO.PISA.SCI.1A.MA,..,..,..,..,..,20.6950672378152,..,..,25.7876239958987,..,..,24.7507866100515,..,..,26.0721505732338,..,..,27.7586357518465,..,..,27.9205626855485,..,..
+Uruguay,URY,PISA: Male 15-year-olds by science proficiency level (%). Level 1B,LO.PISA.SCI.1B.MA,..,..,..,..,..,..,..,..,14,..,..,13,..,..,15,..,..,11.2675662564192,..,..,13.4805457051024,..,..
+Uruguay,URY,PISA: Male 15-year-olds by science proficiency level (%). Level 2,LO.PISA.SCI.2.MA,..,..,..,..,..,25.1366498410249,..,..,27.813361175632,..,..,27.9588332648733,..,..,27.9618625885562,..,..,28.3194725185924,..,..,29.6067308778072,..,..
+Uruguay,URY,PISA: Male 15-year-olds by science proficiency level (%). Level 3,LO.PISA.SCI.3.MA,..,..,..,..,..,20.395614298716,..,..,18.9050155091725,..,..,19.6778452727955,..,..,17.0287090259429,..,..,20.9702048602847,..,..,18.9587461642879,..,..
+Uruguay,URY,PISA: Male 15-year-olds by science proficiency level (%). Level 4,LO.PISA.SCI.4.MA,..,..,..,..,..,11.3736735593014,..,..,7.34642626525078,..,..,7.4847732129365,..,..,6.43821516734164,..,..,8.86862374633948,..,..,7.07938758068536,..,..
+Uruguay,URY,PISA: Male 15-year-olds by science proficiency level (%). Level 5,LO.PISA.SCI.5.MA,..,..,..,..,..,3.46591366156093,..,..,1.73652496153628,..,..,1.72027871194374,..,..,1.27727379194594,..,..,1.63779834639502,..,..,0.804245988348316,..,..
+Uruguay,URY,PISA: Male 15-year-olds by science proficiency level (%). Level 6,LO.PISA.SCI.6.MA,..,..,..,..,..,0.561634583757043,..,..,0.187464425862061,..,..,0.138834015943969,..,..,0.0796570864035587,..,..,0.110277230747814,..,..,0.0316892560698574,..,..
+Uruguay,URY,PISA: Mean performance on the mathematics scale,LO.PISA.MAT,..,..,..,..,..,422.19987928,..,..,426.79904085015,..,..,426.723772663418,..,..,409.291567937716,..,..,417.9919,..,..,417.66161727969,..,..
+Uruguay,URY,PISA: Mean performance on the mathematics scale. Female,LO.PISA.MAT.FE,..,..,..,..,..,416.30251888,..,..,420.486505331439,..,..,420.940134351344,..,..,403.945623980608,..,..,411.50235791659,..,..,413.673417332256,..,..
+Uruguay,URY,PISA: Mean performance on the mathematics scale. Male,LO.PISA.MAT.MA,..,..,..,..,..,428.39154967,..,..,433.413826611308,..,..,433.239316525534,..,..,415.353234299267,..,..,425.137936626561,..,..,422.006062669955,..,..
+Uruguay,URY,PISA: Mean performance on the reading scale,LO.PISA.REA,..,..,..,..,..,434.14975809,..,..,412.516732697916,..,..,425.813358651984,..,..,411.348919041115,..,..,436.5721,..,..,427.117618198351,..,..
+Uruguay,URY,PISA: Mean performance on the reading scale. Female,LO.PISA.REA.FE,..,..,..,..,..,453.31831466,..,..,434.578215584637,..,..,445.424598485964,..,..,427.980512859511,..,..,447.719604067348,..,..,438.125089011239,..,..
+Uruguay,URY,PISA: Mean performance on the reading scale. Male,LO.PISA.REA.MA,..,..,..,..,..,414.02458746,..,..,389.398924895245,..,..,403.72036347592,..,..,392.49066433494,..,..,424.296889214077,..,..,415.126906483332,..,..
+Uruguay,URY,PISA: Mean performance on the science scale,LO.PISA.SCI,..,..,..,..,..,438.37301269,..,..,428.133884760905,..,..,427.214249705468,..,..,415.842935489846,..,..,435.363,..,..,425.812676624091,..,..
+Uruguay,URY,PISA: Mean performance on the science scale. Female,LO.PISA.SCI.FE,..,..,..,..,..,436.31773653,..,..,429.601703735008,..,..,427.753077773104,..,..,416.347370866392,..,..,431.307662704891,..,..,424.210612312253,..,..
+Uruguay,URY,PISA: Mean performance on the science scale. Male,LO.PISA.SCI.MA,..,..,..,..,..,440.53085818,..,..,426.595785209454,..,..,426.607234238838,..,..,415.270965604237,..,..,439.828512435105,..,..,427.557845122713,..,..
+"Venezuela, RB",VEN,PISA: 15-year-olds by mathematics proficiency level (%). Below Level 1,LO.PISA.MAT.0,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: 15-year-olds by mathematics proficiency level (%). Level 1,LO.PISA.MAT.1,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: 15-year-olds by mathematics proficiency level (%). Level 2,LO.PISA.MAT.2,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: 15-year-olds by mathematics proficiency level (%). Level 3,LO.PISA.MAT.3,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: 15-year-olds by mathematics proficiency level (%). Level 4,LO.PISA.MAT.4,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: 15-year-olds by mathematics proficiency level (%). Level 5,LO.PISA.MAT.5,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: 15-year-olds by mathematics proficiency level (%). Level 6,LO.PISA.MAT.6,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: 15-year-olds by reading proficiency level (%). Below Level 1C,LO.PISA.REA.0.B1C,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: 15-year-olds by reading proficiency level (%). Level 1A,LO.PISA.REA.1A,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: 15-year-olds by reading proficiency level (%). Level 1B,LO.PISA.REA.1B,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: 15-year-olds by reading proficiency level (%). Level 1C,LO.PISA.REA.1C,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: 15-year-olds by reading proficiency level (%). Level 2,LO.PISA.REA.2,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: 15-year-olds by reading proficiency level (%). Level 3,LO.PISA.REA.3,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: 15-year-olds by reading proficiency level (%). Level 4,LO.PISA.REA.4,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: 15-year-olds by reading proficiency level (%). Level 5,LO.PISA.REA.5,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: 15-year-olds by reading proficiency level (%). Level 6,LO.PISA.REA.6,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: 15-year-olds by science proficiency level (%). Below Level 1B,LO.PISA.SCI.0,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: 15-year-olds by science proficiency level (%). Level 1A,LO.PISA.SCI.1A,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: 15-year-olds by science proficiency level (%). Level 1B,LO.PISA.SCI.1B,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: 15-year-olds by science proficiency level (%). Level 2,LO.PISA.SCI.2,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: 15-year-olds by science proficiency level (%). Level 3,LO.PISA.SCI.3,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: 15-year-olds by science proficiency level (%). Level 4,LO.PISA.SCI.4,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: 15-year-olds by science proficiency level (%). Level 5,LO.PISA.SCI.5,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: 15-year-olds by science proficiency level (%). Level 6,LO.PISA.SCI.6,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: Distribution of Mathematics Scores: 10th Percentile Score,LO.PISA.MAT.P10,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: Distribution of Mathematics Scores: 25th Percentile Score,LO.PISA.MAT.P25,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: Distribution of Mathematics Scores: 50th Percentile Score,LO.PISA.MAT.P50,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: Distribution of Mathematics Scores: 5th Percentile Score,LO.PISA.MAT.P05,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: Distribution of Mathematics Scores: 75th Percentile Score,LO.PISA.MAT.P75,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: Distribution of Mathematics Scores: 90th Percentile Score,LO.PISA.MAT.P90,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: Distribution of Mathematics Scores: 95th Percentile Score,LO.PISA.MAT.P95,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: Distribution of Reading Scores: 10th Percentile Score,LO.PISA.REA.P10,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: Distribution of Reading Scores: 25th Percentile Score,LO.PISA.REA.P25,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: Distribution of Reading Scores: 50th Percentile Score,LO.PISA.REA.P50,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: Distribution of Reading Scores: 5th Percentile Score,LO.PISA.REA.P05,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: Distribution of Reading Scores: 75th Percentile Score,LO.PISA.REA.P75,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: Distribution of Reading Scores: 90th Percentile Score,LO.PISA.REA.P90,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: Distribution of Reading Scores: 95th Percentile Score,LO.PISA.REA.P95,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: Distribution of Science Scores: 10th Percentile Score,LO.PISA.SCI.P10,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: Distribution of Science Scores: 25th Percentile Score,LO.PISA.SCI.P25,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: Distribution of Science Scores: 50th Percentile Score,LO.PISA.SCI.P50,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: Distribution of Science Scores: 5th Percentile Score,LO.PISA.SCI.P05,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: Distribution of Science Scores: 75th Percentile Score,LO.PISA.SCI.P75,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: Distribution of Science Scores: 90th Percentile Score,LO.PISA.SCI.P90,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: Distribution of Science Scores: 95th Percentile Score,LO.PISA.SCI.P95,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: Female 15-year-olds by mathematics proficiency level (%). Below Level 1,LO.PISA.MAT.0.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: Female 15-year-olds by mathematics proficiency level (%). Level 1,LO.PISA.MAT.1.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: Female 15-year-olds by mathematics proficiency level (%). Level 2,LO.PISA.MAT.2.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: Female 15-year-olds by mathematics proficiency level (%). Level 3,LO.PISA.MAT.3.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: Female 15-year-olds by mathematics proficiency level (%). Level 4,LO.PISA.MAT.4.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: Female 15-year-olds by mathematics proficiency level (%). Level 5,LO.PISA.MAT.5.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: Female 15-year-olds by mathematics proficiency level (%). Level 6,LO.PISA.MAT.6.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: Female 15-year-olds by reading proficiency level (%). Below Level 1C,LO.PISA.REA.0.B1C.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: Female 15-year-olds by reading proficiency level (%). Level 1A,LO.PISA.REA.1A.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: Female 15-year-olds by reading proficiency level (%). Level 1B,LO.PISA.REA.1B.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: Female 15-year-olds by reading proficiency level (%). Level 1C,LO.PISA.REA.1C.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: Female 15-year-olds by reading proficiency level (%). Level 2,LO.PISA.REA.2.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: Female 15-year-olds by reading proficiency level (%). Level 3,LO.PISA.REA.3.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: Female 15-year-olds by reading proficiency level (%). Level 4,LO.PISA.REA.4.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: Female 15-year-olds by reading proficiency level (%). Level 5,LO.PISA.REA.5.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: Female 15-year-olds by reading proficiency level (%). Level 6,LO.PISA.REA.6.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: Female 15-year-olds by science proficiency level (%). Below Level 1B,LO.PISA.SCI.0.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: Female 15-year-olds by science proficiency level (%). Level 1A,LO.PISA.SCI.1A.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: Female 15-year-olds by science proficiency level (%). Level 1B,LO.PISA.SCI.1B.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: Female 15-year-olds by science proficiency level (%). Level 2,LO.PISA.SCI.2.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: Female 15-year-olds by science proficiency level (%). Level 3,LO.PISA.SCI.3.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: Female 15-year-olds by science proficiency level (%). Level 4,LO.PISA.SCI.4.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: Female 15-year-olds by science proficiency level (%). Level 5,LO.PISA.SCI.5.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: Female 15-year-olds by science proficiency level (%). Level 6,LO.PISA.SCI.6.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: Male 15-year-olds by mathematics proficiency level (%). Below Level 1,LO.PISA.MAT.0.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: Male 15-year-olds by mathematics proficiency level (%). Level 1,LO.PISA.MAT.1.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: Male 15-year-olds by mathematics proficiency level (%). Level 2,LO.PISA.MAT.2.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: Male 15-year-olds by mathematics proficiency level (%). Level 3,LO.PISA.MAT.3.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: Male 15-year-olds by mathematics proficiency level (%). Level 4,LO.PISA.MAT.4.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: Male 15-year-olds by mathematics proficiency level (%). Level 5,LO.PISA.MAT.5.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: Male 15-year-olds by mathematics proficiency level (%). Level 6,LO.PISA.MAT.6.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: Male 15-year-olds by reading proficiency level (%). Below Level 1C,LO.PISA.REA.0.B1C.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: Male 15-year-olds by reading proficiency level (%). Level 1A,LO.PISA.REA.1A.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: Male 15-year-olds by reading proficiency level (%). Level 1B,LO.PISA.REA.1B.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: Male 15-year-olds by reading proficiency level (%). Level 1C,LO.PISA.REA.1C.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: Male 15-year-olds by reading proficiency level (%). Level 2,LO.PISA.REA.2.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: Male 15-year-olds by reading proficiency level (%). Level 3,LO.PISA.REA.3.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: Male 15-year-olds by reading proficiency level (%). Level 4,LO.PISA.REA.4.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: Male 15-year-olds by reading proficiency level (%). Level 5,LO.PISA.REA.5.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: Male 15-year-olds by reading proficiency level (%). Level 6,LO.PISA.REA.6.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: Male 15-year-olds by science proficiency level (%). Below Level 1B,LO.PISA.SCI.0.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: Male 15-year-olds by science proficiency level (%). Level 1A,LO.PISA.SCI.1A.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: Male 15-year-olds by science proficiency level (%). Level 1B,LO.PISA.SCI.1B.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: Male 15-year-olds by science proficiency level (%). Level 2,LO.PISA.SCI.2.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: Male 15-year-olds by science proficiency level (%). Level 3,LO.PISA.SCI.3.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: Male 15-year-olds by science proficiency level (%). Level 4,LO.PISA.SCI.4.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: Male 15-year-olds by science proficiency level (%). Level 5,LO.PISA.SCI.5.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: Male 15-year-olds by science proficiency level (%). Level 6,LO.PISA.SCI.6.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: Mean performance on the mathematics scale,LO.PISA.MAT,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: Mean performance on the mathematics scale. Female,LO.PISA.MAT.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: Mean performance on the mathematics scale. Male,LO.PISA.MAT.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: Mean performance on the reading scale,LO.PISA.REA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: Mean performance on the reading scale. Female,LO.PISA.REA.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: Mean performance on the reading scale. Male,LO.PISA.REA.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: Mean performance on the science scale,LO.PISA.SCI,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: Mean performance on the science scale. Female,LO.PISA.SCI.FE,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Venezuela, RB",VEN,PISA: Mean performance on the science scale. Male,LO.PISA.SCI.MA,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+Data from database: Education Statistics - All Indicators,,,,,,,,,,,,,,,,,,,,,,,,,,
+Last Updated: 12/20/2020,,,,,,,,,,,,,,,,,,,,,,,,,,
