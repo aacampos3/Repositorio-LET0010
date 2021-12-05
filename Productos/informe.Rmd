@@ -1,23 +1,30 @@
 ---
 title: "Informe"
-output: html_document
+output:
+  html_document: default
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+library(gt)
+library(tidyverse)
+library(broom)
+library(kableExtra)
 ```
 
 # Introducción
 
-A partir del año 2006, se llevaron en a cabo en Chile una serie de protestas  exigiendo reformas educativas. Dichas protestas fueron conocidas como "Revolución de los pingüinos", debido al uniforme escolar que se utiliza en el país. Entre sus principales demandas se encontraba prohibir el lucro en la educación privada y que el Estado brinde educación pública, gratuita y de calidad (Fuente: BBC). Fruto de estas protestas, en el año 2011 se crea la Agencia de Calidad de la Educación.
+A partir del año 2006, se llevó a cabo en Chile una serie de protestas exigiendo reformas educativas. Dichas protestas fueron conocidas como "Revolución de los pingüinos", debido al uniforme escolar que se utiliza en el país. Entre sus principales demandas se encontraba prohibir el lucro en la educación privada y que el Estado brinde educación pública, gratuita y de calidad (Fuente: BBC). Fruto de estas protestas, en el año 2011 se crea la Agencia de Calidad de la Educación. Este servicio público tiene como objetivo "evaluar, informar y orientar al sistema educativo para contribuir al mejoramiento de la calidad y equidad de las oportunidades educativas de todos los estudiantes de Chile" (Fuente: Agencia de Calidad de la Educación).
 
-Este servicio público tiene como objetivo "evaluar, informar y orientar al sistema educativo para contribuir al mejoramiento de la calidad y equidad de las oportunidades educativas de todos los estudiantes de Chile" (Fuente: Agencia de Calidad de la Educación). Con respecto al primer objetivo, se puede mencionar que en Chile se realizan diferentes pruebas para medir los aprendizajes en diversas áreas curriculares como, por ejemplo, Compresión de Lectura, Matemática o Ciencias Naturales. Algunas de estas evaluaciones pueden ser nacionales, como el Simce, o parte de estudios internacionales como lo son las pruebas PISA, PIRLS, TIMSS, ERCE, entre otras.
+Con respecto al primer objetivo, se puede mencionar que en Chile se realizan diferentes pruebas para medir los aprendizajes en diversas áreas curriculares como, por ejemplo, Compresión de Lectura, Matemática o Ciencias Naturales. Algunas de estas evaluaciones pueden ser nacionales, como el Simce, o parte de estudios internacionales como las pruebas PISA, PIRLS, TIMSS, ERCE, entre otras.
 
-De esta manera, se utilizarán las evaluaciones internacionales para medir la calidad en esta área en el país, a través del tiempo. Por ende, con esta variable, además, se podrá medir el impacto en reformas en educación, medido a través del gasto público en este sector.Pues para un gobierno que debe atender las necesidades de todo un país, no sólo educación, es importante invertir eficientemente el dinero.
+De esta manera, se utilizarán las evaluaciones internacionales para medir la calidad en educación en el país, a través del tiempo. Por ende, con estas pruebas, además, se podrá determinar el impacto en reformas en educación, medido a través del gasto público en este sector. Pues para un gobierno que debe atender las necesidades de todo un país, no sólo educación, es importante invertir eficientemente el dinero.
 
-En este informe se investigará la relación entre los resultados de las pruebas internacionales PISA y el gasto en educación secundaria en Chile entre los años 2001 y 2018. Para ello se disponen datos sobre los resultados de dichas evaluación, por categoría y año, en ese periodo, además del gasto público en educación del país de diferentes áreas, por ejemplo, según el nivel educacional.
+En este informe se investigará la relación entre los resultados de las pruebas internacionales PISA y el gasto en educación en Chile entre los años 2001 y 2018. Para ello se analizarán datos sobre los resultados en las distintas áreas medidas en esa evaluación y sobre el gato público en educación.
 
-El informe contiene cuatro secciones. En la primera parte, se detallarán las pruebas PISA, en particular, las áreas de conocimiento que evalúan y cómo se interpretan los resultados obtenidos. En la segunda sección, se explicará las metodologías que se utilizaron para el desarrollo del informe, además se mostrarán, brevemente, los datos utilizados. Luego, se presentarán los resultados obtenidos a partir del análisis. Por último, en la conclusión, se realizará una proyección para futuras pruebas PISA.
+El informe contiene cuatro secciones. En la primera parte, se detallarán las pruebas PISA, en particular, las áreas de conocimiento que evalúan y cómo se interpretan los resultados obtenidos. En la segunda sección, se mostrarán, brevemente, los datos utilizados. Además, se explicará las metodologías que se utilizaron para el desarrollo del informe. Luego, se presentarán los resultados obtenidos a partir del análisis, tanto descriptivo como regresión. Por último, en la conclusión, se realizará una proyección para futuras pruebas PISA.
+
+
 
 # Antecedentes
 
@@ -25,35 +32,94 @@ El informe contiene cuatro secciones. En la primera parte, se detallarán las pr
 
 El programa para la Evaluación Internacional de Alumnos de la OCDE, conocido como PISA por sus siglas en inglés (Programme for International Student Assessment) es un proyecto que tiene por objetivo evaluar la formación de los alumnos cuando llegan al final de la etapa de enseñanza obligatoria a los 15 años.
 
-Para cumplir este objetivo PISA realiza pruebas cada tres años, éstas cubren las áreas de lectura, matemáticas y competencias científicas. El enfánsis de la evaluación está puesto en el dominio de los procesos, el entendimiento de los conceptos y la habilidad de actuar o funcionar en varias situaciones dentro de cada dominio.
+Para cumplir este objetivo, PISA realiza pruebas cada tres años. Éstas cubren las áreas de lectura, matemáticas y competencias científicas. El enfásis de la evaluación está puesto en el dominio de los procesos, el entendimiento de los conceptos y la habilidad de actuar o funcionar en varias situaciones dentro de cada dominio.
 
-Los resultados son reportados como puntajes y niveles de desempeño. Se establecen escalas para los puntajes para cada asignatura, diseñadas para mostrar las compentencias generales. Además, en teoría no existe un puntaje máximo o mínimo, pues los resultados se escalan para ajustarse a distribuciones aproximadamente normales, con media 500 puntos y desviación estándar de 100 puntos aproximadamente.[^1]. Luego de calificar al alumno, su puntaje se puede ubicar en una escala adecuada, denominada niveles de desempeño. Para matemática y ciencias se establecen seis niveles de logro y para lenguajes son siete.
+Los resultados son reportados como puntajes y niveles de desempeño. Se establecen escalas para los puntajes para cada asignatura, diseñadas para mostrar las compentencias generales. Además, en teoría no existe un puntaje máximo o mínimo, pues los resultados se escalan para ajustarse a distribuciones aproximadamente normales, con media 500 puntos y desviación estándar de 100 puntos aproximadamente.[^1]. Luego de calificar al alumno, su puntaje se puede ubicar en una escala adecuada, denominada niveles de desempeño. Para matemática y ciencias se establecen seis niveles de logro y para lectura son siete.
 
-Finalmente, las pruebas PISA no entregan información colectiva sobre para todas las asignaturas combinadas, por el contrario, da una puntación por cada área. Además, se suele utilizar el puntaje medio por asignatura para clasificar a los países. Sin embargo, no es posible asignar una clasificación exacta a cada país en función del puntaje medio, pues se utiliza una muestra (entre 4.500 y 10.000 estudiantes por país) y debido a la inceridumbre estadística sólo es posible obtener un rango de posiciones (límite inferior o superior del ranking) donde se puede encontrar un país.
+Finalmente, las pruebas PISA no entregan información colectiva sobre todas las asignaturas combinadas, por el contrario, da una puntación por cada área. Además, se suele utilizar el puntaje medio por asignatura para clasificar a los países. Sin embargo, no es posible asignar una clasificación exacta a cada país en función del puntaje medio, pues se utiliza una muestra (entre 4.500 y 10.000 estudiantes por país) y debido a la inceridumbre estadística solo es posible obtener un rango de posiciones (límite inferior o superior del ranking) donde se puede encontrar un país.
 
 [^1]: Extraído desde [PISA](https://www.oecd.org/pisa/pisafaq/)
 
 # Datos
 
-Para este informe se utilizaron datos de dos bases diferentes desde The World Bank[^2]. El primer archivo ```expenditures_explanation.csv``` contiene datos sobre diferentes variables relacionadas con gastos en educación en Chile. Para este informe se utilizaron las variables "Gastos en educación como porcentaje del gasto público total", además de "Gasto público en educación secundaria inferior como porcentaje del PIB", también se consideran otros niveles educacionales como primaria, preescolar, secundaria y secundaria superior.
+Para este informe se utilizaron datos de dos bases diferentes disponibles desde The World Bank[^2]. El primer archivo ```expenditures_explanation.csv``` contiene datos sobre diferentes variables relacionadas con gastos en educación en Chile. Para este informe se utilizaron las variables "Gastos en educación como porcentaje del gasto público total", además de "Gasto público en educación secundaria inferior como porcentaje del PIB". También se consideran otros niveles educacionales como primaria, preescolar, secundaria y secundaria superior.
 
-El segundo, llamado ```learning_outcomes.csv```, contiene datos los puntajes obtenidos en el país en diferentes pruebas internacionales, como las evaluaciones LLECE, PIIAC, TIMSS, PISA, entre otras. En este trabajo se utizaron los puntajes PISA como el rendimiento medio en la escala de las áreas matemática, lectura y ciencia.
+El segundo archivo, llamado ```learning_outcomes.csv```, contiene datos sobre los puntajes obtenidos en el país en diferentes pruebas internacionales, como las evaluaciones LLECE, PIIAC, TIMSS, PISA, entre otras. Para este trabajo se utizaron los puntajes PISA, específicamente, el rendimiento medio en la escala de las áreas matemática, lectura y ciencia.
 
 Para ambas bases de datos, se transponen las columnas que representan los años, y se sintetiza la información en dos columnas, la primera con los años y la segunda con la información que posee la dicha celda. Finalmente, se seleccionan las variables de interés y se filtran los datos para que no existan celdas sin valores.
+
+```{r, echo = FALSE, message=FALSE, warning=FALSE}
+source(here::here("codigo/limpieza_puntajes_pisa.R"), 
+       local = knitr::knit_global())
+
+source(here::here("codigo/limpieza_gastos-chile.R"), 
+       local = knitr::knit_global())
+
+par(mfrow = c(1,2))
+
+data.frame(variable = names(puntajes_arreglo),
+           descripcion = c(
+             "País",
+             "Código país",
+             "Variable",
+             "ID variable",
+             "Puntaje",
+             "Año"
+           )) %>% 
+  gt()
+
+data.frame(variable = names(gastos_arreglo),
+           descripcion = c(
+             "País",
+             "Código país",
+             "Variable",
+             "ID variable",
+             "Puntaje",
+             "Año"
+           )) %>% 
+  gt()
+
+```
+
+## Datos sudamérica
+
+Los datos utilizados que se utilizaron de los archivos ```expenditures_sa.csv``` y ```learning_outcomes_sa.csv```. Éstas contienen información sobre los gatos en educación y resultados de pruebas internacionales, respectivamente, por país. Para obtener los resultados, primero en ambas tablas se transponen las columnas que poseen los años, donde se obtienen dos columnas una que representa el año y otra que posee el valor de dicha variable. Luego se filtran ambas tablas según las variables de interés. Para los gastos corresponde a la variable "Gasto como porcentaje del PIB" y para los resultados el puntaje promedio en las prueba PISA en las áreas de matemática, lectura y ciencias. Después, se filtran las columnas para que no tenga valores nulos, se unen las tablas según país y año,y se seleccionan las columnas de interés. Finalmente, las variables de los puntajes se transponen para que los valores están en las columnas.
+
+```{r, message=FALSE, warning=FALSE, echo = FALSE}
+source(here::here("codigo/intento_lm.R"), 
+       local = knitr::knit_global())
+
+data.frame(variable = names(gastos_resultados),
+           descripcion = c(
+             "País",
+             "Código país",
+             "Año",
+             "Gasto educación",
+             "Puntaje Matemática",
+             "Puntaje Lectura",
+             "Puntaje Ciencia"
+           )) %>% 
+  gt()
+```
+
 
 [^2]: Extraído desde [The World Bank](https://datatopics.worldbank.org/education/)
 
 # Desarrollo
 
+## Análisis descriptivo
+
 Uno de los objetivos de la revolución pingüina es la calidad en la educación. Sin embargo, el gobierno tiene que atender las demandas de todo el país, por lo que no puede destinar todo el dinero a educación, existen otras áreas que igualmente se necesita invertir. Entonces, es importante utilizar eficientemente los recursos destinados en cada sector.
 
-Una forma de medir el dinero que destina al Estado en educación es el gasto público en este sector como porcentaje del gasto público total. Se utiliza esta variable, pues permite ver el cambio en el gasto público sin considerar el gasto privado en este sector. Además, es posible comparar en diferentes años sin que sea afectado por el valor de la moneda. Podemos ver la evolución de esta variable en la siguiente figura:
+Una forma de medir el dinero que destina el Estado en educación es el gasto público en este sector como porcentaje del gasto público total. Se utiliza esta variable, pues permite ver el cambio en el gasto público sin considerar el gasto privado en este sector. Además, es posible comparar en diferentes años sin que sea afectado por el valor de la moneda. En la siguiente figura podemos ver la evoluación de est variable.:
 
 ```{r, echo = FALSE, out.width="85%", fig.align='center'}
 knitr::include_graphics(here::here("figuras/lineas_gasto-educacion_chile.jpeg"))
 ```
 
-En el gráfico anterior se puede apreciar que, en Chile, en general, ha aumentado el gasto en educación entre los años 1993 y 2017, en comparación con el gasto público total. Además, entre los años 2003 y 2006 disminuyó el gasto en educación de manera prolongada, pero desde que inició la "Revolución Pingüina", nuevamente comenzó aumentar esta variable llegando al año 2017 a 21.3%, lo que muestra que para el Estado ha adquirido mayor importancia la inversión en educacación, pues cada vez más ocupa una mayor proporción en el gasto público.
+En el gráfico anterior se puede apreciar que, en general, ha aumentado el gasto en educación entre los años 1993 y 2017, en comparación con el gasto público total. Además, entre los años 2003 y 2006 disminuyó el gasto en educación de manera prolongada, pero desde que inició la "Revolución Pingüina", nuevamente comenzó aumentar esta variable llegando al año 2017 a 21.3%, lo que muestra que para el Estado ha adquirido mayor importancia la inversión en educacación, pues cada vez más ocupa una mayor proporción en el gasto público.
+
+En el gráfico anterior se puede apreciar que, en general, entre los años 1993 y 2017 ah aumentado el gasto en educación recpecto al gasto público total. Además, entre los años 2003 y 2006 disminuyó el gasto en educación de manera prolongada, pero desde que inició la "Revolución Pingüina", nuevamente comenzó aumentar esta variable llegando al año 2017 a 21.3%, lo que muestra que para el Estado ha adquirido mayor importancia la inversión en educacación, pues cada vez más ocupa una mayor proporción en el gasto público.
 
 No obstante, con la variable anterior no se tiene informacion sobre proporción del gasto público en esta área recibe cada nivel educacional, es decir, no se puede determinar si se invierte más en educación preescolar o secundaria. Para ello se utilizará el gasto en educación como porcentaje del PIB, en los niveles preescolar, primaria y secundaria. Así, se puede comparar la inversión en cada nivel para un mismo año. Los resultados se pueden ver en el siguiente gráfico:
 
@@ -74,3 +140,67 @@ knitr::include_graphics(here::here("figuras/lineas_puntaje_pisa.jpeg"))
 ```
 
 En el gráfico anterior se observa que los puntajes han mejorado desde los años 2000 hasta 2009, luego para Ciencias y Matemática los resultados se mantuvieron constantes, y para Lectura, los puntajes tuvieron variaciones entre 2009 y 2015. Finalmente, las tres categorias disminuyeron los puntajes del 2018, en comparación al año 2015. Entonces, podemos que desde  2009 no se aprecian mejoras significativas en el aprendizaje de los alumnos, puesto que la media por área de conocimiento se ha mantandio o disminuido.
+
+## Análisis de regresión
+
+Para analizar la relación entre el gasto público en educación y calidad se utilizará la correlación entre las variables (describir variables), pues la correlación mide el grado de asociasión lineal entre éstas. Para ello, se utilizará la matriz de correlación, los resultados los podemos ver en la siguiente tabla.
+
+```{r, message=FALSE, warning=FALSE, echo=FALSE}
+
+a <- gastos_resultados %>% 
+  select(-`Country Name`, -anio,-`Country Code`)
+
+tabla <- cor(a) %>% round(4) %>% as.data.frame()
+tabla %>% gt(rownames_to_stub = TRUE)
+#g <- matriz_cor[,1] %>% as.numeric() %>% round(3)
+#m <- matriz_cor[,2] %>% as.numeric() %>% round(3)
+#r <- matriz_cor[,3] %>% as.numeric() %>% round(3)
+#s <- matriz_cor[,4] %>% as.numeric() %>% round(3)
+## matriz_cor = cbind(c("", names(matriz_cor)))
+
+```
+
+Como gasto en educación es la variable que posee mayor correlación con (...). Luego, se realizará el modelo lineal simple
+
+```{r, message=FALSE, warning=FALSE, echo=FALSE}
+modelo <- lm(rea ~ gasto_educacion, data = a)
+
+tidy(modelo) %>%
+  mutate("valor estimado" = round(estimate, 3)) %>% 
+  mutate("error estándar" = round(std.error, 3)) %>% 
+  mutate("estadístico F" = round(statistic, 3)) %>% 
+  mutate("coeficiente" = term) %>% 
+  mutate("valor-p" = p.value) %>% 
+  select(coeficiente, `valor estimado`, `error estándar`,
+         `estadístico F`, `valor-p`) %>% 
+  gt() %>% 
+  fmt_scientific(
+    columns=vars(`valor-p`),
+    decimals = 3
+  )
+```
+
+
+```{r}
+gastos_resultados %>% ggplot(aes(gasto_educacion, rea))+
+  geom_point() +
+  theme_minimal()+
+  labs(title="Gráfico de dispersión gasto en eduación y puntajes PISA lectura",
+       x = "Gasto en educación como porcentaje del PIB")+
+  scale_x_continuous(labels = scales::percent_format(scale = 1))
+
+```
+
+## Conclusión
+
+## Referencias
+
+Richard Iannone, Joe Cheng and Barret
+  Schloerke (2021). gt: Easily Create
+  Presentation-Ready Display Tables. R
+  package version 0.3.1.
+  https://CRAN.R-project.org/package=gt
+
+  
+  
+  
