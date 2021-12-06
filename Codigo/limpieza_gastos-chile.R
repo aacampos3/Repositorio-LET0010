@@ -24,3 +24,4 @@ gastos_arreglo <- pivot_longer(
          `Series Code` == 'UIS.XGDP.56.FSGOV') %>% 
   mutate(code_year, year = as.numeric(substr(code_year, 1, 5))) %>% 
   select(-code_year)
+

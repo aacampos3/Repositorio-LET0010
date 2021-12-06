@@ -30,8 +30,8 @@ gastos_gdp %>%
   gghighlight(nombre == 'Secundaria', use_direct_label = FALSE) +
   scale_y_continuous(labels = scales::percent_format(scale = 1),
                        limits = c(0, NA))+
-  labs(title = "Evolución del gasto público en educación entre los años 1998 y 2017",
-       subtitle =  "Por nivel educacional como porcentaje del PIB",
+  labs(title = "Evolución del gasto público en educación secundaria como porcentaje del PIN entre los años 1998 y 2017",
+       subtitle =  "En comparación a otros niveles educacionales",
        x = "Año",
        y = "Gasto en educación",
        caption = "Elaboración propia a partir de datos de https://datatopics.worldbank.org/education/")+
